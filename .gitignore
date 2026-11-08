@@ -39,3 +39,8 @@ dist/
 /outputs/**/search_trace.jsonl
 /outputs/**/pages.jsonl
 /INTERVIEW_PREP.md
+
+# Local presentation notes (kept off GitHub)
+/DEMO.md
+/INTERVIEW_PREP.md
+/outputs/fresh_verify*/

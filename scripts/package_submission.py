@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def main() -> None:
-    root_files = ['.env.example', '.gitignore', 'README.md', 'DEMO.md', 'LICENSE',
+    root_files = ['.env.example', '.gitignore', 'README.md', 'LICENSE',
                   'config.py', 'config.yaml', 'main.py', 'schemas.py',
                   'requirements.txt', 'requirements.lock.txt', 'data/.gitkeep', 'index/.gitkeep']
     outputs = ['Bid1.json', 'Bid2.json', 'Bid1.trace.jsonl', 'Bid2.trace.jsonl',

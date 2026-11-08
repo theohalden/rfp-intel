@@ -189,7 +189,6 @@ This makes paid calls to the configured OpenAI model. Public input PDFs and inde
 - `outputs/Bid1.trace.jsonl`, `outputs/Bid2.trace.jsonl`: complete extraction traces; `outputs/trace.jsonl` aggregates runs.
 - `outputs/qa_log.md`, `outputs/qa_log.json`: ten live cited Q&A examples.
 - `eval/`: evaluation questions, runner, measured report.
-- `DEMO.md`: timed 5–10 minute walkthrough and explanation guide.
 - `tests/`: parsing, chunking, fusion, persistence, filters, deadline ordering, citation guards, actual extraction-graph feedback, Q&A scope/fallback, and API validation.
 
 To regenerate the saved Q&A examples, run `python scripts/run_qa_examples.py` (paid LLM calls). After both extractions and the Q&A run, `python scripts/verify_outputs.py` audits the 20-field contracts, full trace completion, exact citation provenance, and required cross-bid evidence. `python scripts/package_submission.py` creates `../rfp-intel-submission.zip` from an explicit deliverable list and checks for configured API-key text. The ZIP excludes original bid files, model weights, the index, `.env`, and `.venv`.

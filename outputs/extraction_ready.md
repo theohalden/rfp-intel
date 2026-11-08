@@ -6,7 +6,7 @@ The LangGraph workflow uses four parallel specialists, separate per-field/per-sc
 
 The ReAct Q&A tool enforces user filters, retrieves each relevant bid for comparisons, checks exact source spans, reviews claims individually, and requires evidence from both bids for cross-bid answers. Unsupported facts are omitted or reported as Not found in documents.
 
-91 offline tests pass. Known limitations and submission steps are listed in README.md, verification.md, and DEMO.md. Confidence is uncalibrated; provenance and workflow validation do not establish perfect semantic accuracy.
+91 offline tests pass. Known limitations and submission steps are listed in README.md and verification.md. Confidence is uncalibrated; provenance and workflow validation do not establish perfect semantic accuracy.
 
 ## Independent public-document follow-up
 
