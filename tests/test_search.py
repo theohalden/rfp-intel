@@ -160,3 +160,19 @@ def test_reranker_sees_end_of_long_table_without_splitting_result() -> None:
         chunk_id='one', kind='table'))
     results = rerank_candidates('TARGET', [chunk], Model())
     assert results == [(chunk, 1.0)]
+
+
+def test_ui_page_and_saved_records_are_served(tmp_path):
+    import json
+    from fastapi.testclient import TestClient
+    from config import Settings
+    from search.api import create_app
+    settings = Settings(); settings.paths.outputs = tmp_path
+    (tmp_path / 'Bid9.json').write_text(json.dumps({'bid_id': 'Bid9', 'fields': {}, 'validation': {}}))
+    (tmp_path / 'other.json').write_text('{"x": 1}')
+    client = TestClient(create_app(settings))
+    assert 'RFP Intelligence' in client.get('/').text
+    assert client.get('/records').json() == ['Bid9']
+    assert client.get('/records/Bid9').json()['bid_id'] == 'Bid9'
+    assert client.get('/records/other').status_code == 404
+    assert client.get('/records/..%2Fconfig').status_code == 404

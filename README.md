@@ -65,6 +65,10 @@ python -m pip check
 
 `ask` accepts optional `--bid-id` and `--doc-type` filters. It returns a concise cited answer, evidence limits, and a trace path. Its JSON includes exact supporting quotes. Unsupported or unverifiable answers return `Not found in documents`.
 
+## Web UI (bonus)
+
+`python main.py serve`, then open http://127.0.0.1:8000. One plain HTML page (no extra dependency) with three tabs: **Search** (local, free), **Ask** (cited Q&A, paid LLM call; not re-tested after credits ran out) and **Extracted records** (saved `outputs/*.json` with sources). Search and records were checked in a browser.
+
 ## API
 
 ```bash

@@ -4,7 +4,9 @@ from __future__ import annotations
 from pathlib import Path
 import logging
 from typing import Literal
+import json
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import HTMLResponse
 from config import Settings, load_settings
 from schemas import DocType, IndexResult, SearchFilters, SearchResponse, IndexRequest, AskRequest, QAResponse
 from search.index import add_bid
@@ -20,6 +22,35 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     engine = SearchEngine(settings)
     qa_engine = None
     application = FastAPI(title='RFP Intelligence Platform', version='0.3.0')
+
+    @application.get('/', response_class=HTMLResponse)
+    def home() -> str:
+        """Serve the single-file search, ask and records page."""
+        return (Path(__file__).parent / 'ui.html').read_text(encoding='utf-8')
+
+    def record_files() -> dict[str, Path]:
+        """Saved extraction records: top-level outputs/*.json that hold bid fields."""
+        found = {}
+        for path in sorted(settings.paths.outputs.glob('*.json')):
+            try:
+                if 'fields' in json.loads(path.read_text(encoding='utf-8')):
+                    found[path.stem] = path
+            except (OSError, ValueError):
+                continue
+        return found
+
+    @application.get('/records')
+    def records() -> list[str]:
+        """List saved extraction records."""
+        return list(record_files())
+
+    @application.get('/records/{name}')
+    def record(name: str) -> dict:
+        """Return one saved record; only names from the listing are accepted."""
+        path = record_files().get(name)
+        if path is None:
+            raise HTTPException(404, 'Unknown record')
+        return json.loads(path.read_text(encoding='utf-8'))
 
     @application.get('/health')
     def health() -> dict[str, str]:

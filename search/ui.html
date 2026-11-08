@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>RFP Intelligence</title>
+<style>
+body{font:15px system-ui,sans-serif;max-width:960px;margin:24px auto;padding:0 16px;color:#1b1f23}
+nav button{padding:8px 14px;margin-right:4px;border:1px solid #bbb;background:#f4f4f4;cursor:pointer}
+nav button.on{background:#1b4fd8;color:#fff;border-color:#1b4fd8}
+input,select,textarea{padding:7px;margin:4px 4px 4px 0;border:1px solid #bbb;border-radius:4px;font:inherit}
+textarea,#q,#question{width:100%;box-sizing:border-box}
+.go{padding:8px 16px;background:#1b4fd8;color:#fff;border:0;border-radius:4px;cursor:pointer}
+.card{border:1px solid #ddd;border-radius:6px;padding:10px 12px;margin:10px 0}
+.src{color:#555;font-size:13px}.q{background:#f6f8fa;padding:6px;white-space:pre-wrap;font-size:13px}
+pre{white-space:pre-wrap}table{border-collapse:collapse;width:100%}td,th{border:1px solid #ddd;padding:6px;vertical-align:top;text-align:left}
+.null{color:#a33}.err{color:#b00020}
+</style></head><body>
+<h2>RFP Intelligence Platform</h2>
+<nav><button id="t-search" class="on" onclick="tab('search')">Search</button><button id="t-ask" onclick="tab('ask')">Ask</button><button id="t-rec" onclick="tab('rec')">Extracted records</button></nav>
+<div id="search"><p class="src">Local search only (no LLM, no cost). Returns source passages, not answers.</p>
+<input id="q" placeholder="e.g. submission deadline"><br>
+Bid <input id="sbid" size="8" placeholder="Bid1"> Doc type
+<select id="sdoc"><option value="">any</option><option>bid_page</option><option>rfp</option><option>addendum</option><option>specs</option><option>affidavit</option><option>other</option></select>
+Top-k <input id="sk" type="number" value="5" min="1" max="20" style="width:60px">
+<button class="go" onclick="search()">Search</button><div id="sout"></div></div>
+<div id="ask" hidden><p class="src">Cited Q&amp;A. Uses the configured LLM (paid API calls).</p>
+<textarea id="question" rows="2" placeholder="e.g. Is a bid bond required?"></textarea>
+Bid <input id="abid" size="8" placeholder="optional"> <button class="go" onclick="ask()">Ask</button><div id="aout"></div></div>
+<div id="rec" hidden><p class="src">Saved extraction results from the outputs folder.</p><select id="recsel" onchange="rec()"></select><div id="rout"></div></div>
+<script>
+const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+function tab(n){for(const t of['search','ask','rec']){$(t).hidden=t!==n;$('t-'+t).className=t===n?'on':''} if(n==='rec')recList()}
+async function call(url,opt){const r=await fetch(url,opt);const j=await r.json().catch(()=>({}));if(!r.ok)throw new Error(j.detail||r.statusText);return j}
+async function search(){const p=new URLSearchParams({q:$('q').value,top_k:$('sk').value});
+ if($('sbid').value)p.set('bid_id',$('sbid').value);if($('sdoc').value)p.set('doc_type',$('sdoc').value);
+ $('sout').innerHTML='Searching…';
+ try{const j=await call('/search?'+p);$('sout').innerHTML=j.hits.map(h=>`<div class="card"><b>${esc(h.source.file)}</b> · page ${h.source.page} · ${esc(h.metadata.doc_type)}${h.metadata.addendum_number?' '+h.metadata.addendum_number:''} · rank ${h.rank}<div class="q">${esc(h.text)}</div></div>`).join('')||'No results.'}
+ catch(e){$('sout').innerHTML=`<p class="err">${esc(e.message)}</p>`}}
+async function ask(){$('aout').innerHTML='Thinking… (can take a minute)';
+ try{const j=await call('/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:$('question').value,bid_id:$('abid').value||null})});
+ $('aout').innerHTML=`<div class="card"><pre>${esc(j.answer)}</pre>${j.not_found?'<b>Not found in documents</b>':''}</div>`+j.sources.map(s=>`<div class="card src"><b>${esc(s.file)}</b> p.${s.page}<div class="q">${esc(s.quote)}</div></div>`).join('')}
+ catch(e){$('aout').innerHTML=`<p class="err">${esc(e.message)}</p>`}}
+async function recList(){if($('recsel').options.length)return;const l=await call('/records');$('recsel').innerHTML=l.map(n=>`<option>${esc(n)}</option>`).join('');rec()}
+async function rec(){const n=$('recsel').value;if(!n)return;const j=await call('/records/'+encodeURIComponent(n));
+ $('rout').innerHTML=`<p>Validation: ${esc(JSON.stringify(j.validation))}</p><table><tr><th>Field</th><th>Value</th><th>Conf.</th><th>Sources</th></tr>`+
+ Object.entries(j.fields).map(([k,f])=>`<tr><td>${esc(k)}</td><td class="${f.value==null?'null':''}">${esc(f.value??'null — '+f.notes)}</td><td>${f.confidence}</td><td>${f.sources.map(s=>esc(s.file)+' p.'+s.page).join('<br>')}</td></tr>`).join('')+'</table>'}
+</script></body></html>
