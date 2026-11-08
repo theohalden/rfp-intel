@@ -23,9 +23,6 @@ from schemas import (AmendmentCandidate, AmendmentReview, AddendumChange, BidRec
     FieldResult, SearchHit, State, SummaryDraft, ValidationReport)
 
 
-UNSUPPORTED = 'Unsupported assertion: '
-
-
 class ExtractionWorkflow:
     """Orchestrate typed agent messages without placing whole documents in prompts."""
 
@@ -300,7 +297,7 @@ class ExtractionWorkflow:
                         if support is None:
                             return name, ['Source-only consistency validation unavailable']
                         if not support.supported:
-                            return name, [UNSUPPORTED + support.reason]
+                            return name, [support.reason]
                     payload['retrieved_context'] = self.passages([h for h in state.get('evidence', {}).get(name, [])
                         if h.metadata.doc_type != 'addendum'])
                 signature = hashlib.sha256(json.dumps(jsonable({'instruction': instruction, 'payload': payload}), sort_keys=True).encode()).hexdigest()
@@ -385,8 +382,8 @@ class ExtractionWorkflow:
         draft = self.invoke_llm('report.narrow.' + name, NarrowedField, prompts.NARROW,
             {'field_name': name, 'value': field.value, 'notes': field.notes,
              'sources': field.sources, 'reviewer_reason': reason})
-        if draft is None or not draft.value or not draft.value.strip():
-            return None
+        if draft is None or not draft.value or not draft.value.strip() or draft.value.strip() == field.value.strip():
+            return None  # nothing was removed, so the failure was not an unsupported claim
         narrowed = field.model_copy(update={'value': draft.value, 'notes': draft.notes,
                                             'confidence': min(field.confidence, .7)})
         if format_issues(name, narrowed):
@@ -407,9 +404,8 @@ class ExtractionWorkflow:
         evidence = self.pool(state.get('evidence', {}))
         narrowed_names = set()
         for name, reasons in state.get('issues', {}).items():
-            unsupported = [r[len(UNSUPPORTED):] for r in reasons if r.startswith(UNSUPPORTED)]
-            narrowed = (self.narrow(name, state['fields'][name], '; '.join(unsupported), evidence)
-                        if unsupported and len(unsupported) == len(reasons) and name in state['fields'] else None)
+            narrowed = (self.narrow(name, state['fields'][name], '; '.join(reasons), evidence)
+                        if name in state['fields'] else None)
             if narrowed is not None:
                 fields[name] = narrowed
                 narrowed_names.add(name)

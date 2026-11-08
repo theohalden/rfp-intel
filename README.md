@@ -26,7 +26,7 @@ OPENAI_API_KEY=your-key
 OPENAI_MODEL=your-accessible-model-id
 ```
 
-Use a model supporting tool calls and strict structured outputs. The verified live runs used `gpt-5.4-mini`; runtime model selection comes only from `.env`. OpenAI replaces the original Anthropic adapter with the user's approval. An Anthropic adapter (`LLM_PROVIDER=anthropic`, plus `pip install langchain-anthropic`) is written but **untested against the live API**; an Ollama adapter is not implemented. Each extraction call sends at most `agents.max_evidence_chars` (default 32000) characters of retrieved passages, lowest-ranked dropped first; output is capped by `LLM_MAX_OUTPUT_TOKENS` (default 32000, mostly consumed by model reasoning). The budget and cap were added after the last paid run and have not been re-verified end to end. Search, parsing, and evaluation use local models and need no LLM key. Extraction/Q&A send retrieved document passages to OpenAI; traces retain these passages locally. Keep `.env`, keys, input documents, and model weights out of source control.
+Use a model supporting tool calls and strict structured outputs. The verified live runs used `gpt-5.4-mini`; runtime model selection comes only from `.env`. OpenAI replaces the original Anthropic adapter with the user's approval. An Anthropic adapter (`LLM_PROVIDER=anthropic`, plus `pip install langchain-anthropic`) is written but **untested against the live API**; an Ollama adapter is not implemented. Each extraction call sends at most `agents.max_evidence_chars` (default 32000) characters of retrieved passages, lowest-ranked dropped first; output length is left to the model unless `LLM_MAX_OUTPUT_TOKENS` is set (Anthropic uses 16000 when unset). The budget and cap were added after the last paid run and have not been re-verified end to end. Search, parsing, and evaluation use local models and need no LLM key. Extraction/Q&A send retrieved document passages to OpenAI; traces retain these passages locally. Keep `.env`, keys, input documents, and model weights out of source control.
 
 Optional OCR uses the Tesseract executable, without a Python wrapper:
 
@@ -64,6 +64,10 @@ python -m pip check
 `search` returns passages, not generated answers. Use `--details` for ranking scores/timing and `--full-text` or `--json` for untruncated evidence. Modes are `vector`, `hybrid`, and `hybrid_rerank` (default). Filters include `--bid-id`, `--doc-type`, `--file-name`, `--page-number`, `--addendum-number`, and `--exclude-addenda`. Scores measure ranking, not answer probability.
 
 `ask` accepts optional `--bid-id` and `--doc-type` filters. It returns a concise cited answer, evidence limits, and a trace path. Its JSON includes exact supporting quotes. Unsupported or unverifiable answers return `Not found in documents`.
+
+### Latest live re-run on the supplied bids (no output-token cap)
+
+Fresh runs, saved in `outputs/live_check/` (Bid1 first run, Bid2) and `outputs/live_check2/` (Bid1 after the narrowing change): Bid1 15 populated / 5 missing / 0 failed (first run: 15 / 4 / 1); Bid2 15 / 4 / 1 failed. Due dates match the saved records. Bid2's failed field was Required documentation, rejected as incomplete (it omitted the Mercury Affidavit); narrowing correctly declined to accept it because it removed nothing. Runs vary: earlier fresh Bid2 runs had 16 and 17 populated with no failure. Saved `outputs/Bid1.json` / `Bid2.json` remain the submitted records. Q&A was not re-run after the latest changes.
 
 ## Web UI (bonus)
 

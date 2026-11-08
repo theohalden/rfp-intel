@@ -270,3 +270,16 @@ def test_evidence_sent_to_model_respects_budget_but_keeps_first_passage(tmp_path
     hits = [evidence('a' * 100), evidence('b' * 100), evidence('c' * 40)]
     kept = flow.within_budget(hits)
     assert [h.text[0] for h in kept] == ['a', 'c']
+
+
+def test_narrowing_that_removes_nothing_is_not_accepted(tmp_path):
+    """An omission failure cannot be 'fixed' by returning the same incomplete value."""
+    from schemas import NarrowedField
+    llm = FakeLLM(); inner = llm.with_structured_output
+    llm.with_structured_output = lambda schema, **k: SimpleNamespace(invoke=lambda m: {'parsed': NarrowedField(value='same', notes=''),
+        'raw': SimpleNamespace(usage_metadata={'input_tokens': 1, 'output_tokens': 1, 'total_tokens': 2}), 'parsing_error': None}) if schema is NarrowedField else inner(schema, **k)
+    settings = Settings(); settings.paths.outputs = tmp_path
+    flow = ExtractionWorkflow(settings, 'sample', llm=llm, tool=Tool())
+    hit = evidence()
+    field = FieldResult(value='same', sources=[Evidence(file='base.pdf', page=1, quote=BASE)], confidence=.9)
+    assert flow.narrow('Title', field, 'omits a fact', [hit]) is None
