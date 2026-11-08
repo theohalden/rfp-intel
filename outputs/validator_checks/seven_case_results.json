@@ -1,0 +1,72 @@
+{
+  "method": "Targeted live validator regressions, not extraction-accuracy measurement.",
+  "model": "gpt-5.4-mini",
+  "reasoning": {
+    "effort": "medium"
+  },
+  "cases": [
+    {
+      "case": "correct_null_duration",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The retrieved context does not provide any contract duration, renewal period, extension option, or end-of-lease purchase option. The only time-related statements are proposal validity for 60 working days and delivery/submission deadlines, which are not contract duration, so null is correct."
+      },
+      "passed": true
+    },
+    {
+      "case": "correct_null_models",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The retrieved context names only product categories and the brand HP, plus component categories like CPU, RAM, storage, and display sizes. It does not explicitly supply any readable commercial manufacturer model designation, so returning null is supported."
+      },
+      "passed": true
+    },
+    {
+      "case": "faithful_submission_paraphrase",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The value is supported by the supplied quotes: sealed proposals must be addressed to the Administration and received by BISD Purchasing Department at 3395 Harrison Avenue, Beaumont, TX 77706 (pp. 2\u20133); proposals must be submitted on Exhibit A (p. 3); three complete copies are required and envelopes must be marked \u201cSEALED PROPOSAL \u2013 DO NOT OPEN\u201d (p. 3); late proposals will not be considered and will be returned unopened (pp. 2\u20133); unsigned proposals and proposals sent via facsimile or email will not be considered (p. 2); and responses delivered to any other district address will not be considered (p. 2)."
+      },
+      "passed": true
+    },
+    {
+      "case": "product_with_quantity_caveat_in_notes",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The value and notes are supported by the cited RFP. Page 9 lists the device item \"HP Fortis Fx36011G5 N100 11 8GB/64 PC\" and the related items \"U67XTE\" extended warranty, \"J0X44AAE\" console licensing, and the \"HP-ESF-FX3CB-G5-GRY\" case. Page 10 states \"TOTAL DEVICE UNITS FOR CVSU: 1231.\" The notes are also supported by the scope and lease terms, which say CVSU is seeking to lease the equipment for three years and that no guarantee of volume exists / CVSU may lease or purchase more or less than the listed quantity."
+      },
+      "passed": true
+    },
+    {
+      "case": "prohibited_email_asserted_accepted",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The value is contradicted by the solicitation. Page 2 states: \"UNSIGNED PROPOSALS AND/OR PROPOSALS RECEIVED VIA FACSIMILE OR EMAIL WILL NOT BE CONSIDERED. ALL RESPONSES MUST BE RECEIVED AT THE ADDRESS SHOWN ABOVE.\" Page 3 also says proposals will be received by the BISD Purchasing Department at 3395 Harrison Avenue and that \"Proposal envelopes must be plainly marked\" and be \"SEALED PROPOSAL \u2013 DO NOT OPEN.\" Therefore, proposals may not be submitted by email."
+      },
+      "passed": true
+    },
+    {
+      "case": "proposal_validity_mislabeled_contract_term",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The source only states that \"the proposals must be valid for at least 60 working days from the submission deadline\" (business_laptops_rfp.pdf, page 3, chunk a4a4a0d6b69d1f069accefc9cd47899820f43d637016b74c0c8ad88b1400f10b, lines 5-6). That is proposal validity, not contract duration. No contract term, renewal period, extension, or lease purchase option is provided in the retrieved context."
+      },
+      "passed": true
+    },
+    {
+      "case": "conditional_form_made_unconditional",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The source makes the lobbying disclosure form conditional: it is required only if non-federal funds were used for lobbying, and otherwise is not required. The candidate states it as an unconditional requirement for every proposer, which is not supported."
+      },
+      "passed": true
+    }
+  ]
+}

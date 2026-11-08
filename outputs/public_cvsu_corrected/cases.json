@@ -1,0 +1,84 @@
+{
+  "cases": [
+    [
+      "issuer",
+      "Who is the organization issuing this RFP?",
+      [
+        1
+      ],
+      [
+        "Central Vermont Supervisory Union"
+      ]
+    ],
+    [
+      "quantities",
+      "How many devices are requested in total and by school?",
+      [
+        10
+      ],
+      [
+        "1231"
+      ]
+    ],
+    [
+      "deadline",
+      "What is the proposal submission deadline including its explicitly stated time zone?",
+      [
+        2
+      ],
+      [
+        "Eastern Time",
+        "2025"
+      ]
+    ],
+    [
+      "lease",
+      "What is the lease duration and end-of-lease purchase option?",
+      [
+        9
+      ],
+      [
+        "3 years",
+        "$1.00"
+      ]
+    ],
+    [
+      "submission",
+      "Can proposals be submitted electronically?",
+      [
+        2
+      ],
+      [
+        "electronic communication"
+      ]
+    ],
+    [
+      "payment",
+      "When may initial lease payments begin, and what payment options are requested?",
+      [
+        9
+      ],
+      [
+        "30 days",
+        "annual"
+      ]
+    ],
+    [
+      "warranty",
+      "What extended warranty and accidental damage protection are required?",
+      [
+        9,
+        12
+      ],
+      [
+        "ADP"
+      ]
+    ]
+  ],
+  "extra_questions": [
+    [
+      "bond",
+      "Does this RFP explicitly require a bid bond and state its amount?"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "method": "Live targeted validator regressions using preserved source-backed drafts; expected verdicts were not supplied to the model.",
+  "model": "gpt-5.4-mini",
+  "reasoning_effort": "medium",
+  "cases": [
+    {
+      "case": "correct_null_duration",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The retrieved context does not provide any contract performance/lease term, renewal period, or end-of-lease purchase option. It only mentions proposal validity (\"valid for at least 60 working days\"), delivery time (\"not exceed 6 weeks\"), and submission/deadline timing, which are not contract duration facts. Null is therefore correct."
+      },
+      "passed": true
+    },
+    {
+      "case": "correct_null_models",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The retrieved context does not supply any exact manufacturer commercial model designation. It only lists the brand \"HP\" and category/product-type descriptions such as \"2 in 1 Laptops,\" \"High-End HP Laptops,\" \"Standard HP Laptops (Level 2),\" and CPU/specification details, which the field definition says are not commercial models. Therefore null is correct."
+      },
+      "passed": true
+    },
+    {
+      "case": "faithful_submission_paraphrase",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The candidate is supported by the cited RFP excerpts. The sources state that sealed proposals must be addressed to the Administration at the listed address and received by the BISD Purchasing Department at 3395 Harrison Avenue, Beaumont, TX 77706; that proposals must be submitted on the proposal form attached as Exhibit A; that three (3) complete copies must be submitted; that envelopes must be plainly marked \u201cSEALED PROPOSAL \u2013 DO NOT OPEN\u201d; that late proposals will not be considered and will be returned unopened; that unsigned proposals and proposals received via facsimile or email will not be considered; and that responses sent/delivered to any other district address will not be considered."
+      },
+      "passed": true
+    },
+    {
+      "case": "product_with_quantity_caveat_in_notes",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The value is supported by the cited equipment table and quantity page: it names the Chromebook device, extended warranty, console licensing, and case exactly as listed on page 9, and it includes the stated total device units of 1231 from page 10. The notes also match the scope/volume caveat in the source that the project is a 3-year lease with the option to purchase and that no guarantee of volume exists / CVSU may lease or purchase more or less than the listed quantity."
+      },
+      "passed": true
+    },
+    {
+      "case": "prohibited_email_asserted_accepted",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The value is contradicted by the solicitation. It states that proposals received via email \"will not be considered\" and that \"ALL RESPONSES MUST BE RECEIVED AT THE ADDRESS SHOWN ABOVE\". The document instead requires sealed proposals, three complete copies, and submission to BISD Purchasing Department at 3395 Harrison Avenue, Beaumont, Texas 77706."
+      },
+      "passed": true
+    },
+    {
+      "case": "proposal_validity_mislabeled_contract_term",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The source only states that \"the proposals must be valid for at least 60 working days from the submission deadline\" (business_laptops_rfp.pdf, page 3), which is proposal validity, not contract performance/lease duration. No contract term, renewal period, extension option, or end-of-lease purchase option is provided, so the claim that the contract duration is at least 60 working days is unsupported."
+      },
+      "passed": true
+    }
+  ]
+}

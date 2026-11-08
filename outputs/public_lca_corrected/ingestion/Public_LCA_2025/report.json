@@ -1,0 +1,18 @@
+{
+  "bid_id": "Public_LCA_2025",
+  "files": [
+    {
+      "file_name": "business_laptops_rfp.pdf",
+      "doc_type": "rfp",
+      "addendum_number": null,
+      "page_count": 8,
+      "parsed_pages": 8,
+      "ocr_pages": 0,
+      "tables_found": 3,
+      "warnings": [
+        "Page 8: Tesseract OCR returned no text"
+      ],
+      "errors": []
+    }
+  ]
+}

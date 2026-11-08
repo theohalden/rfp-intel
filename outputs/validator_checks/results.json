@@ -1,0 +1,129 @@
+{
+  "method": "Targeted live validator regressions, not extraction-accuracy measurement.",
+  "model": "gpt-5.4-mini",
+  "reasoning": {
+    "effort": "medium"
+  },
+  "cases": [
+    {
+      "case": "correct_null_duration",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The field value is null, which is correct here because the retrieved context only states proposal validity (\u201cThe proposals must be valid for at least 60 working days from the submission deadline\u201d on page 3) and other submission timing details, not a contract performance/lease duration, renewal period, or end-of-lease purchase option. Proposal/quote validity is explicitly not contract duration under this field\u2019s checklist."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "correct_null_models",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "No explicit commercial manufacturer model designation is supplied in the retrieved context. The document lists brand names (HP) and product categories such as \"2 in 1 Laptops,\" \"High-End Laptops,\" and \"Standard Laptops,\" plus processor specs, but it does not name any readable commercial model. For this field, null is correct when only categories/brands/CPU names are provided."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "faithful_submission_paraphrase",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The value and notes are supported by the supplied passages: the RFP requires sealed proposals addressed to Administration and received by BISD Purchasing Department at 3395 Harrison Avenue, Beaumont, TX 77706; proposals must be on Exhibit A; three complete copies are required; envelopes must be marked \u201cSEALED PROPOSAL \u2013 DO NOT OPEN\u201d; late proposals are returned unopened; unsigned proposals and proposals sent by facsimile or email are not considered; and responses sent to any other district address will not be considered."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "product_with_quantity_caveat_in_notes",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The value is consistent with the supplied context: it lists the requested product items (device, extended warranty, console licensing, case) and includes the stated total quantity of 1231 device units. The notes correctly preserve the non-guaranteed volume caveat from the RFP, and no concrete false claim or wrong classification is present."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "prohibited_email_asserted_accepted",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The cited RFP states that proposals received via facsimile or email will not be considered, so submission by email is not supported."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "proposal_validity_mislabeled_contract_term",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "No source quotes were provided to support the claim that the contract duration is at least 60 working days from the submission deadline."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "conditional_form_made_unconditional",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The quote makes the form conditional: it is required only if non-federal funds were used for lobbying, and says it is not required otherwise. It does not support that every proposer must submit it."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "quantity_caveat_without_supporting_citation",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The device, warranty, console, case, and total units (1231) are supported by the quotes, and the three-year lease with option to purchase is also supported. However, the note\u2019s claims that there is no volume guarantee and that CVSU may lease or purchase more or less than the listed quantity are not stated in the provided quotes."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "commercial_and_compatibility_models_mislabeled_parts",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "Identifier-evidence guard rejects prose-only model/compatibility codes."
+      },
+      "passed": true,
+      "stage": "identifier_guard"
+    },
+    {
+      "case": "separate_table_product_codes_are_supported",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The field is supported by the equipment table on page 9, which explicitly lists part/order/configuration identifiers in the Model column alongside their roles in the Category column: DEVICE 9R398UT#ABA, EXTENDED WARRANTY U67XTE, CONSOLE LICENSING J0X44AAE, and CASE HP-ESF-FX3CB-G5-GRY. The notes also match the source context by describing these as associated device, warranty, console licensing, and case items."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "omitted_wireless_attributes",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The value is mostly supported, but it omits explicitly listed specifications that are present in the source and required by the checklist. Page 9 / chunk e422b762f7e9881c885633c924243371b2d0f44efc771186ee65fb4f9269673a lists wireless connectivity (Intel Wi\u2011Fi 6E AX211 and Bluetooth 5.3), which is not included in the value. The same page also lists the case/accessory item (MaxCases Extreme Shell\u2011F2 Slide Case for HP Fortis X360 11 G5, Gray/Clear; model HP-ESF-FX3CB-G5-GRY), but the value does not capture it. Since the field is supposed to retain all explicitly listed technical attributes, these omissions make the extraction incomplete."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "pricing_unit_asserted_as_order_quantity",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The sources say pricing should be provided for one Chromebook and that the district will multiply that price by the quantity needed; they also say there is no guarantee or commitment on quantities actually purchased. They do not state the district will purchase exactly one Chromebook."
+      },
+      "passed": true,
+      "stage": "source_support"
+    }
+  ]
+}

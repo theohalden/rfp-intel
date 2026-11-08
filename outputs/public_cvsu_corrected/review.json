@@ -1,0 +1,21 @@
+{
+  "bid_id": "Public_CVSU_2025",
+  "phase": "Final source-reviewed development regression: separate citation support/completeness, explicit attributes/conditions and identifier evidence gate.",
+  "source_url": "https://resources.finalsite.net/images/v1740679384/cvsuorg/spaeq6nnbplmqseqfqer/CVSUChrombookRFPforFY25-26.pdf",
+  "pipeline_validation": {
+    "passed": 13,
+    "failed": 1,
+    "not_found": 6
+  },
+  "verified_field_citations": 49,
+  "verified_qa_citations": 0,
+  "qa_examples": 0,
+  "findings": [
+    "Recovered the explicit Eastern Time deadline, physical original plus two copies/address, three-year lease and end-of-lease $1-per-unit purchase option.",
+    "Commercial HP Fortis designation is now included in Model_no (alongside the source code); Part_no contains four distinct table codes. Product includes 1231 devices/school breakdown and a cited non-guaranteed-volume caveat. Technical specifications now include wireless/display/power and base versus extended warranty.",
+    "Required documentation now retains prior-award insurance timing and licenses/permits documentation upon request; payment preserves no earlier than 30 days after receipt rather than Net 30.",
+    "One unresolved failure remains: Installation was rejected because selected quotes did not support the added inside/liftgate-delivery assertions. It is emitted as null with a validation-failure explanation. Assembly/demonstration and delivery requirements do exist in the source; null must not be interpreted as their absence.",
+    "This is a development retest, not a passed unattended extraction or independent accuracy benchmark."
+  ],
+  "limits": "Manual source comparison, not a blinded accuracy benchmark. Validation and exact citations do not establish semantic accuracy. First-run and development retests are distinguished; expected answers were not provided to agents."
+}

@@ -1,0 +1,151 @@
+{
+  "established_before_live_run": true,
+  "method": "Independent complete PDF text review and visual review of cover/specifications/payment pages; no expected values supplied to agents.",
+  "expected": {
+    "Bid Number": {
+      "value": "RFP 25.09",
+      "pages": [
+        1
+      ],
+      "note": ""
+    },
+    "Title": {
+      "value": "Chromebooks",
+      "pages": [
+        1
+      ],
+      "note": ""
+    },
+    "Due Date": {
+      "value": "February 4, 2025 at 2:30 p.m.",
+      "pages": [
+        1,
+        2,
+        3,
+        14
+      ],
+      "note": "No time zone is explicitly stated in the reviewed deadline clauses; retain unknown-zone warning."
+    },
+    "Bid Submission Type": {
+      "value": "Sealed physical proposal, three complete copies, signed Exhibit A; no fax or email; Purchasing Department 3395 Harrison Avenue Beaumont TX 77706",
+      "pages": [
+        2,
+        3
+      ],
+      "note": "Vendor-packet internal email processing is not authorization to email the bid."
+    },
+    "Term of Bid": {
+      "value": "1 year plus four optional 1-year renewals; maximum 5 years",
+      "pages": [
+        4,
+        12,
+        15
+      ],
+      "note": ""
+    },
+    "Pre Bid Meeting": {
+      "value": "None",
+      "pages": [
+        1,
+        14
+      ],
+      "note": ""
+    },
+    "Installation": {
+      "value": "Whiteglove service, Google for Education license and case installation before shipment",
+      "pages": [
+        12
+      ],
+      "note": ""
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "pages": [],
+      "note": "No explicit bid-bond clause found; insurance limits are not bond amounts."
+    },
+    "Delivery Date": {
+      "value": "Delivery according to purchase order; late delivery requires authorization",
+      "pages": [
+        12
+      ],
+      "note": "No fixed calendar date or universal lead-time window; null with this limitation is acceptable."
+    },
+    "Payment Terms": {
+      "value": "Net 30 after receipt of goods/services; invoice must show PO number and go to accounts payable",
+      "pages": [
+        24
+      ],
+      "note": ""
+    },
+    "Any Additional Documentation Required": {
+      "value": "Signed Exhibit A, Exhibit B vendor packet (vendor information, ACH, conflict of interest, W-9, certifications, felony notice, antitrust, confidentiality), completed Form 1295; all package forms",
+      "pages": [
+        10,
+        24
+      ],
+      "note": "Preserve conditional certification obligations; insurance policy copies upon request p16."
+    },
+    "MFG for Registration": {
+      "value": null,
+      "pages": [],
+      "note": "Named Acer model is not a manufacturer authorization/registration requirement."
+    },
+    "Contract or Cooperative to use": {
+      "value": "Central Texas Purchasing Alliance (CTPA) referenced; other members may adopt awards by mutual agreement",
+      "pages": [
+        9,
+        15
+      ],
+      "note": "Not mandatory purchasing through CTPA."
+    },
+    "Model_no": {
+      "value": "Acer Chromebook Spin 511 RT756T or equivalent; MAXCases Extreme Shell-F case for R756TN 11.6 inch",
+      "pages": [
+        12
+      ],
+      "note": "Preserve literal RT756T vs R756TN source spelling; no silent correction."
+    },
+    "Part_no": {
+      "value": null,
+      "pages": [],
+      "note": "No separate manufacturer SKU specified; RT756T is presented as model rather than independent SKU."
+    },
+    "Product": {
+      "value": "Chromebooks, White Glove services, Google for Education licenses and cases; price per unit, quantities as ordered and not guaranteed",
+      "pages": [
+        3,
+        12,
+        21
+      ],
+      "note": ""
+    },
+    "contact_info": {
+      "value": "BISD Purchasing Department, bids@bmtisd.com; purchasing department phone 409.617.5041",
+      "pages": [
+        3,
+        24
+      ],
+      "note": "No named individual procurement buyer found; distinguish invoice email and supplier blanks."
+    },
+    "company_name": {
+      "value": "Beaumont Independent School District",
+      "pages": [
+        1,
+        2
+      ],
+      "note": ""
+    },
+    "Bid Summary": {
+      "value": "Summary of supported fields; explicitly flag absent time zone",
+      "pages": [],
+      "note": ""
+    },
+    "Product Specification": {
+      "value": "Acer Chromebook Spin 511 RT756T or equivalent/better; flip design, N100 up to3.4GHz Intel N-series, UHD Graphics,64GB eMMC,8GB RAM,WiFi6E,11.6 IPS touchscreen1366x768 HD,MAXCases case; service/license/case installed pre-shipment",
+      "pages": [
+        12
+      ],
+      "note": ""
+    }
+  }
+}

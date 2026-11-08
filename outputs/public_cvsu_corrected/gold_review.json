@@ -1,0 +1,154 @@
+{
+  "established_before_live_run": true,
+  "method": "Independent original PDF text and visual review before live extraction; no answers supplied to agents.",
+  "expected": {
+    "Bid Number": {
+      "value": null,
+      "note": "No separately numbered solicitation ID; quoting the document header CVSU CHROMEBOOK RFP 2025 as a designation with a caveat is acceptable. Do not invent an ID."
+    },
+    "Title": {
+      "value": "CVSU CHROMEBOOK RFP 2025",
+      "pages": [
+        1
+      ]
+    },
+    "Due Date": {
+      "value": "March 28, 2025 at 1:00 PM Eastern Time",
+      "pages": [
+        2
+      ],
+      "note": "Page 1 omits the zone, but page 2 explicitly supplies Eastern Time. Do not infer EST or EDT."
+    },
+    "Bid Submission Type": {
+      "value": "Sealed physical original and two copies; label CVSU CHROMEBOOKS; deliver to Trey Cates at 111B Brush Hill Road, Williamstown VT; electronic communication not accepted",
+      "pages": [
+        2,
+        3
+      ]
+    },
+    "Term of Bid": {
+      "value": "Three-year lease; option to purchase equipment at end for $1 per unit",
+      "pages": [
+        7,
+        9
+      ]
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "note": "No pre-bid meeting found. Optional equipment demonstrations during evaluation are not a pre-bid meeting."
+    },
+    "Installation": {
+      "value": "Equipment must be new, assembled, serviced, adjusted and demonstrated in operating condition; inside/liftgate delivery",
+      "pages": [
+        7,
+        10
+      ],
+      "note": "No explicit imaging or on-site installation service stated; null for installation services with this distinction is acceptable."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "note": "Insurance limits on page 6 are not bid bonds."
+    },
+    "Delivery Date": {
+      "value": null,
+      "note": "No equipment delivery date/window found. Bid deadline, award date, and initial lease payment date are different milestones."
+    },
+    "Payment Terms": {
+      "value": "Quote annual and biannual payment options; initial lease payments begin no earlier than 30 days after receipt; billing split by district",
+      "pages": [
+        9
+      ],
+      "note": "Do not call this Net 30."
+    },
+    "Any Additional Documentation Required": {
+      "value": [
+        "signed costs/lease proposal",
+        "three references",
+        "Non-Collusion Affidavit",
+        "Employment Eligibility Verification Certification",
+        "requested licenses/permits",
+        "prior-award insurance proof",
+        "conflict/litigation disclosures where applicable",
+        "equipment/case/licensing/warranty/lease detail"
+      ],
+      "pages": [
+        4,
+        5,
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    "MFG for Registration": {
+      "value": null,
+      "note": "Named HP equipment does not establish a manufacturer-registration/authorization requirement."
+    },
+    "Contract or Cooperative to use": {
+      "value": null,
+      "note": "No cooperative/master contract vehicle named."
+    },
+    "Model_no": {
+      "value": "HP Fortis X360 11 G5 / source device row prints HP Fortis Fx36011G5; case Extreme Shell-F2 Slide",
+      "pages": [
+        9
+      ]
+    },
+    "Part_no": {
+      "value": [
+        "9R398UT#ABA",
+        "U67XTE",
+        "J0X44AAE",
+        "HP-ESF-FX3CB-G5-GRY"
+      ],
+      "pages": [
+        9
+      ]
+    },
+    "Product": {
+      "value": {
+        "devices": 1231,
+        "schools": {
+          "Northfield Elementary": 231,
+          "Northfield Middle High": 300,
+          "Williamstown Elementary": 202,
+          "Williamstown Middle High": 294,
+          "Orange Center": 92,
+          "Washington Village": 112
+        },
+        "accessories": [
+          "MaxCases rugged cases",
+          "Chrome management licensing",
+          "3-year ADP warranty"
+        ]
+      },
+      "pages": [
+        9,
+        10
+      ],
+      "note": "Quantities are subject to requirements/budget, not a guaranteed volume."
+    },
+    "contact_info": {
+      "value": "Trey Cates, Director of Technology, 802-433-7087, tcates@cvsu.org",
+      "pages": [
+        8
+      ]
+    },
+    "company_name": {
+      "value": "Central Vermont Supervisory Union (CVSU)",
+      "pages": [
+        1
+      ]
+    },
+    "Bid Summary": {
+      "rule": "3\u20136 supported sentences; retain lease/deadline/warranty distinctions."
+    },
+    "Product Specification": {
+      "value": "8GB/64GB device, 11.6-inch 1366x768 touch, 45W USB-C adapter, Wi-Fi 6E AX211, Bluetooth 5.3; base 1-year parts/labor no onsite repair; required extended 3-year offsite/mail-in ADP",
+      "pages": [
+        9,
+        12
+      ]
+    }
+  }
+}

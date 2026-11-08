@@ -1,0 +1,40 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Generated index and local bid documents
+/index/*
+!/index/.gitkeep
+/data/*
+!/data/.gitkeep
+
+# OS files
+.DS_Store
+
+# Local document previews and temporary artifacts
+/tmp/
+
+# Intermediate public-RFP iteration folders and runtime snapshots (final *_corrected/*_narrowed kept)
+/outputs/public_*_test/
+/outputs/public_*_fixed/
+/outputs/public_*_final/
+/outputs/public_*_reviewed/
+/outputs/public_*_verified/
+/outputs/public_*_complete/
+/outputs/public_*_retest/
+/outputs/**/runtime_snapshot.zip
+/outputs/**/search_trace.jsonl
+/outputs/**/pages.jsonl

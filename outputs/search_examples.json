@@ -1,0 +1,608 @@
+[
+  {
+    "label": "deadline_addendum_2",
+    "query": "submission deadline extension",
+    "expanded_queries": [
+      "submission deadline extension",
+      "submission deadline extension due date submission deadline closing date"
+    ],
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid1",
+      "doc_type": "addendum",
+      "addendum_number": 2,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "**ADDENDUM No. 2**\n**RFP JA-207652 Student and Staff Computing Devices**  \nThe Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  \nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.  \n**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  \nCompany Name: Submitter\u2019s Name/Title:  \nAddress: City, State and Zip Code:  \nEmail Address:  \nSubmitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "doc_type": "addendum",
+          "addendum_number": 2,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "006b32c1bc915c269b2ec348a937d35db6f3d82b0700e282f47c7fba7013536f",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**ADDENDUM No. 2**\n**RFP JA-207652 Student and Staff Computing Devices**  \nThe Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  \nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.  \n**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  \nCompany Name: Submitter\u2019s Name/Title:  \nAddress: City, State and Zip Code:  \nEmail Address:  \nSubmitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM"
+        },
+        "rerank_score": 0.016151713207364082,
+        "notes": ""
+      },
+      {
+        "rank": 2,
+        "text": "Submitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM  \nPage 1 | 1",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "doc_type": "addendum",
+          "addendum_number": 2,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "37063d3e32bbbf37d4c97267bd0b279932fb6adbd804a979ee36bf873551fdf5",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "Submitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM  \nPage 1 | 1"
+        },
+        "rerank_score": 0.010638403706252575,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 3111.63,
+    "warnings": []
+  },
+  {
+    "label": "processor_sku",
+    "query": "379-BFNZ processor",
+    "expanded_queries": [
+      "379-BFNZ processor",
+      "379-BFNZ processor technical specifications processor memory storage"
+    ],
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid2",
+      "doc_type": "specs",
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "| Description | SKU / Part number |\n| --- | --- |\n| Dell Latitude 5550 XCTO Base | 210-BLYZ |\n| Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) | 379-BFNZ |\n| Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish | 619-ARSB |\n| No Microsoft Office License Included - 30 day Trial Offer Only | 658-BCSB |\n| Assembly Base MTL 5550 | 338-CNRG |\n| Integrated Intel graphics for Intel Core Ultra 5 125U processor | 338-CNRK |\n| Latitude 5550 Bottom Door, MTL U15 | 321-BKTQ |\n| Intel Rapid Storage Technology Driver | 409-BCXY |\n| Intel vPro Management Disabled | 631-BBSQ |\n| 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) | 370-BBTL |\n| 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD | 400-BRFT |\n| 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam | 391-BJHB |\n| English US backlit AI hotkey keyboard with numeric keypad, 99-key | 583-BLNH |\n| Intel AX211 WLAN Driver | 555-BKQC |\n| Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card | 555-BKLQ |\n| 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable | 451-BDGX |\n| 65W AC adapter, USB Type-C, EcoDesign | 492-BDMN |\n| No Security | 346-BKLV |\n| E4 Power Cord 1M for US | 537-BBDO |\n| Latitude 5550 Quick Start Guide | 340-DMNY |\n| SERI Guide (ENG/FR/Multi) | 340-AGIK |\n| ENERGY STAR Qualified | 387-BBPC |\n| Custom Configuration | 817-BBBB |\n| Dell Additional Software | 658-BFQB |\n| Mix Model MTL 65WADPT | 340-DMMK |\n| Intel Core Ultra 5 Non-vPro Label | 389-FGSN |\n| FHD HDR RGB Camera, TNR, Camera Shutter, Microphone | 319-BBKK |\n| Windows AutoPilot | 634-BRWG |\n| EPEAT 2018 Registered (Gold) | 379-BDZB |",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "doc_type": "specs",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "pdfplumber",
+          "chunk_id": "218cb94ea2a649a4335c655d94ffd21524fbd541f514a69083fe60fafcf3057a",
+          "kind": "table",
+          "section": ""
+        },
+        "source": {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| Description | SKU / Part number |\n| --- | --- |\n| Dell Latitude 5550 XCTO Base | 210-BLYZ |\n| Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) | 379-BFNZ |\n| Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish | 619-ARSB |\n| No Microsoft Office License Included - 30 day Trial Offer Only | 658-BCSB |\n| Assembly Base MTL 5550 | 338-CNRG |\n| Integrated Intel graphics for Intel Core Ultra 5 125U processor | 338-CNRK |\n| Latitude 5550 Bottom Door, MTL U15 | 321-BKTQ |\n| Intel Rapid Storage Technology Driver | 409-BCXY |\n| Intel vPro Management Disabled | 631-BBSQ |\n| 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) | 370-BBTL |\n| 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD | 400-BRFT |\n| 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam | 391-BJHB |\n| English US backlit AI hotkey keyboard with numeric keypad, 99-key | 583-BLNH |\n| Intel AX211 WLAN Driver | 555-BKQC |\n| Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card | 555-BKLQ |\n| 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable | 451-BDGX |\n| 65W AC adapter, USB Type-C, EcoDesign | 492-BDMN |\n| No Security | 346-BKLV |\n| E4 Power Cord 1M for US | 537-BBDO |\n| Latitude 5550 Quick Start Guide | 340-DMNY |\n| SERI Guide (ENG/FR/Multi) | 340-AGIK |\n| ENERGY STAR Qualified | 387-BBPC |\n| Custom Configuration | 817-BBBB |\n| Dell Additional Software | 658-BFQB |\n| Mix Model MTL 65WADPT | 340-DMMK |\n| Intel Core Ultra 5 Non-vPro Label | 389-FGSN |\n| FHD HDR RGB Camera, TNR, Camera Shutter, Microphone | 319-BBKK |\n| Windows AutoPilot | 634-BRWG |\n| EPEAT 2018 Registered (Gold) | 379-BDZB |"
+        },
+        "rerank_score": 0.9771038889884949,
+        "notes": "Long table retained intact; dense embedding may truncate it"
+      },
+      {
+        "rank": 2,
+        "text": "### Native text supplement (layout fallback)  \nSI# CC7802 Dell Latitude 5550\nSKUDescription\n210-BLYZDell Latitude 5550 XCTO Base  \nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ\nthreads, up to 4.3 GHz Turbo)  \nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB\nSpanish\n658-BCSBNo Microsoft Office License Included - 30 day Trial Offer Only\n338-CNRGAssembly Base MTL 5550\n338-CNRKIntegrated Intel graphics for Intel Core Ultra 5 125U processor\n321-BKTQLatitude 5550 Bottom Door, MTL U15\n409-BCXYIntel Rapid Storage Technology Driver\n631-BBSQIntel vPro Management Disabled  \n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel 370-BBTL\nCore processors)\n400-BRFT256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "doc_type": "specs",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "pdfplumber",
+          "chunk_id": "9db5c2ab06ca57d9b8411e9e7badb4d951dd115a5b6a9466b3ed52c2a73fc8d6",
+          "kind": "text",
+          "section": "Native text supplement (layout fallback)"
+        },
+        "source": {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "### Native text supplement (layout fallback)  \nSI# CC7802 Dell Latitude 5550\nSKUDescription\n210-BLYZDell Latitude 5550 XCTO Base  \nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ\nthreads, up to 4.3 GHz Turbo)  \nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB\nSpanish\n658-BCSBNo Microsoft Office License Included - 30 day Trial Offer Only\n338-CNRGAssembly Base MTL 5550\n338-CNRKIntegrated Intel graphics for Intel Core Ultra 5 125U processor\n321-BKTQLatitude 5550 Bottom Door, MTL U15\n409-BCXYIntel Rapid Storage Technology Driver\n631-BBSQIntel vPro Management Disabled  \n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel 370-BBTL\nCore processors)\n400-BRFT256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD"
+        },
+        "rerank_score": 0.9650121927261353,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "text": "340-DMMKMix Model MTL 65WADPT\n389-FGSNIntel Core Ultra 5 Non-vPro Label\n319-BBKKFHD HDR RGB Camera, TNR, Camera Shutter, Microphone\n634-BRWGWindows AutoPilot\n379-BDZBEPEAT 2018 Registered (Gold)",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "doc_type": "specs",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "pdfplumber",
+          "chunk_id": "24de07e4332fcb172a0ff8ce944d8d9667230549d4580e1e7ffda8c2ba5fa421",
+          "kind": "text",
+          "section": "Native text supplement (layout fallback)"
+        },
+        "source": {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "340-DMMKMix Model MTL 65WADPT\n389-FGSNIntel Core Ultra 5 Non-vPro Label\n319-BBKKFHD HDR RGB Camera, TNR, Camera Shutter, Microphone\n634-BRWGWindows AutoPilot\n379-BDZBEPEAT 2018 Registered (Gold)"
+        },
+        "rerank_score": 0.07044576108455658,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 1892.07,
+    "warnings": []
+  },
+  {
+    "label": "affidavits",
+    "query": "required affidavits",
+    "expanded_queries": [
+      "required affidavits"
+    ],
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid2",
+      "doc_type": null,
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "|Col1|Questions Due (Closing) Date and Time:<br>06/01/2024 at 2:00 PM EDT<br>Questions must be submitted in writing to<br>thawkins@treasurer.state.md.us with the subject line,<br>\u201cQUESTION for Dell Laptop #E20P4600040\u201d, and be<br>submitted in writing via e-mail to the Procurement Officer no later<br>than the date and time specified.|\n|---|---|\n|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|\n|**Invoicing Instructions:**<br>|<br>1. Email invoices to:<br>STOaccountspayable@treasurer.state.md.us <br> <br>2. Invoice(s) shall be submitted within 10 days of delivering the<br>equipment and shall include at a minimum the following:<br>\u2022 Contractor name, mailing address, social security number<br>or Federal Tax ID number, and phone number.<br>\u2022 Reference the States assigned PORFP number.<br>\u2022 Date, invoice number and amount due.<br> <br>3. Proof of delivery including packing slip or delivery<br>confirmation, and equipment serial numbers.<br>|\n|<br> <br>**Section 2 \u2013 Agency Point of Contact (POC) Information**<br> <br> <br>|<br> <br>**Section 2 \u2013 Agency Point of Contact (POC) Information**<br> <br> <br>|\n|**Agency / Division Name:**|State Treasurer's Office/ Information Technology<br>|",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 2,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "c30335ddcd45e3a779dd7709ce8c8c5e943c239eb149146849b44c464a51fe32",
+          "kind": "table",
+          "section": ""
+        },
+        "source": {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|Col1|Questions Due (Closing) Date and Time:<br>06/01/2024 at 2:00 PM EDT<br>Questions must be submitted in writing to<br>thawkins@treasurer.state.md.us with the subject line,<br>\u201cQUESTION for Dell Laptop #E20P4600040\u201d, and be<br>submitted in writing via e-mail to the Procurement Officer no later<br>than the date and time specified.|\n|---|---|\n|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|\n|**Invoicing Instructions:**<br>|<br>1. Email invoices to:<br>STOaccountspayable@treasurer.state.md.us <br> <br>2. Invoice(s) shall be submitted within 10 days of delivering the<br>equipment and shall include at a minimum the following:<br>\u2022 Contractor name, mailing address, social security number<br>or Federal Tax ID number, and phone number.<br>\u2022 Reference the States assigned PORFP number.<br>\u2022 Date, invoice number and amount due.<br> <br>3. Proof of delivery including packing slip or delivery<br>confirmation, and equipment serial numbers.<br>|\n|<br> <br>**Section 2 \u2013 Agency Point of Contact (POC) Information**<br> <br> <br>|<br> <br>**Section 2 \u2013 Agency Point of Contact (POC) Information**<br> <br> <br>|\n|**Agency / Division Name:**|State Treasurer's Office/ Information Technology<br>|"
+        },
+        "rerank_score": 0.9058632254600525,
+        "notes": "Long table retained intact; dense embedding may truncate it"
+      },
+      {
+        "rank": 2,
+        "text": "### Native text supplement (layout fallback)  \nA. AUTHORITY\nI hereby affirm that I, (name of affiant) am the\n(title) and duly authorized representative of\n(name of business entity) and that I possess the legal\nauthority to make this affidavit on behalf of the business for which I am acting.\nB. CERTIFICATION OF REGISTRATION OR QUALIFICATION WITH THE STATE\nDEPARTMENT OF ASSESSMENTS AND TAXATION\nI FURTHER AFFIRM THAT:\nThe business named above is a (check applicable box):\n(1) Corporation - domestic or foreign;\n(2) Limited Liability Company - domestic or foreign;\n(3) Partnership - domestic or foreign;\n(4) Statutory Trust - domestic or foreign;\n(5) Sole Proprietorship.\nand is registered or qualified as required under Maryland Law. I further affirm that the above",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Contract_Affidavit.pdf",
+          "doc_type": "affidavit",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "a02cfac362b2abeb8698cd7a34129c8db9845e8d50d6c34d499a0eb626b817a7",
+          "kind": "text",
+          "section": "Native text supplement (layout fallback)"
+        },
+        "source": {
+          "file": "Contract_Affidavit.pdf",
+          "page": 1,
+          "quote": "### Native text supplement (layout fallback)  \nA. AUTHORITY\nI hereby affirm that I, (name of affiant) am the\n(title) and duly authorized representative of\n(name of business entity) and that I possess the legal\nauthority to make this affidavit on behalf of the business for which I am acting.\nB. CERTIFICATION OF REGISTRATION OR QUALIFICATION WITH THE STATE\nDEPARTMENT OF ASSESSMENTS AND TAXATION\nI FURTHER AFFIRM THAT:\nThe business named above is a (check applicable box):\n(1) Corporation - domestic or foreign;\n(2) Limited Liability Company - domestic or foreign;\n(3) Partnership - domestic or foreign;\n(4) Statutory Trust - domestic or foreign;\n(5) Sole Proprietorship.\nand is registered or qualified as required under Maryland Law. I further affirm that the above"
+        },
+        "rerank_score": 0.8707361817359924,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "text": "certification;  \n(b) The violation of the provisions of COMAR 21.11.08 or this certification shall be cause to  \nsuspend payments under, or terminate the contract for default under COMAR 21.07.01.11 or\n21.07.03.15, as applicable; and  \n(c) The violation of the provisions of COMAR 21.11.08 or this certification in connection with  \nthe contract may, in the exercise of the discretion of the Board of Public Works, result in\nsuspension and debarment of the business under COMAR 21.08.03.  \nF. CERTAIN AFFIRMATIONS VALID I  \nFURTHER AFFIRM THAT:  \nTo the best of my knowledge, information, and belief, each of the affirmations, certifications, or\nacknowledgements contained in that certain Proposal Affidavit dated, 20, and",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Contract_Affidavit.pdf",
+          "doc_type": "affidavit",
+          "addendum_number": null,
+          "page_number": 3,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "42970c5040ed7491dbc7e2bf2d1233d83bebb52f6ced47b1932be511508eab99",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "Contract_Affidavit.pdf",
+          "page": 3,
+          "quote": "certification;  \n(b) The violation of the provisions of COMAR 21.11.08 or this certification shall be cause to  \nsuspend payments under, or terminate the contract for default under COMAR 21.07.01.11 or\n21.07.03.15, as applicable; and  \n(c) The violation of the provisions of COMAR 21.11.08 or this certification in connection with  \nthe contract may, in the exercise of the discretion of the Board of Public Works, result in\nsuspension and debarment of the business under COMAR 21.08.03.  \nF. CERTAIN AFFIRMATIONS VALID I  \nFURTHER AFFIRM THAT:  \nTo the best of my knowledge, information, and belief, each of the affirmations, certifications, or\nacknowledgements contained in that certain Proposal Affidavit dated, 20, and"
+        },
+        "rerank_score": 0.4271073639392853,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 4638.63,
+    "warnings": []
+  },
+  {
+    "label": "warranty_across_bids",
+    "query": "warranty requirements support coverage",
+    "expanded_queries": [
+      "warranty requirements support coverage",
+      "warranty requirements support coverage warranty service support coverage repair replacement"
+    ],
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": null,
+      "doc_type": null,
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "| SCOPE AND SPECIFICATIONS OF THE<br>PROPOSAL | |\n| --- | --- |\n| \u2022 4 GB Video card<br>\u2022 Touchscreen optional<br>\u2022 Warranty: 3-year minimum<br>Tier 1 Staff Basic Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i5 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022 Memory: Minimum 16GB DDR5 RAM<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: USB Type C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 512 GB NVMe SSD<br>\u2022 0/S Windows 11 or Mac OS<br>\u2022 Warranty: 3-year minimum<br>Tier 2 Staff Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i7 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022 Resolution: 1920 X 1080 minimum<br>\u2022 Memory: Minimum 32GB DDR5 RAM<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: USB C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 1 TB NVMe SSD<br>\u2022 0/S: Windows 11 or Mac OS<br>\u2022 Warranty: 3-year minimum<br>Display Monitor - Touch<br>\u2022 Minimum 24\" diagonal screen<br>\u2022 Resolution: 1920 X 1080<br>\u2022 Port: USB 3.1 Hub<br>\u2022 Aspect Ratio: 16:9<br>\u2022 Contrast: 3000:1<br>\u2022 Warranty: 3-year minimum<br>Display Monitor - Non-Touch<br>\u2022 Minimum 24\" diagonal screen<br>\u2022 Resolution: 1920 X 1080<br>\u2022 Port: USB 3.1 Hub<br>\u2022 Warranty: 3-year minimum | |\n| PROPOSAL SPECIFIC QUESTIONS | |",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 6,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "58bc6d9fc8f7c9ed4c4f5b2115681572c0457247f5d12edf03770fab0fda629e",
+          "kind": "table",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 6,
+          "quote": "| SCOPE AND SPECIFICATIONS OF THE<br>PROPOSAL | |\n| --- | --- |\n| \u2022 4 GB Video card<br>\u2022 Touchscreen optional<br>\u2022 Warranty: 3-year minimum<br>Tier 1 Staff Basic Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i5 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022 Memory: Minimum 16GB DDR5 RAM<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: USB Type C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 512 GB NVMe SSD<br>\u2022 0/S Windows 11 or Mac OS<br>\u2022 Warranty: 3-year minimum<br>Tier 2 Staff Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i7 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022 Resolution: 1920 X 1080 minimum<br>\u2022 Memory: Minimum 32GB DDR5 RAM<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: USB C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 1 TB NVMe SSD<br>\u2022 0/S: Windows 11 or Mac OS<br>\u2022 Warranty: 3-year minimum<br>Display Monitor - Touch<br>\u2022 Minimum 24\" diagonal screen<br>\u2022 Resolution: 1920 X 1080<br>\u2022 Port: USB 3.1 Hub<br>\u2022 Aspect Ratio: 16:9<br>\u2022 Contrast: 3000:1<br>\u2022 Warranty: 3-year minimum<br>Display Monitor - Non-Touch<br>\u2022 Minimum 24\" diagonal screen<br>\u2022 Resolution: 1920 X 1080<br>\u2022 Port: USB 3.1 Hub<br>\u2022 Warranty: 3-year minimum | |\n| PROPOSAL SPECIFIC QUESTIONS | |"
+        },
+        "rerank_score": 0.31438764929771423,
+        "notes": "Long table retained intact; dense embedding may truncate it"
+      },
+      {
+        "rank": 2,
+        "text": "| \u2022 4 GB Video card<br>\u2022 Touchscreen optional<br>\u2022 Warranty: 3-year minimum<br>Tier 1 Staff Basic Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i5 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022 Memory: Minimum 16GB DDR5 RAM<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: USB Type C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 512 GB NVMe SSD<br>\u2022 0/S Windows 11 or Mac OS<br>\u2022 Warranty: 3-year minimum<br>Tier 2 Staff Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i7 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 6,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "f0bbb6f0c22a5cdf7f84bd5ad18d64ef57300f8b4990897fb7c918a828ecd885",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 6,
+          "quote": "| \u2022 4 GB Video card<br>\u2022 Touchscreen optional<br>\u2022 Warranty: 3-year minimum<br>Tier 1 Staff Basic Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i5 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022 Memory: Minimum 16GB DDR5 RAM<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: USB Type C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 512 GB NVMe SSD<br>\u2022 0/S Windows 11 or Mac OS<br>\u2022 Warranty: 3-year minimum<br>Tier 2 Staff Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel i7 CPU, 14th Gen or equivalent.<br>\u2022 Display: Minimum 13\" diagonal screen<br>\u2022 Integrated Camera: 1080p<br>\u2022"
+        },
+        "rerank_score": 0.26942238211631775,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "text": "| SCOPE AND SPECIFICATIONS OF THE<br>PROPOSAL | |\n| --- | --- |\n| All warranties shall become effective on the date the equipment is placed into service, as agreed-upon by<br>Dallas ISD and the awarded vendor. Warranties shall be equal to or exceed those offered to the general<br>public. Dallas ISD expects that all warranty service and repairs or replacements will be performed by the<br>awarded vendors at no cost within five (5) business days of the District reporting the issue to the vendor.<br>Extension of warranty period and/or other adjustments will be expected when constant maintenance is<br>required, or if replacement parts prove unsound. Dallas ISD expects the awarded vendors to maintain an<br>adequate stock of replacement devices and/or parts to service equipment and to ensure repairs are made<br>within the designated five (5) business day period. If the five business (5) day repair period cannot be<br>achieved, the District expects to be provided a temporary replacement device. | |\n| Student Devices<br>Tier 1 Small Student Chromebook Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel Celeron Processor N100 or equivalent<br>\u2022 Display: Minimum 11.6\" diagonal<br>\u2022 Integrated Camera: 720p minimum<br>\u2022 Screen Resolution 1366 x 768 Multi-touch<br>\u2022 Memory: Minimum 8GB DDR5 Memory<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: Type C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 2 USB 3.0; type C; 1 headphone/microphone combo<br>\u2022 Storage: 64 GB eMMC<br>\u2022 Chrome O/S License Required<br>\u2022 Warranty: 1-year minimum<br>Tier 2 Large Student Chromebook Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel Celeron Processor N100 or equivalent<br>\u2022 Display: Minimum 14\" diagonal Non-Touch<br>\u2022 Integrated Camera: 720p minimum<br>\u2022 Screen Resolution 1920-1080<br>\u2022 Memory: Minimum 8GB DDR5 Memory<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: Type C, 65W<br>\u2022 Battery Life: Minimum 10 Hours<br>\u2022 Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 128 GB eMMC<br>\u2022 Chrome O/S License Required<br>\u2022 Warranty: 1-year minimum<br>Tier 3 Student Windows Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready w/ Autopilot Enrollment<br>\u2022 Intel i5 13th Gen or equivalent<br>\u2022 Display: Minimum 13\" diagonal<br>\u2022 Integrated Camera: 720p minimum | |",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 4,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "fde01d76244d48b428997c56733a03a89fa405a8dc69861ce4d2ffd455001d4f",
+          "kind": "table",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 4,
+          "quote": "| SCOPE AND SPECIFICATIONS OF THE<br>PROPOSAL | |\n| --- | --- |\n| All warranties shall become effective on the date the equipment is placed into service, as agreed-upon by<br>Dallas ISD and the awarded vendor. Warranties shall be equal to or exceed those offered to the general<br>public. Dallas ISD expects that all warranty service and repairs or replacements will be performed by the<br>awarded vendors at no cost within five (5) business days of the District reporting the issue to the vendor.<br>Extension of warranty period and/or other adjustments will be expected when constant maintenance is<br>required, or if replacement parts prove unsound. Dallas ISD expects the awarded vendors to maintain an<br>adequate stock of replacement devices and/or parts to service equipment and to ensure repairs are made<br>within the designated five (5) business day period. If the five business (5) day repair period cannot be<br>achieved, the District expects to be provided a temporary replacement device. | |\n| Student Devices<br>Tier 1 Small Student Chromebook Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel Celeron Processor N100 or equivalent<br>\u2022 Display: Minimum 11.6\" diagonal<br>\u2022 Integrated Camera: 720p minimum<br>\u2022 Screen Resolution 1366 x 768 Multi-touch<br>\u2022 Memory: Minimum 8GB DDR5 Memory<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: Type C, 65W<br>\u2022 Battery Life: Minimum 10 hours<br>\u2022 Ports: Minimum 2 USB 3.0; type C; 1 headphone/microphone combo<br>\u2022 Storage: 64 GB eMMC<br>\u2022 Chrome O/S License Required<br>\u2022 Warranty: 1-year minimum<br>Tier 2 Large Student Chromebook Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready<br>\u2022 Intel Celeron Processor N100 or equivalent<br>\u2022 Display: Minimum 14\" diagonal Non-Touch<br>\u2022 Integrated Camera: 720p minimum<br>\u2022 Screen Resolution 1920-1080<br>\u2022 Memory: Minimum 8GB DDR5 Memory<br>\u2022 Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>\u2022 Power Supply: Type C, 65W<br>\u2022 Battery Life: Minimum 10 Hours<br>\u2022 Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo<br>\u2022 Storage: 128 GB eMMC<br>\u2022 Chrome O/S License Required<br>\u2022 Warranty: 1-year minimum<br>Tier 3 Student Windows Laptop Minimum Requirements<br>\u2022 Enterprise Management Ready w/ Autopilot Enrollment<br>\u2022 Intel i5 13th Gen or equivalent<br>\u2022 Display: Minimum 13\" diagonal<br>\u2022 Integrated Camera: 720p minimum | |"
+        },
+        "rerank_score": 0.2512880265712738,
+        "notes": "Long table retained intact; dense embedding may truncate it"
+      }
+    ],
+    "latency_ms": 2589.41,
+    "warnings": []
+  },
+  {
+    "label": "bid_bond",
+    "query": "bid bond amount or percentage",
+    "expanded_queries": [
+      "bid bond amount or percentage",
+      "bid bond amount or percentage bid bond proposal security surety amount percentage"
+    ],
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid1",
+      "doc_type": null,
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "| PRICING RESPONSE<br>This proposal may be awarded to one or multiple vendors by line item, section or package determined to be<br>the best value to the District. You must propose line item pricing where applicable. All unit prices on<br>items shall be completed. A notation of \"Price to be determined\", \"On Request\", \"see attached\" or \"discount<br>percentage\" (%) only will be deemed as zero (0) points and may not be considered for award. \"No Bid\"/.01<br>must be entered for each item not being bid. All pricing shall be firm at the time of a sale during the life of the<br>contract and must conform and comply with the proposed pricing in response to this solicitation",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 21,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "482336ee915041ddc996146c8a3f998e849dbd396a6c29a0cbf0476cd396f8cb",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 21,
+          "quote": "| PRICING RESPONSE<br>This proposal may be awarded to one or multiple vendors by line item, section or package determined to be<br>the best value to the District. You must propose line item pricing where applicable. All unit prices on<br>items shall be completed. A notation of \"Price to be determined\", \"On Request\", \"see attached\" or \"discount<br>percentage\" (%) only will be deemed as zero (0) points and may not be considered for award. \"No Bid\"/.01<br>must be entered for each item not being bid. All pricing shall be firm at the time of a sale during the life of the<br>contract and must conform and comply with the proposed pricing in response to this solicitation"
+        },
+        "rerank_score": 0.3543083965778351,
+        "notes": ""
+      },
+      {
+        "rank": 2,
+        "text": "| PRICING INFORMATION | |\n| --- | --- |\n| shall submit in writing, no later than one hundred twenty (120) days prior to the anniversary of the effective<br>date, any changes in pricing. All fees, costs, and expenses required for the Offeror to provide the goods<br>and/or services (including, but not limited to, contractor staff costs, travel expenses, overhead,<br>hardware/software costs, connecting devices costs, and software customization costs), must be included in<br>the firm fixed price. Details of the fees, costs, and expenses must be disclosed on the LINE TAB. | |\n| MINIMUM PERCENTAGE DISCOUNT<br>Your proposal shall be a minimum percentage discount from your company's most current catalog, MSRP,<br>price list, or other standard offerings with indefinite quantities. Multiple percentage discount structures will be<br>accepted. Please specify percentage discounts on the Lines Tab. Percentage Discount - Please indicate the<br>discount the District may apply to the vendor's published catalog price or manufacturer's list price. If the<br>discount is 0%, please enter .01. All pricing must be able to be verified; please include a catalog or<br>website to look up items to verify discounts. All discounts % must be shown on quotes. | |\n| ONLINE CATALOG/PRICE LIST<br>Is your Catalog/Price List available via the internet or catalog? If yes, please indicate the website address. If<br>none, please enter N/A (not applicable). In order to offer a discount of 0% and up, a catalog or price list<br>must be available for Dallas ISD to verify pricing.<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..<br>Provide your answer below | |\n| PRICING RESPONSE<br>This proposal may be awarded to one or multiple vendors by line item, section or package determined to be<br>the best value to the District. You must propose line item pricing where applicable. All unit prices on<br>items shall be completed. A notation of \"Price to be determined\", \"On Request\", \"see attached\" or \"discount<br>percentage\" (%) only will be deemed as zero (0) points and may not be considered for award. \"No Bid\"/.01<br>must be entered for each item not being bid. All pricing shall be firm at the time of a sale during the life of the<br>contract and must conform and comply with the proposed pricing in response to this solicitation. The vendor<br>can not respond as a \"No Bid\" on all lines but provide a discount only, this will deem your response as zero<br>(0) for points on the evaluation. If evaluation scenario is presented, the Vendor must complete or this will<br>deem your response as a zero (0) for points on the evaluation. If the specifications require \"Line Item\" or unit<br>pricing, the Proposal must include a specific not-to-exceed price for the unit of measure specified for that<br>item. Proposer is responsible for clearly noting any differences in proposed packaging and/or units of<br>measure.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |\n| DEVIATIONS AND EXCEPTIONS - One of the<br>following options must be chosen. No response<br>will deem response as no deviation. | |\n| DEVIATIONS/EXCEPTIONS TO TERMS, CONDITIONS, AND/OR STATEMENT OF WORK<br>If the Offeror desires any exception/deviation from any portion of the solicitation document, those<br>exceptions/deviations must be clearly noted below. The offeror will provide reference to the particular page,<br>paragraph, and sentence and provide the Offeror's proposed changes to the page, paragraph, and sentence<br>in this section of their response. | |",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 21,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "0a21e3af0ade0163693a636dad780892614b3e53b39562efc7c8b34297b905b7",
+          "kind": "table",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 21,
+          "quote": "| PRICING INFORMATION | |\n| --- | --- |\n| shall submit in writing, no later than one hundred twenty (120) days prior to the anniversary of the effective<br>date, any changes in pricing. All fees, costs, and expenses required for the Offeror to provide the goods<br>and/or services (including, but not limited to, contractor staff costs, travel expenses, overhead,<br>hardware/software costs, connecting devices costs, and software customization costs), must be included in<br>the firm fixed price. Details of the fees, costs, and expenses must be disclosed on the LINE TAB. | |\n| MINIMUM PERCENTAGE DISCOUNT<br>Your proposal shall be a minimum percentage discount from your company's most current catalog, MSRP,<br>price list, or other standard offerings with indefinite quantities. Multiple percentage discount structures will be<br>accepted. Please specify percentage discounts on the Lines Tab. Percentage Discount - Please indicate the<br>discount the District may apply to the vendor's published catalog price or manufacturer's list price. If the<br>discount is 0%, please enter .01. All pricing must be able to be verified; please include a catalog or<br>website to look up items to verify discounts. All discounts % must be shown on quotes. | |\n| ONLINE CATALOG/PRICE LIST<br>Is your Catalog/Price List available via the internet or catalog? If yes, please indicate the website address. If<br>none, please enter N/A (not applicable). In order to offer a discount of 0% and up, a catalog or price list<br>must be available for Dallas ISD to verify pricing.<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..<br>Provide your answer below | |\n| PRICING RESPONSE<br>This proposal may be awarded to one or multiple vendors by line item, section or package determined to be<br>the best value to the District. You must propose line item pricing where applicable. All unit prices on<br>items shall be completed. A notation of \"Price to be determined\", \"On Request\", \"see attached\" or \"discount<br>percentage\" (%) only will be deemed as zero (0) points and may not be considered for award. \"No Bid\"/.01<br>must be entered for each item not being bid. All pricing shall be firm at the time of a sale during the life of the<br>contract and must conform and comply with the proposed pricing in response to this solicitation. The vendor<br>can not respond as a \"No Bid\" on all lines but provide a discount only, this will deem your response as zero<br>(0) for points on the evaluation. If evaluation scenario is presented, the Vendor must complete or this will<br>deem your response as a zero (0) for points on the evaluation. If the specifications require \"Line Item\" or unit<br>pricing, the Proposal must include a specific not-to-exceed price for the unit of measure specified for that<br>item. Proposer is responsible for clearly noting any differences in proposed packaging and/or units of<br>measure.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |\n| DEVIATIONS AND EXCEPTIONS - One of the<br>following options must be chosen. No response<br>will deem response as no deviation. | |\n| DEVIATIONS/EXCEPTIONS TO TERMS, CONDITIONS, AND/OR STATEMENT OF WORK<br>If the Offeror desires any exception/deviation from any portion of the solicitation document, those<br>exceptions/deviations must be clearly noted below. The offeror will provide reference to the particular page,<br>paragraph, and sentence and provide the Offeror's proposed changes to the page, paragraph, and sentence<br>in this section of their response. | |"
+        },
+        "rerank_score": 0.2031979262828827,
+        "notes": "Long table retained intact; dense embedding may truncate it"
+      },
+      {
+        "rank": 3,
+        "text": "price list, or other standard offerings with indefinite quantities. Multiple percentage discount structures will be\naccepted. Please specify percentage discounts on the Lines Tab. Percentage Discount - Please indicate the\ndiscount the District may apply to the vendor's published catalog price or manufacturer's list price. If the\ndiscount is 0%, please enter .01. All pricing must be able to be verified; please include a catalog or\nwebsite to look up items to verify discounts. All discounts % must be shown on quotes.\nONLINE CATALOG/PRICE LIST\nIs your Catalog/Price List available via the internet or catalog? If yes, please indicate the website address. If\nnone, please enter N/A (not applicable). In order to offer a discount of 0% and up, a catalog or price list",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 21,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "4c28b7566371722ab4aabe7dce6bce48fc079f2b29d917ba80f31a71f370997b",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 21,
+          "quote": "price list, or other standard offerings with indefinite quantities. Multiple percentage discount structures will be\naccepted. Please specify percentage discounts on the Lines Tab. Percentage Discount - Please indicate the\ndiscount the District may apply to the vendor's published catalog price or manufacturer's list price. If the\ndiscount is 0%, please enter .01. All pricing must be able to be verified; please include a catalog or\nwebsite to look up items to verify discounts. All discounts % must be shown on quotes.\nONLINE CATALOG/PRICE LIST\nIs your Catalog/Price List available via the internet or catalog? If yes, please indicate the website address. If\nnone, please enter N/A (not applicable). In order to offer a discount of 0% and up, a catalog or price list"
+        },
+        "rerank_score": 0.06859157234430313,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 3997.68,
+    "warnings": []
+  },
+  {
+    "label": "mode_vector",
+    "query": "submission deadline",
+    "expanded_queries": [
+      "submission deadline",
+      "submission deadline due date submission deadline closing date"
+    ],
+    "mode": "vector",
+    "filters": {
+      "bid_id": "Bid1",
+      "doc_type": null,
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "### Dates  \nPublication  \n05/29/2024 11:16 AM EDT  \nClosing Date  \n07/09/2024 03:00 PM EDT  \nPrebid Conference  \n06/10/2024 03:00 PM EDT  \nQuestions Due By  \n06/11/2024 05:00 PM EDT",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "doc_type": "bid_page",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "d9a69d2381645c4dd16ac025f1a017841ed97ff986e1955f200742df5a227449",
+          "kind": "text",
+          "section": "JA-207652 - Student and Staff Computing Devices \\*\\*SOURCING #168884\\*\\* > Dates"
+        },
+        "source": {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "### Dates  \nPublication  \n05/29/2024 11:16 AM EDT  \nClosing Date  \n07/09/2024 03:00 PM EDT  \nPrebid Conference  \n06/10/2024 03:00 PM EDT  \nQuestions Due By  \n06/11/2024 05:00 PM EDT"
+        },
+        "rerank_score": null,
+        "notes": ""
+      },
+      {
+        "rank": 2,
+        "text": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  \nPROPOSAL GENERAL INFORMATION\nin disqualification. All communication shall go through the Procurement Services Department during this\ncompetitive process. All questions received and the corresponding answers will be distributed to all bidders.\nNo verbal responses will be provided. The deadline for questions about this proposal is stated in the Bid\nActivities and the district will not respond to questions after this time and date. Response to questions will be\nposted in the form of an addendum to this proposal. The vendors will be responsible for checking the\nwebsite for any posted addenda.\nAWARD STATEMENT\nThis Proposal may be awarded to one or multiple vendors by line item, section, or package as determined to",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 32,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "a3b9660efae52d7934a1db3d74bf356655c66e32736083eb2c59324932de5b95",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 32,
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  \nPROPOSAL GENERAL INFORMATION\nin disqualification. All communication shall go through the Procurement Services Department during this\ncompetitive process. All questions received and the corresponding answers will be distributed to all bidders.\nNo verbal responses will be provided. The deadline for questions about this proposal is stated in the Bid\nActivities and the district will not respond to questions after this time and date. Response to questions will be\nposted in the form of an addendum to this proposal. The vendors will be responsible for checking the\nwebsite for any posted addenda.\nAWARD STATEMENT\nThis Proposal may be awarded to one or multiple vendors by line item, section, or package as determined to"
+        },
+        "rerank_score": null,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "text": "and requirements related to M/WBE programs.  \n**Section 12. | During Bid/Proposal Submission**  \n**M/WBE Forms.** Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.\nInclude all M/WBE supporting documentation including, but not limited to M/WBE Certificates, Affirmative Action, Equal\nEmployment Opportunity or Supplier Diversity Plan, signed, dated and notarized Joint Venture Agreement, signed, dated\nand notarized Mentor Prot\u00e9g\u00e9 Agreement and Minutes or Prime-Subcontractor Teaming Agreement. Each proposal is\nevaluated independently against other proposers.  \n**M/WBE Scoring Criteria.** The district\u2019s M/WBE Evaluation Scoring Criteria has been established as follows:",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 49,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "a56687809da8823feb0d45b24c536f1548405ca949db4311daf4a331f36aaab9",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 49,
+          "quote": "and requirements related to M/WBE programs.  \n**Section 12. | During Bid/Proposal Submission**  \n**M/WBE Forms.** Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.\nInclude all M/WBE supporting documentation including, but not limited to M/WBE Certificates, Affirmative Action, Equal\nEmployment Opportunity or Supplier Diversity Plan, signed, dated and notarized Joint Venture Agreement, signed, dated\nand notarized Mentor Prot\u00e9g\u00e9 Agreement and Minutes or Prime-Subcontractor Teaming Agreement. Each proposal is\nevaluated independently against other proposers.  \n**M/WBE Scoring Criteria.** The district\u2019s M/WBE Evaluation Scoring Criteria has been established as follows:"
+        },
+        "rerank_score": null,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 30.23,
+    "warnings": []
+  },
+  {
+    "label": "mode_hybrid",
+    "query": "submission deadline",
+    "expanded_queries": [
+      "submission deadline",
+      "submission deadline due date submission deadline closing date"
+    ],
+    "mode": "hybrid",
+    "filters": {
+      "bid_id": "Bid1",
+      "doc_type": null,
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  \nPROPOSAL GENERAL INFORMATION\nin disqualification. All communication shall go through the Procurement Services Department during this\ncompetitive process. All questions received and the corresponding answers will be distributed to all bidders.\nNo verbal responses will be provided. The deadline for questions about this proposal is stated in the Bid\nActivities and the district will not respond to questions after this time and date. Response to questions will be\nposted in the form of an addendum to this proposal. The vendors will be responsible for checking the\nwebsite for any posted addenda.\nAWARD STATEMENT\nThis Proposal may be awarded to one or multiple vendors by line item, section, or package as determined to",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 32,
+          "doc_date": null,
+          "text_source": "native_fallback",
+          "chunk_id": "a3b9660efae52d7934a1db3d74bf356655c66e32736083eb2c59324932de5b95",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 32,
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  \nPROPOSAL GENERAL INFORMATION\nin disqualification. All communication shall go through the Procurement Services Department during this\ncompetitive process. All questions received and the corresponding answers will be distributed to all bidders.\nNo verbal responses will be provided. The deadline for questions about this proposal is stated in the Bid\nActivities and the district will not respond to questions after this time and date. Response to questions will be\nposted in the form of an addendum to this proposal. The vendors will be responsible for checking the\nwebsite for any posted addenda.\nAWARD STATEMENT\nThis Proposal may be awarded to one or multiple vendors by line item, section, or package as determined to"
+        },
+        "rerank_score": null,
+        "notes": ""
+      },
+      {
+        "rank": 2,
+        "text": "10. Reference Page 36: The column says response value here. As pricing is noted above, clearing up\nthat the DISD requirement for \u201cvalue\u201d DISD would like displayed here, is just the spec\u2019s of the\ndevice in question.  \nAnswer: Yes, the specs, more specifically the proposed make and model of the device\nbeing proposed, should be included in this field.\n11. Will DISD consider extending the submission deadline out a few more weeks to allow sufficient\ntime for vendors to complete a compliant response after the addendum(s) has been posted?  \nAnswer: Dallas ISD does not anticipate extending the submission deadline.  \nPage 1 | 5",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "doc_type": "addendum",
+          "addendum_number": 1,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "49666fc2fa15678c069bc21b9e5f5a4b882ca73653921e08a1dd7668c9f68e71",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "10. Reference Page 36: The column says response value here. As pricing is noted above, clearing up\nthat the DISD requirement for \u201cvalue\u201d DISD would like displayed here, is just the spec\u2019s of the\ndevice in question.  \nAnswer: Yes, the specs, more specifically the proposed make and model of the device\nbeing proposed, should be included in this field.\n11. Will DISD consider extending the submission deadline out a few more weeks to allow sufficient\ntime for vendors to complete a compliant response after the addendum(s) has been posted?  \nAnswer: Dallas ISD does not anticipate extending the submission deadline.  \nPage 1 | 5"
+        },
+        "rerank_score": null,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "text": "and requirements related to M/WBE programs.  \n**Section 12. | During Bid/Proposal Submission**  \n**M/WBE Forms.** Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.\nInclude all M/WBE supporting documentation including, but not limited to M/WBE Certificates, Affirmative Action, Equal\nEmployment Opportunity or Supplier Diversity Plan, signed, dated and notarized Joint Venture Agreement, signed, dated\nand notarized Mentor Prot\u00e9g\u00e9 Agreement and Minutes or Prime-Subcontractor Teaming Agreement. Each proposal is\nevaluated independently against other proposers.  \n**M/WBE Scoring Criteria.** The district\u2019s M/WBE Evaluation Scoring Criteria has been established as follows:",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 49,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "a56687809da8823feb0d45b24c536f1548405ca949db4311daf4a331f36aaab9",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 49,
+          "quote": "and requirements related to M/WBE programs.  \n**Section 12. | During Bid/Proposal Submission**  \n**M/WBE Forms.** Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.\nInclude all M/WBE supporting documentation including, but not limited to M/WBE Certificates, Affirmative Action, Equal\nEmployment Opportunity or Supplier Diversity Plan, signed, dated and notarized Joint Venture Agreement, signed, dated\nand notarized Mentor Prot\u00e9g\u00e9 Agreement and Minutes or Prime-Subcontractor Teaming Agreement. Each proposal is\nevaluated independently against other proposers.  \n**M/WBE Scoring Criteria.** The district\u2019s M/WBE Evaluation Scoring Criteria has been established as follows:"
+        },
+        "rerank_score": null,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 74.33,
+    "warnings": []
+  }
+]

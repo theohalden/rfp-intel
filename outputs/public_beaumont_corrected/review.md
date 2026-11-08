@@ -1,0 +1,23 @@
+# Public RFP source review
+
+Source: https://www.bmtisd.com/uploaded/RFP_25.09_Chromebooks.pdf
+
+Phase: Final source-reviewed development regression: separate citation support/completeness, explicit attributes/conditions and identifier evidence gate.
+
+Workflow counts: 15 populated, 4 missing, 1 failed. These are not accuracy scores.
+
+Exact source audit: 44 field citations and 0 Q&A citations match the canonical indexed bid/file/physical page. 0 Q&A examples saved.
+
+## Independent findings
+
+- Recovered one-year term plus four optional one-year renewals, sealed physical submission/three complete copies/address, explicit no fax/email, department email and phone, and deadline date/time without inventing a zone.
+- Commercial model is Acer Chromebook Spin 511 RT756T. Part_no correctly remains missing: device and case compatibility model designations do not establish a separate SKU. Product distinguishes unit pricing for one Chromebook from unspecified actual order volume.
+- Technical specifications, case installation/Whiteglove services, Net 30 invoicing conditions and optional CTPA adoption are recovered. Installation wording remains general about what is installed before shipment; consult the specification.
+- One unresolved failure remains: required documentation is emitted as null after the final selected quotations failed to substantiate an insurance-maintenance assertion. The RFP does contain mandatory forms and conditional disclosures. This is an extraction failure, not evidence that no documentation is required.
+- Known earlier retrieval omissions are substantially repaired, but this result is not a clean unattended extraction. Review the required-document clauses in the PDF before using it.
+
+## Evidence and limits
+
+See gold_review.json for expectations established before the first live run, source_manifest.json for source/runtime hashes, the record and complete trace for actual outputs, and integrity.json for the contemporaneous unchanged-runtime/main-index check. Historical runtime_snapshot.zip preserves that run’s implementation.
+
+Manual source comparison, not a blinded accuracy benchmark. Validation and exact citations do not establish semantic accuracy. First-run and development retests are distinguished; expected answers were not provided to agents.

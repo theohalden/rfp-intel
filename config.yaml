@@ -1,0 +1,31 @@
+{
+  "paths": {
+    "data": "data",
+    "index": "index",
+    "outputs": "outputs"
+  },
+  "parsing": {
+    "table_strategy": "lines_strict",
+    "remove_repeated_margins": true,
+    "ocr_enabled": true,
+    "ocr_executable": "tesseract",
+    "ocr_language": "eng",
+    "ocr_dpi": 300,
+    "ocr_min_native_chars": 30,
+    "ocr_timeout_seconds": 60
+  },
+  "chunking": {
+    "size": 800,
+    "overlap": 100
+  },
+  "search": {
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "reranker_model": "BAAI/bge-reranker-base",
+    "candidate_k": 30,
+    "top_k": 5
+  },
+  "agents": {
+    "max_retries": 2,
+    "timeout_seconds": 60
+  }
+}

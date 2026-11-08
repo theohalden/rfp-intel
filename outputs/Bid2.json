@@ -1,0 +1,347 @@
+{
+  "bid_id": "Bid2",
+  "fields": {
+    "Bid Number": {
+      "value": "#E20P4600040",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|**PORFP Number:**<br> <br>|**#E20P4600040**<br>eMMA Project Number:**BPM044557** <br>|**#E20P4600040**<br>eMMA Project Number:**BPM044557** <br>|**#E20P4600040**<br>eMMA Project Number:**BPM044557** <br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Title": {
+      "value": "Dell Laptops w/Extended Warranty",
+      "sources": [
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Title  \nDell Laptops w/Extended Warranty  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Due Date": {
+      "value": "06/10/2024 at 2:00 PM EDT",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|<br>**PORFP Issue Date:**<br>mm/dd/yyyy <br>|<br>05/24/2024<br>|<br>**PROPOSAL DUE**<br>**DATE and TIME:** <br>|06/10/2024|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|Col1|Questions Due (Closing) Date and Time:<br>06/01/2024 at 2:00 PM EDT<br>Questions must be submitted in writing to<br>thawkins@treasurer.state.md.us with the subject line,<br>“QUESTION for Dell Laptop #E20P4600040”, and be<br>submitted in writing via e-mail to the Procurement Officer no later<br>than the date and time specified.|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|**Product Name**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Model #** <br>|<br>**Model #** <br>|<br>**Model #** <br>|**Qty**<br> <br>|**Qty**<br> <br>|**Due Date**<br>mm/dd/yyyy<br>|\n|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Base RFP states proposal due date as 06/10/2024; the page 2 header provides the time and timezone as 06/10/2024 at 2:00 PM EDT. A later portal page also reflects 06/10/2024 02:00 PM EDT, consistent with the due date."
+    },
+    "Bid Submission Type": {
+      "value": "Electronic submission through the State's eMaryland Marketplace Advantage (eMMA) e-Procurement system; bids not accepted by email, fax, U.S. Mail, or hand delivery.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|**Special Instructions:**<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Term of Bid": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Installation": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": "Within 45 days of Award.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Payment Terms": {
+      "value": "Invoices shall be submitted within 10 days of delivering the equipment.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|**Invoicing Instructions:**<br>|<br>1. Email invoices to:<br>STOaccountspayable@treasurer.state.md.us <br> <br>2. Invoice(s) shall be submitted within 10 days of delivering the<br>equipment and shall include at a minimum the following:<br>• Contractor name, mailing address, social security number<br>or Federal Tax ID number, and phone number.<br>• Reference the States assigned PORFP number.<br>• Date, invoice number and amount due.<br> <br>3. Proof of delivery including packing slip or delivery<br>confirmation, and equipment serial numbers.<br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "No net-day payment term stated; only invoice submission timing and required invoice contents are provided."
+    },
+    "Any Additional Documentation Required": {
+      "value": "The contractor must provide estimated ship date/lead time for each item; a Mercury Affidavit; proof of delivery including packing slip or delivery confirmation and equipment serial numbers; and, upon award, a warranty certificate or affidavit for the 3-year Dell limited hardware warranty. The state may request a Letter of Authorization (LOA) from the manufacturer or distributor.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|\n|**Invoicing Instructions:**<br>|<br>1. Email invoices to:<br>STOaccountspayable@treasurer.state.md.us <br> <br>2. Invoice(s) shall be submitted within 10 days of delivering the<br>equipment and shall include at a minimum the following:<br>• Contractor name, mailing address, social security number<br>or Federal Tax ID number, and phone number.<br>• Reference the States assigned PORFP number.<br>• Date, invoice number and amount due.<br> <br>3. Proof of delivery including packing slip or delivery<br>confirmation, and equipment serial numbers.<br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|\n|<br> <br>**Warranty Requirements**<br> <br>|<br> <br>**Warranty Requirements**<br> <br>|<br> <br>**Warranty Requirements**<br> <br>|<br> <br>**Deliverables**<br>|<br> <br>**Deliverables**<br>|<br> <br>**Deliverables**<br>|<br> <br>**Start Date**<br>mm/dd/yyyy<br>|<br> <br>**Start Date**<br>mm/dd/yyyy<br>|<br> <br>**End Date**<br>mm/dd/yyyy<br>|<br> <br>**End Date**<br>mm/dd/yyyy<br>|\n|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|<br>Date of<br>Delivery|<br>Date of<br>Delivery|<br>3 years<br>following the<br>date of delivery|<br>3 years<br>following the<br>date of delivery|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Bidder must also be registered and logged in to submit on eMMA, but that is a submission-system requirement rather than a document attachment."
+    },
+    "MFG for Registration": {
+      "value": "Dell",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The PORFP states the master contractor must be an authorized reseller for Dell."
+    },
+    "Contract or Cooperative to use": {
+      "value": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|**Special Instructions:**<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Only Master Contractors awarded under this master contract are eligible to submit a bid."
+    },
+    "Model_no": {
+      "value": "Dell Latitude 5550",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Part_no": {
+      "value": "CC7802; WD22TB4; 210-BLYZ",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|\n|2. Dell Thunderbolt 4<br>Dock – WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|30<br>|30<br>|06/10/2024<br>|"
+        },
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| Dell Latitude 5550 XCTO Base | 210-BLYZ |"
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "CC7802 appears as SI#/configured-system reference in the RFP; WD22TB4 is the dock part/model reference; 210-BLYZ is the Dell Latitude 5550 XCTO Base SKU."
+    },
+    "Product": {
+      "value": "Laptops, 30; Dell Thunderbolt 4 Dock – WD22TB4, 30",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|<br>***Business Need /**<br>**Required Functionality**<br> <br>|<br>***Business Need /**<br>**Required Functionality**<br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|\n|**Product Name**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Model #** <br>|<br>**Model #** <br>|<br>**Model #** <br>|**Qty**<br> <br>|**Qty**<br> <br>|**Due Date**<br>mm/dd/yyyy<br>|\n|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|\n|2. Dell Thunderbolt 4<br>Dock – WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|30<br>|30<br>|06/10/2024<br>|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "contact_info": {
+      "value": "Tamaira Hawkins; thawkins@treasurer.state.md.us; 410-260-7533",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|**Agency POC Name:**<br>|**Agency POC Name:**<br>|<br>Tamaira Hawkins<br>|<br>Tamaira Hawkins<br>|<br>Tamaira Hawkins<br>|**Agency POC**<br>**Phone Number:**<br>|**Agency POC**<br>**Phone Number:**<br>|**Agency POC**<br>**Phone Number:**<br>|410-260-7533<br>|410-260-7533<br>|\n|**Agency POC Email**<br>**Address:**<br>|**Agency POC Email**<br>**Address:**<br>|thawkins@treasurer.state.md<br>.us <br>|thawkins@treasurer.state.md<br>.us <br>|thawkins@treasurer.state.md<br>.us <br>|<br>**Agency POC**<br>**Fax:**|<br>**Agency POC**<br>**Fax:**|<br>**Agency POC**<br>**Fax:**|N/A|N/A|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "company_name": {
+      "value": "State of Maryland Treasurer's Office",
+      "sources": [
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Issuing Organization  \nState of Maryland Treasurer's Office  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Bid Summary": {
+      "value": "The bid number is #E20P4600040, and the title is Dell Laptops w/Extended Warranty. The issuing organization is the State of Maryland Treasurer's Office, and the agency contact is Tamaira Hawkins at thawkins@treasurer.state.md.us with phone number 410-260-7533. Responses are to be submitted through the State's eMaryland Marketplace Advantage system, and bids are not accepted by email, fax, U.S. Mail, or hand delivery. The due date is 06/10/2024 at 2:00 PM EDT, and the delivery date is within 45 days of award. The product includes laptops and a Dell Thunderbolt 4 Dock – WD22TB4, with Dell Latitude 5550 listed as the model number and CC7802, WD22TB4, and 210-BLYZ shown as part references. The specification notes that the laptops must be Microsoft Copilot ready, and the warranty requirement is a 3-year Dell Limited Hardware Warranty with a warranty certificate or affidavit to be presented upon award.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|**PORFP Number:**<br> <br>|**#E20P4600040**<br>eMMA Project Number:**BPM044557** <br>|**#E20P4600040**<br>eMMA Project Number:**BPM044557** <br>|**#E20P4600040**<br>eMMA Project Number:**BPM044557** <br>|"
+        },
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Title  \nDell Laptops w/Extended Warranty  "
+        },
+        {
+          "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Issuing Organization  \nState of Maryland Treasurer's Office  "
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|**Agency POC Name:**<br>|**Agency POC Name:**<br>|<br>Tamaira Hawkins<br>|<br>Tamaira Hawkins<br>|<br>Tamaira Hawkins<br>|**Agency POC**<br>**Phone Number:**<br>|**Agency POC**<br>**Phone Number:**<br>|**Agency POC**<br>**Phone Number:**<br>|410-260-7533<br>|410-260-7533<br>|\n|**Agency POC Email**<br>**Address:**<br>|**Agency POC Email**<br>**Address:**<br>|thawkins@treasurer.state.md<br>.us <br>|thawkins@treasurer.state.md<br>.us <br>|thawkins@treasurer.state.md<br>.us <br>|<br>**Agency POC**<br>**Fax:**|<br>**Agency POC**<br>**Fax:**|<br>**Agency POC**<br>**Fax:**|N/A|N/A|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|**Special Instructions:**<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|<br>**LIMITED TO MASTER CONTRACTORS**<br>Only Master Contractors that are awarded a contract under the<br>**Desktop,**<br>**Laptop**<br>**and**<br>**Tablet**<br>**2015**<br>**Master**<br>**Contract, **<br>**060B5400007,** are eligible to submit a bid in response to this<br>secondary competition Purchase Order Request for Proposal<br>(PORFP).<br> <br>**SMALL BUSINESS RESERVE (SBR) PROCUREMENT **<br>This is a Small Business Reserve Procurement for which award <br>will be limited to certified small business vendors. Only <br>businesses that meet the statutory requirements set forth in<br>State Finance and Procurement Article, §§14-501—14-505,<br>Annotated Code of Maryland, and that are certified by GOSBA <br>Small Business Reserve Program are eligible for award of a<br>contract.<br> <br>**BID SUBMISSION INSTRUCTIONS**<br>Purchase Order Request for Proposal (PORFP) responses will only<br>be accepted through the State's eMaryland Marketplace Advantage<br>(eMMA) e-Procurement system. Bids will not be accepted by email,<br>fax, U.S. Mail, or hand delivery. You must be registered and Logged<br>in<br>to<br>submit<br>a <br>bid<br>on<br>eMMA.<br> <br>Instructions on how to submit proposals electronically can be found<br>at: https://procurement.maryland.gov/emma-qrgs/ <br>Refer to Vendor QRG 4 – eMMA QRG Responding to Solicitations<br>(IFB)<br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "quote": "|<br>**PORFP Issue Date:**<br>mm/dd/yyyy <br>|<br>05/24/2024<br>|<br>**PROPOSAL DUE**<br>**DATE and TIME:** <br>|06/10/2024|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|Col1|Questions Due (Closing) Date and Time:<br>06/01/2024 at 2:00 PM EDT<br>Questions must be submitted in writing to<br>thawkins@treasurer.state.md.us with the subject line,<br>“QUESTION for Dell Laptop #E20P4600040”, and be<br>submitted in writing via e-mail to the Procurement Officer no later<br>than the date and time specified.|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|**Product Name**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Model #** <br>|<br>**Model #** <br>|<br>**Model #** <br>|**Qty**<br> <br>|**Qty**<br> <br>|**Due Date**<br>mm/dd/yyyy<br>|\n|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|<br>***Business Need /**<br>**Required Functionality**<br> <br>|<br>***Business Need /**<br>**Required Functionality**<br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|\n|**Product Name**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Model #** <br>|<br>**Model #** <br>|<br>**Model #** <br>|**Qty**<br> <br>|**Qty**<br> <br>|**Due Date**<br>mm/dd/yyyy<br>|\n|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|\n|2. Dell Thunderbolt 4<br>Dock – WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|30<br>|30<br>|06/10/2024<br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|\n|2. Dell Thunderbolt 4<br>Dock – WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|30<br>|30<br>|06/10/2024<br>|"
+        },
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| Dell Latitude 5550 XCTO Base | 210-BLYZ |"
+        },
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) | 379-BFNZ |\n| Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish | 619-ARSB |"
+        },
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) | 370-BBTL |\n| 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD | 400-BRFT |\n| 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam | 391-BJHB |\n| English US backlit AI hotkey keyboard with numeric keypad, 99-key | 583-BLNH |\n| Intel AX211 WLAN Driver | 555-BKQC |\n| Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card | 555-BKLQ |\n| 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable | 451-BDGX |\n| 65W AC adapter, USB Type-C, EcoDesign | 492-BDMN |"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|<br>Date of<br>Delivery|<br>Date of<br>Delivery|<br>3 years<br>following the<br>date of delivery|<br>3 years<br>following the<br>date of delivery|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "quote": "|**Security Requirements (if**<br>**applicable):**<br>|<br>1. The Department reserves the right to purchase more or less<br>than the specified quantity to the extent limited by funding.<br> <br>2. The Master Contractor must provide the estimated ship<br>date/lead time for each item listed in the PORFP FA I<br> <br>3. Please allow proposals/quotes provided in response to this<br>PORFP to be valid for at least 90 days after the set due date<br>above.<br> <br>4. The Master Contractor must be an authorized reseller for Dell.<br>The state reserves the right to request a Letter of Authorization<br>(LOA) from the Manufacturer or Distributor.<br> <br>5. Purchase new and unused equipment.<br> <br>6. The Master Contractor shall not impose a restocking fee if an<br>item is returned due to damage or incorrect product shipped.<br> <br>7. ENERGY STAR certified product<br> <br>8. The Master Contractor must provide a Mercury Affidavit:<br>https://doit.maryland.gov/contracts/Documents/hardware_co<br>ntract/hwmercury_affidavit.pdf<br> <br>9. Delivery within**45** days of Award.<br> <br>|\n|**Invoicing Instructions:**<br>|<br>1. Email invoices to:<br>STOaccountspayable@treasurer.state.md.us <br> <br>2. Invoice(s) shall be submitted within 10 days of delivering the<br>equipment and shall include at a minimum the following:<br>• Contractor name, mailing address, social security number<br>or Federal Tax ID number, and phone number.<br>• Reference the States assigned PORFP number.<br>• Date, invoice number and amount due.<br> <br>3. Proof of delivery including packing slip or delivery<br>confirmation, and equipment serial numbers.<br>|"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|**FA V** **- Manufacturer’s Extended Warranty**<br>**(Provide a detailed description of warranty requirements and deliverables)**<br> <br> <br> <br>|\n|<br> <br>**Warranty Requirements**<br> <br>|<br> <br>**Warranty Requirements**<br> <br>|<br> <br>**Warranty Requirements**<br> <br>|<br> <br>**Deliverables**<br>|<br> <br>**Deliverables**<br>|<br> <br>**Deliverables**<br>|<br> <br>**Start Date**<br>mm/dd/yyyy<br>|<br> <br>**Start Date**<br>mm/dd/yyyy<br>|<br> <br>**End Date**<br>mm/dd/yyyy<br>|<br> <br>**End Date**<br>mm/dd/yyyy<br>|\n|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|<br>Date of<br>Delivery|<br>Date of<br>Delivery|<br>3 years<br>following the<br>date of delivery|<br>3 years<br>following the<br>date of delivery|"
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Generated from validated fields; confidence is an uncalibrated estimate."
+    },
+    "Product Specification": {
+      "value": "Office needs a refresh of laptops; laptops must be Microsoft Copilot ready; Dell Latitude 5550 spec includes Intel Core Ultra 5 125U processor, Windows 11 Pro, 16 GB RAM, 256 GB SSD, 15.6-inch FHD 1920x1080 display, Intel Wi‑Fi 6E AX211 wireless card, and 3-year Dell Limited Hardware Warranty for all machines purchased.",
+      "sources": [
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|<br>***Business Need /**<br>**Required Functionality**<br> <br>|<br>***Business Need /**<br>**Required Functionality**<br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|<br>Office is in need of a refresh of laptops and must acquire enough<br>laptops to accommodate MD529 employees who have been<br>included in our staff as of June 1, 2023.<br> <br> <br> <br>|\n|**Product Name**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Product Description**<br>|<br>**Model #** <br>|<br>**Model #** <br>|<br>**Model #** <br>|**Qty**<br> <br>|**Qty**<br> <br>|**Due Date**<br>mm/dd/yyyy<br>|\n|1. SI# CC7802 Dell<br>Latitude 5550<br> <br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802 Dell Latitude<br>5550<br>***Laptops must be**<br>**Microsoft Copilot ready***<br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|SI# CC7802<br> <br>|<br>30<br>|<br>30<br>|<br>06/10/2024<br>|\n|2. Dell Thunderbolt 4<br>Dock – WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|<br>Dell Thunderbolt 4 Dock –<br>WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|WD22TB4<br> <br>|30<br>|30<br>|06/10/2024<br>|"
+        },
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) | 379-BFNZ |\n| Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish | 619-ARSB |"
+        },
+        {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) | 370-BBTL |\n| 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD | 400-BRFT |\n| 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam | 391-BJHB |\n| English US backlit AI hotkey keyboard with numeric keypad, 99-key | 583-BLNH |\n| Intel AX211 WLAN Driver | 555-BKQC |\n| Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card | 555-BKLQ |\n| 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable | 451-BDGX |\n| 65W AC adapter, USB Type-C, EcoDesign | 492-BDMN |"
+        },
+        {
+          "file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "quote": "|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|<br>1. Dell Limited Hardware Warranty<br>Extended for all machines<br>purchased - 3 Years|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|Warranty<br>certificate or<br>Affidavit to be<br>presented upon<br>award<br>|<br>Date of<br>Delivery|<br>Date of<br>Delivery|<br>3 years<br>following the<br>date of delivery|<br>3 years<br>following the<br>date of delivery|"
+        }
+      ],
+      "confidence": 0.94,
+      "notes": ""
+    }
+  },
+  "addendum_changes": [],
+  "validation": {
+    "passed": 16,
+    "failed": 0,
+    "not_found": 4
+  }
+}

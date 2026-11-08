@@ -1,0 +1,27 @@
+{
+  "extractions": [
+    {
+      "bid_id": "Bid1",
+      "validation": {
+        "passed": 15,
+        "failed": 0,
+        "not_found": 5
+      },
+      "verified_citations": 47,
+      "trace_steps": 166
+    },
+    {
+      "bid_id": "Bid2",
+      "validation": {
+        "passed": 16,
+        "failed": 0,
+        "not_found": 4
+      },
+      "verified_citations": 40,
+      "trace_steps": 70
+    }
+  ],
+  "qa_examples": 10,
+  "qa_not_found": 1,
+  "note": "Contract/provenance audit; not a claim of calibrated semantic accuracy."
+}

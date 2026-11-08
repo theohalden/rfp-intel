@@ -1,0 +1,79 @@
+{
+  "cases": [
+    [
+      "deadline",
+      "What is the proposal deadline and explicitly stated time zone?",
+      [
+        1,
+        2,
+        3,
+        14
+      ],
+      [
+        "2025",
+        "2:30"
+      ]
+    ],
+    [
+      "term",
+      "What is the initial contract term and how many renewals are permitted?",
+      [
+        4,
+        12,
+        15
+      ],
+      [
+        "four"
+      ]
+    ],
+    [
+      "specifications",
+      "Which Chromebook model, memory and storage are requested?",
+      [
+        12
+      ],
+      [
+        "8GB",
+        "64 GB"
+      ]
+    ],
+    [
+      "payment",
+      "What are the payment terms?",
+      [
+        24
+      ],
+      [
+        "net 30"
+      ]
+    ],
+    [
+      "installation",
+      "What services must be completed before shipment?",
+      [
+        12
+      ],
+      [
+        "prior to shipment"
+      ]
+    ],
+    [
+      "cooperative",
+      "Which purchasing alliance is referenced and is adoption obligatory?",
+      [
+        9,
+        15
+      ],
+      [
+        "CTPA",
+        "no obligation"
+      ]
+    ]
+  ],
+  "extra_questions": [
+    [
+      "bond",
+      "Does this RFP explicitly require a bid bond and specify its amount?"
+    ]
+  ]
+}

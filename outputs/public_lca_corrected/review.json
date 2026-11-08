@@ -1,0 +1,21 @@
+{
+  "bid_id": "Public_LCA_2025",
+  "phase": "Final source-reviewed development regression: separate citation support/completeness, explicit attributes/conditions and identifier evidence gate.",
+  "source_url": "https://lca.org.ls/wp-content/uploads/2025/06/RFP_FOR_STAFF_LAPTOPS-JUNE-2025.pdf",
+  "pipeline_validation": {
+    "passed": 12,
+    "failed": 0,
+    "not_found": 8
+  },
+  "verified_field_citations": 41,
+  "verified_qa_citations": 0,
+  "qa_examples": 0,
+  "findings": [
+    "Final development retest recovers physical-only submission, one original/four copies, separate technical/financial packages, outer marking/no bidder identification and CFO delivery address.",
+    "All four category quantities (7,2,9,5), category-specific technical attributes, banker liquidity reference and authorization/distributor alternatives are now present. Commercial model and part number remain correctly missing.",
+    "The source deadline has no explicit time zone. The record retains date/time with an incomplete-zone warning rather than inferring geography.",
+    "Payment Terms contains a source-backed bidder-preparation-expense disclaimer, not supplier invoice/payment timing. No standard invoice payment term was found; interpret the field accordingly.",
+    "The documentation notes group technical-proposal items broadly; consult the original clause for exact grouping and submission timing. Workflow success is not a completeness guarantee."
+  ],
+  "limits": "Manual source comparison, not a blinded accuracy benchmark. Validation and exact citations do not establish semantic accuracy. First-run and development retests are distinguished; expected answers were not provided to agents."
+}

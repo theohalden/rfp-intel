@@ -1,0 +1,226 @@
+[
+  {
+    "query": "submission deadline",
+    "expanded_queries": [
+      "submission deadline",
+      "What is the final submission due date and time for this bid, including deadline extensions?"
+    ],
+    "rerank_query": "What is the final submission due date and time for this bid, including deadline extensions?",
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid1",
+      "doc_type": null,
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "**ADDENDUM No. 2**\n**RFP JA-207652 Student and Staff Computing Devices**  \nThe Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  \nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.  \n**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  \nCompany Name: Submitter\u2019s Name/Title:  \nAddress: City, State and Zip Code:  \nEmail Address:  \nSubmitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "doc_type": "addendum",
+          "addendum_number": 2,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "006b32c1bc915c269b2ec348a937d35db6f3d82b0700e282f47c7fba7013536f",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**ADDENDUM No. 2**\n**RFP JA-207652 Student and Staff Computing Devices**  \nThe Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  \nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.  \n**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  \nCompany Name: Submitter\u2019s Name/Title:  \nAddress: City, State and Zip Code:  \nEmail Address:  \nSubmitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM"
+        },
+        "rerank_score": 0.02739608660340309,
+        "notes": "Dated deadline evidence prioritized; verify the cited wording and applicable amendments. "
+      },
+      {
+        "rank": 2,
+        "text": "### Dates  \nPublication  \n05/29/2024 11:16 AM EDT  \nClosing Date  \n07/09/2024 03:00 PM EDT  \nPrebid Conference  \n06/10/2024 03:00 PM EDT  \nQuestions Due By  \n06/11/2024 05:00 PM EDT",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "doc_type": "bid_page",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "d9a69d2381645c4dd16ac025f1a017841ed97ff986e1955f200742df5a227449",
+          "kind": "text",
+          "section": "JA-207652 - Student and Staff Computing Devices \\*\\*SOURCING #168884\\*\\* > Dates"
+        },
+        "source": {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "### Dates  \nPublication  \n05/29/2024 11:16 AM EDT  \nClosing Date  \n07/09/2024 03:00 PM EDT  \nPrebid Conference  \n06/10/2024 03:00 PM EDT  \nQuestions Due By  \n06/11/2024 05:00 PM EDT"
+        },
+        "rerank_score": 0.014486945234239101,
+        "notes": "Dated deadline evidence prioritized; verify the cited wording and applicable amendments. "
+      },
+      {
+        "rank": 3,
+        "text": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  \nBuyer **ALZATE, JASMINE** Email **JALZATE@dallasisd.org**  \n**1 Header Information**  \n**1.1 General Information**  \nFirst Advertisement Date/Issue Date **26-MAY-2024 08:00:00**\nSecond Advertisement Date **02-JUN-2024 08:00:00**\nPre-Proposal Meeting **10-JUN-2024 14:00:00**\nQuestions Deadline **11-JUN-2024 16:00:00**\nQuestions Response from the District **13-JUN-2024 18:00:00**\nSolicitation Due **27-JUN-2024 14:00:00**\nAnticipated Evaluation & Sel **11-JUL-2024 14:00:00**\nAnticipated Approval/Award **22-AUG-2024 18:00:00**  \n_**Pre-Proposal**_ A pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "rfp",
+          "addendum_number": null,
+          "page_number": 2,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "b865a7eb9992b17ab80c2f804fae080742666efd8c3ce8f7192840aab0254628",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  \nBuyer **ALZATE, JASMINE** Email **JALZATE@dallasisd.org**  \n**1 Header Information**  \n**1.1 General Information**  \nFirst Advertisement Date/Issue Date **26-MAY-2024 08:00:00**\nSecond Advertisement Date **02-JUN-2024 08:00:00**\nPre-Proposal Meeting **10-JUN-2024 14:00:00**\nQuestions Deadline **11-JUN-2024 16:00:00**\nQuestions Response from the District **13-JUN-2024 18:00:00**\nSolicitation Due **27-JUN-2024 14:00:00**\nAnticipated Evaluation & Sel **11-JUL-2024 14:00:00**\nAnticipated Approval/Award **22-AUG-2024 18:00:00**  \n_**Pre-Proposal**_ A pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,"
+        },
+        "rerank_score": 0.000292511802399531,
+        "notes": "Dated deadline evidence prioritized; verify the cited wording and applicable amendments. "
+      }
+    ],
+    "latency_ms": 11318.59,
+    "warnings": []
+  },
+  {
+    "query": "what changed",
+    "expanded_queries": [
+      "what changed",
+      "What changes or revisions does this addendum make to the original solicitation?"
+    ],
+    "rerank_query": "What changes or revisions does this addendum make to the original solicitation?",
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid1",
+      "doc_type": null,
+      "addendum_number": 2,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "**ADDENDUM No. 2**\n**RFP JA-207652 Student and Staff Computing Devices**  \nThe Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  \nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.  \n**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  \nCompany Name: Submitter\u2019s Name/Title:  \nAddress: City, State and Zip Code:  \nEmail Address:  \nSubmitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM",
+        "metadata": {
+          "bid_id": "Bid1",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "doc_type": "addendum",
+          "addendum_number": 2,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "markdown",
+          "chunk_id": "006b32c1bc915c269b2ec348a937d35db6f3d82b0700e282f47c7fba7013536f",
+          "kind": "text",
+          "section": ""
+        },
+        "source": {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**ADDENDUM No. 2**\n**RFP JA-207652 Student and Staff Computing Devices**  \nThe Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  \nThe information in this Addendum is hereby incorporated and made part of any contract awarded\npursuant to this solicitation.  \n**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  \nCompany Name: Submitter\u2019s Name/Title:  \nAddress: City, State and Zip Code:  \nEmail Address:  \nSubmitter\u2019s Signature: Telephone No.  \nFax No. 800 # (if available)  \nDate:  \nEND OF ADDENDUM"
+        },
+        "rerank_score": 0.27894672751426697,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 173.39,
+    "warnings": []
+  },
+  {
+    "query": "379-BFNZ processor",
+    "expanded_queries": [
+      "379-BFNZ processor",
+      "379-BFNZ processor technical specifications processor memory storage"
+    ],
+    "rerank_query": "379-BFNZ processor",
+    "mode": "hybrid_rerank",
+    "filters": {
+      "bid_id": "Bid2",
+      "doc_type": "specs",
+      "addendum_number": null,
+      "file_name": null,
+      "page_number": null,
+      "exclude_addenda": false
+    },
+    "hits": [
+      {
+        "rank": 1,
+        "text": "| Description | SKU / Part number |\n| --- | --- |\n| Dell Latitude 5550 XCTO Base | 210-BLYZ |\n| Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) | 379-BFNZ |\n| Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish | 619-ARSB |\n| No Microsoft Office License Included - 30 day Trial Offer Only | 658-BCSB |\n| Assembly Base MTL 5550 | 338-CNRG |\n| Integrated Intel graphics for Intel Core Ultra 5 125U processor | 338-CNRK |\n| Latitude 5550 Bottom Door, MTL U15 | 321-BKTQ |\n| Intel Rapid Storage Technology Driver | 409-BCXY |\n| Intel vPro Management Disabled | 631-BBSQ |\n| 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) | 370-BBTL |\n| 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD | 400-BRFT |\n| 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam | 391-BJHB |\n| English US backlit AI hotkey keyboard with numeric keypad, 99-key | 583-BLNH |\n| Intel AX211 WLAN Driver | 555-BKQC |\n| Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card | 555-BKLQ |\n| 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable | 451-BDGX |\n| 65W AC adapter, USB Type-C, EcoDesign | 492-BDMN |\n| No Security | 346-BKLV |\n| E4 Power Cord 1M for US | 537-BBDO |\n| Latitude 5550 Quick Start Guide | 340-DMNY |\n| SERI Guide (ENG/FR/Multi) | 340-AGIK |\n| ENERGY STAR Qualified | 387-BBPC |\n| Custom Configuration | 817-BBBB |\n| Dell Additional Software | 658-BFQB |\n| Mix Model MTL 65WADPT | 340-DMMK |\n| Intel Core Ultra 5 Non-vPro Label | 389-FGSN |\n| FHD HDR RGB Camera, TNR, Camera Shutter, Microphone | 319-BBKK |\n| Windows AutoPilot | 634-BRWG |\n| EPEAT 2018 Registered (Gold) | 379-BDZB |",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "doc_type": "specs",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "pdfplumber",
+          "chunk_id": "218cb94ea2a649a4335c655d94ffd21524fbd541f514a69083fe60fafcf3057a",
+          "kind": "table",
+          "section": ""
+        },
+        "source": {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "| Description | SKU / Part number |\n| --- | --- |\n| Dell Latitude 5550 XCTO Base | 210-BLYZ |\n| Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) | 379-BFNZ |\n| Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish | 619-ARSB |\n| No Microsoft Office License Included - 30 day Trial Offer Only | 658-BCSB |\n| Assembly Base MTL 5550 | 338-CNRG |\n| Integrated Intel graphics for Intel Core Ultra 5 125U processor | 338-CNRK |\n| Latitude 5550 Bottom Door, MTL U15 | 321-BKTQ |\n| Intel Rapid Storage Technology Driver | 409-BCXY |\n| Intel vPro Management Disabled | 631-BBSQ |\n| 16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors) | 370-BBTL |\n| 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD | 400-BRFT |\n| 15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam | 391-BJHB |\n| English US backlit AI hotkey keyboard with numeric keypad, 99-key | 583-BLNH |\n| Intel AX211 WLAN Driver | 555-BKQC |\n| Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card | 555-BKLQ |\n| 3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable | 451-BDGX |\n| 65W AC adapter, USB Type-C, EcoDesign | 492-BDMN |\n| No Security | 346-BKLV |\n| E4 Power Cord 1M for US | 537-BBDO |\n| Latitude 5550 Quick Start Guide | 340-DMNY |\n| SERI Guide (ENG/FR/Multi) | 340-AGIK |\n| ENERGY STAR Qualified | 387-BBPC |\n| Custom Configuration | 817-BBBB |\n| Dell Additional Software | 658-BFQB |\n| Mix Model MTL 65WADPT | 340-DMMK |\n| Intel Core Ultra 5 Non-vPro Label | 389-FGSN |\n| FHD HDR RGB Camera, TNR, Camera Shutter, Microphone | 319-BBKK |\n| Windows AutoPilot | 634-BRWG |\n| EPEAT 2018 Registered (Gold) | 379-BDZB |"
+        },
+        "rerank_score": 0.9771038889884949,
+        "notes": "Long table retained intact; dense embedding may truncate it"
+      },
+      {
+        "rank": 2,
+        "text": "### Native text supplement (layout fallback)  \nSI# CC7802 Dell Latitude 5550\nSKUDescription\n210-BLYZDell Latitude 5550 XCTO Base  \nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ\nthreads, up to 4.3 GHz Turbo)  \nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB\nSpanish\n658-BCSBNo Microsoft Office License Included - 30 day Trial Offer Only\n338-CNRGAssembly Base MTL 5550\n338-CNRKIntegrated Intel graphics for Intel Core Ultra 5 125U processor\n321-BKTQLatitude 5550 Bottom Door, MTL U15\n409-BCXYIntel Rapid Storage Technology Driver\n631-BBSQIntel vPro Management Disabled  \n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel 370-BBTL\nCore processors)\n400-BRFT256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "doc_type": "specs",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "pdfplumber",
+          "chunk_id": "9db5c2ab06ca57d9b8411e9e7badb4d951dd115a5b6a9466b3ed52c2a73fc8d6",
+          "kind": "text",
+          "section": "Native text supplement (layout fallback)"
+        },
+        "source": {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "### Native text supplement (layout fallback)  \nSI# CC7802 Dell Latitude 5550\nSKUDescription\n210-BLYZDell Latitude 5550 XCTO Base  \nIntel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ\nthreads, up to 4.3 GHz Turbo)  \nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB\nSpanish\n658-BCSBNo Microsoft Office License Included - 30 day Trial Offer Only\n338-CNRGAssembly Base MTL 5550\n338-CNRKIntegrated Intel graphics for Intel Core Ultra 5 125U processor\n321-BKTQLatitude 5550 Bottom Door, MTL U15\n409-BCXYIntel Rapid Storage Technology Driver\n631-BBSQIntel vPro Management Disabled  \n16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel 370-BBTL\nCore processors)\n400-BRFT256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD"
+        },
+        "rerank_score": 0.9650121927261353,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "text": "340-DMMKMix Model MTL 65WADPT\n389-FGSNIntel Core Ultra 5 Non-vPro Label\n319-BBKKFHD HDR RGB Camera, TNR, Camera Shutter, Microphone\n634-BRWGWindows AutoPilot\n379-BDZBEPEAT 2018 Registered (Gold)",
+        "metadata": {
+          "bid_id": "Bid2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "doc_type": "specs",
+          "addendum_number": null,
+          "page_number": 1,
+          "doc_date": null,
+          "text_source": "pdfplumber",
+          "chunk_id": "24de07e4332fcb172a0ff8ce944d8d9667230549d4580e1e7ffda8c2ba5fa421",
+          "kind": "text",
+          "section": "Native text supplement (layout fallback)"
+        },
+        "source": {
+          "file": "Dell_Laptop_Specs.pdf",
+          "page": 1,
+          "quote": "340-DMMKMix Model MTL 65WADPT\n389-FGSNIntel Core Ultra 5 Non-vPro Label\n319-BBKKFHD HDR RGB Camera, TNR, Camera Shutter, Microphone\n634-BRWGWindows AutoPilot\n379-BDZBEPEAT 2018 Registered (Gold)"
+        },
+        "rerank_score": 0.07044576108455658,
+        "notes": ""
+      }
+    ],
+    "latency_ms": 1907.84,
+    "warnings": []
+  }
+]

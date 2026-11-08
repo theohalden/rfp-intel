@@ -1,0 +1,412 @@
+{
+  "bid_id": "Public_Beaumont_2025",
+  "fields": {
+    "Bid Number": {
+      "value": "RFP 25.09",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 7,
+          "quote": "**RFP 25.09 – CHROMEBOOKS**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Title": {
+      "value": "RFP 25.09 – CHROMEBOOKS",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 3,
+          "quote": "**REQUEST FOR PROPOSALS**\n**BEAUMONT INDEPENDENT SCHOOL DISTRICT**  \n**RFP 25.09 – CHROMEBOOKS**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Due Date": {
+      "value": "Tuesday, February 4, 2025 by 2:30 p.m.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 1,
+          "quote": "**Questions Due** : Thursday, January 23, 2025 by 2:00 p.m.\n**Responses to Questions Posted:** Monday, January 27, 2025 by 2:00 p.m.\n**Response to RFP Due:** Tuesday, February 4, 2025 by 2:30 p.m."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 2,
+          "quote": "due no later than\n**TUESDAY, FEBRUARY 4, 2025 AT 2:30 P.M.**  "
+        }
+      ],
+      "confidence": 0.7,
+      "notes": "No time zone is stated in the supplied passages; zone unknown. Time zone not stated in cited evidence; deadline is incomplete."
+    },
+    "Bid Submission Type": {
+      "value": "Sealed paper proposals must be submitted/received by BISD Purchasing Department, 3395 Harrison Avenue, Beaumont, TX 77706; three complete copies are required, and proposal envelopes must be plainly marked “SEALED PROPOSAL – DO NOT OPEN.” Proposals received after 2:30 p.m. on Tuesday, February 4, 2025 are not considered. Faxed or emailed proposals are not accepted, and responses sent/delivered to any other district address are not considered. Separately, the completed Vendor Packet must be e-mailed in PDF format to purchasing@bmtisd.com by a BISD campus or department contact.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 2,
+          "quote": "Sealed Proposals must be addressed to the Administration at the address listed below. Attendance is not\nrequired, but welcomed:  \n**REQUEST FOR PROPOSALS FOR**  \n**RFP 25.09 - CHROMEBOOKS**  \ndue no later than\n**TUESDAY, FEBRUARY 4, 2025 AT 2:30 P.M.**  \nBeaumont ISD\nAttn: Purchasing Department  \n3395 Harrison Avenue\nBeaumont, TX 77706  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 3,
+          "quote": "**PROPOSALS MUST BE RECEIVED NO LATER THAN**  \n**TUESDAY, FEBRUARY 4, 2025 AT 2:30 P.M.**  \nAny Proposal received after such time will not be considered and will be returned unopened. Proposals\nwill be received by:  \nBISD Purchasing Department  \n3395 Harrison Avenue\nBeaumont, Texas 77706  \nThree (3) complete copies of the proposal must be submitted. Proposal envelopes must be plainly marked\non the outside as follows:  \n**SEALED PROPOSAL – DO NOT OPEN**\n**BEAUMONT INDEPENDENT SCHOOL DISTRICT**  \n**RFP 25.09 - CHROMEBOOKS**"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 2,
+          "quote": "**ANY PROPOSAL RECEIVED AFTER THE FINAL TIMES AND DATES STATED ABOVE WILL NOT BE**\n**CONSIDERED. UNSIGNED PROPOSALS AND/OR PROPOSALS RECEIVED VIA FACSIMILE OR EMAIL WILL**\n**NOT BE CONSIDERED. ALL RESPONSES MUST BE RECEIVED AT THE ADDRESS SHOWN ABOVE.**\n**RESPONSES SENT/ DELIVERED TO ANY OTHER DISTRICT ADDRESS WILL NOT BE CONSIDERED.**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "The completed Vendor Packet must be e-mailed by a BISD campus or department contact in PDF format to the\nBISD Purchasing Department at purchasing@bmtisd.com. Incomplete packets will be rejected."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The proposal itself must be sealed and physically delivered to the Purchasing Department; the separate Vendor Packet is instructed to be emailed in PDF format to purchasing@bmtisd.com."
+    },
+    "Term of Bid": {
+      "value": "The contract award term is one (1) year, with an option to renew for up to four (4) additional one (1) year terms upon mutual agreement of both parties.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 15,
+          "quote": "b. Term: The term of this contract award shall be for one (1) year, with an option to renew for up to  \nfour (4), one (1) year terms upon mutual agreement of both parties.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Pre Bid Meeting": {
+      "value": "None",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 1,
+          "quote": "**Pre-Proposal Conference:** None"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "No pre-proposal conference is scheduled."
+    },
+    "Installation": {
+      "value": "White Glove Services; Case installation; the case is to be installed prior to shipment to the District.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 4,
+          "quote": "specifications included with this RFP package. The District is seeking one (1) qualified Vendor to provide\nChromebooks with Google for Education Licenses, White Glove Services, and Case Installation. The Offeror"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "`o` Chromebook – Gray  \nTo be installed prior to shipment to the District  \n`o` Whiteglove Service  \n`o` Google for education license  \n`o` Case installation  "
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The supplied base passages explicitly require White Glove Services and Case installation, with installation to occur prior to shipment to the District. No evidence in the provided passages of imaging, asset tagging, etching, or Autopilot services."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Payment Terms": {
+      "value": "Invoices must reflect the purchase order number and be sent (mailed or emailed) to BISD Accounts Payable; the District is not responsible for payment of goods/services without an approved purchase order; all payments are net 30 days after receipt of the goods and/or services.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "3. The District will not be responsible for payment of goods/services without an approved purchase order.\n4. In order to process payments timely, all invoices should reflect the purchase order number and must be\nsent (mailed or emailed) to BISD Accounts Payable Department.\nMail: BISD Accounts Payable Dept. E-mail: invoices@bmtisd.com\n3395 Harrison Ave\nBeaumont, TX 77706\n5. All payments are net 30 days after receipt of the goods and/or services."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "5. All payments are net 30 days after receipt of the goods and/or services."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Any Additional Documentation Required": {
+      "value": "Exhibit A Proposal Form, signed by the Offeror; Exhibit B Vendor Packet, submitted by email in PDF, consisting of the Vendor Information Form, ACH Form, Conflict of Interest Form, W-9 Form, Proposer/Vendor Certification Forms, Felony Conviction Notice Form, Antitrust Certification Statement, and Confidentiality Declaration Form; incomplete packets will be rejected. Completed conflict-of-interest questionnaires must be included with responses to the RFP and filed with the district records administrator no later than the 7th business day after contract discussions begin or the person submits an application/response/proposal related to a potential agreement. Form 1295 (Certificate of Interested Parties) must be filled out electronically and submitted with the vendor’s proposal. Upon request, BISD must be furnished certified copies of the original insurance policies. If applicable, the vendor must complete and submit Standard Form-LLL, Disclosure Form to Report Lobbying, and the certification regarding certain foreign-owned companies in connection with critical infrastructure, with initials of the authorized representative where indicated. Vendor must also obtain certifications of compliance with the Buy America Preference Requirements from subrecipients and provide copies upon request to BISD and/or the awarding federal agency.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 10,
+          "quote": "**Q.** **THE OFFEROR MUST SUBMIT THE FOLLOWING ITEMS:**  \na. PROPOSAL FORM: Exhibit A, signed by Offeror.\nb. BISD’S VENDOR PACKET: Exhibit B, consisting of:"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "**Vendor Packet that consists of the following documents:**  \n**(1)** **Vendor Information Form;**\n**(2)** **ACH Form**\n**(3)** **Conflict of Interest Form;**\n**(4)** **W-9 Form;**\n**(5)** **Proposer/Vendor Certification Forms;**\n**(6)** **Felony Conviction Notice Form;**\n**(7)** **Antitrust Certification Statement; and**\n**(8)** **Confidentiality Declaration Form.**  \n**The completed Vendor Packet must be e-mailed by a BISD campus or department contact in PDF format to the**\n**[BISD Purchasing Department at purchasing@bmtisd.com. Incomplete packets will be rejected.](mailto:purchasing@bmtisd.com)**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 10,
+          "quote": "file a completed conflict of interest questionnaire with the appropriate district records\nadministrator not later than the 7 [th] business day after the date that the person: (1) begins\ncontract discussions or negotiations with the District; or (2) submits to the District an\napplication, response to a request for qualifications, submissions or proposals,\ncorrespondence, or another writing related to a potential agreement with the District. The\nconflict of interest questionnaire form is available from the Texas Ethics Commission at\n[www.ethics.state.tx.us. Completed conflict of interest questionnaires must be included with](http://www.ethics.state.tx.us/)\nresponses to this RFP. Please consult your own legal counsel if you have questions regarding"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 10,
+          "quote": "2. Certificate of Interested Parties (Form 1295 – must be filled out electronically with the Texas\nEthics Commission’s online filing application and submitted with Vendor’s proposal.  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 16,
+          "quote": "- All policies of insurance shall waive all rights of subrogation against BISD, its officers,\nemployees, and agents.  \n- Upon request, certified copies of original insurance policies shall be furnished to BISD.  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 35,
+          "quote": "cooperative agreement, the undersigned shall complete and submit Standard Form-LLL, “Disclosure Form to\nReport Lobbying”, in accordance with its instructions."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 32,
+          "quote": "________ Initials of Authorized Representative of Vendor, if applicable  \n**CERTIFICATION REGARDING CERTAIN FOREIGN-OWNED COMPANIES IN CONNECTION**  \n**WITH CRITICAL INFRASTRUCTURE**  \nBISD is prohibited from entering into a contract or other agreement relating to critical infrastructure that would grant\nto Vendor direct or remote access to or control of critical infrastructure in this state, excluding access specifically\nallowed by BISD for product warranty and support purposes. Vendor certifies that neither it nor its parent company\nnor any affiliate of Vendor or its parent company, is (1) owned by or the majority of stock or other ownership interest\nof the company is held or controlled by individuals who are citizens of China, Iran, North Korea, Russia, or a designated"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 38,
+          "quote": "under the Federal award. Vendor shall be responsible to obtain certifications of compliance with the Buy America\nPreference Requirements from such subrecipients, to retain such certifications in accordance with the record\nretention requirements applicable to the Federal award, and to provide copies of such certifications, upon request, to\nBISD and/or the awarding Federal agency.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The vendor packet items are expressly listed in Exhibit B. Conflict-of-interest questionnaires are separately required with RFP responses and also have a 7-business-day filing deadline. The foreign-owned-company and lobbying disclosures are conditional/applicable provisions, not unconditional submission items."
+    },
+    "MFG for Registration": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Contract or Cooperative to use": {
+      "value": "Central Texas Purchasing Alliance (CTPA); awards made by Beaumont ISD may be adopted by other active CTPA member districts",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 15,
+          "quote": "1 _. Membership. Beaumont ISD is a member in good standing of the of the Central Texas Purchasing_\n_[Alliance (CTPA), an alliance of over 100 school districts in Texas representing millions of students, sharing](http://www.google.com/url?q=http%3A%2F%2Fwww.txctpa.org%2F&sa=D&sntz=1&usg=AOvVaw2SY5jD1ocJ9bFSKjiX5sHo)_\n_information, services and contractual opportunities. CTPA is an alliance created in accordance with Section_\n_791.001 of the Texas Government Code through interlocal agreements._"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 9,
+          "quote": "| | 2. Adoption of Awarded Contracts. In support of this collaborative effort, all awards made by Beaumont ISD |\n| | may be adopted by other active CTPA member districts. By adopting a contract from another CTPA member |\n| | district, the adopting district has met the competitive bidding requirements established by the Texas |\n| | Education Code, Section 44.031(a)(4) and as required by the adopting district’s policies. There is no |\n| | obligation on either party to participate unless both parties agree. The goods and services provided under |\n| | the contract will be at the same or better contract pricing and purchasing terms established by the |\n| | originating district. |"
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "Referenced cooperative name is stated. No contract number was provided in the supplied evidence."
+    },
+    "Model_no": {
+      "value": "Acer Chromebook Spin 511 RT756T",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "- Acer Chromebook Spin 511 RT756T or equivalent with the following specs or better:  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Product": {
+      "value": "Chromebooks; specified model is \"Acer Chromebook Spin 511 RT756T or equivalent\". Pricing is for one (1) Chromebook per unit, multiplied by the requested quantity for each individual order. Included items/services are whiteglove service, Google for Education license, case installation, and shipping. BISD makes no guarantee or commitment concerning the quantities that will actually be purchased.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "of all specifications below, including shipping, for one (1) Chromebook. The District will multiply the\nproposed price (of one Chromebook) by the quantity needed for each individual order.  \na. **Specifications:**  \n- Acer Chromebook Spin 511 RT756T or equivalent with the following specs or better:  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "`o` Whiteglove Service  \n`o` Google for education license  \n`o` Case installation  \nShipping  \n`o` To be included in pricing of the Chromebook."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 21,
+          "quote": "**1.3** **PROPOSED PRICING:** (amount in numbers)\nPlease provide pricing for one (1) Chromebook (including all specifications listed in section 4 (a)\nof this RFP document). The district intends to utilize the pricing of one (1) Chromebook,\nmultiplied by the requested quantity for each, individual order.  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "b. **Estimated Quantities:** BISD makes no guarantee or commitment of any kind concerning quantities\nthat will actually be purchased. BISD makes no guarantee or commitment of any kind regarding\nusage of any contracts resulting from this solicitation.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The RFP states a per-unit price and that quantities actually purchased are not guaranteed; it does not state a guaranteed total purchase quantity."
+    },
+    "contact_info": {
+      "value": "BISD Purchasing Department; email: bids@bmtisd.com; phone: 409.617.5041.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 3,
+          "quote": "_**For questions regarding this Request for Proposals, please contact BISD Purchasing Department via email**_\n_**at**_ _**[bids@bmtisd.com.](mailto:bids@bmtisd.com)**_  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "_**Purchasing Department**_\n_**3395 Harrison Ave., Beaumont, TX 77706**_\n_**Phone #: 409.617.5041**_  "
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "No individual buyer/contact person is named in the supplied passages; the solicitation directs questions to the BISD Purchasing Department."
+    },
+    "company_name": {
+      "value": "BEAUMONT INDEPENDENT SCHOOL DISTRICT",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 1,
+          "quote": "**REQUEST FOR PROPOSALS**\n**BEAUMONT INDEPENDENT SCHOOL DISTRICT**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Issuing organization identified on the RFP title page."
+    },
+    "Bid Summary": {
+      "value": "Beaumont Independent School District issued RFP 25.09 – CHROMEBOOKS. The response due date is Tuesday, February 4, 2025 by 2:30 p.m., and the pre-proposal conference is none. Proposals must be sealed and received by the BISD Purchasing Department at 3395 Harrison Avenue in Beaumont, and three complete copies are required. The product is Chromebooks, with the specified model Acer Chromebook Spin 511 RT756T or equivalent, including white glove service, Google for Education license, case installation, and shipping in pricing. The contract term is one year with up to four one-year renewals, and payment terms are net 30 days after receipt of the goods and/or services.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 1,
+          "quote": "**REQUEST FOR PROPOSALS**\n**BEAUMONT INDEPENDENT SCHOOL DISTRICT**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 3,
+          "quote": "**REQUEST FOR PROPOSALS**\n**BEAUMONT INDEPENDENT SCHOOL DISTRICT**  \n**RFP 25.09 – CHROMEBOOKS**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 7,
+          "quote": "**RFP 25.09 – CHROMEBOOKS**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 1,
+          "quote": "**Questions Due** : Thursday, January 23, 2025 by 2:00 p.m.\n**Responses to Questions Posted:** Monday, January 27, 2025 by 2:00 p.m.\n**Response to RFP Due:** Tuesday, February 4, 2025 by 2:30 p.m."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 2,
+          "quote": "due no later than\n**TUESDAY, FEBRUARY 4, 2025 AT 2:30 P.M.**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 1,
+          "quote": "**Pre-Proposal Conference:** None"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 2,
+          "quote": "Sealed Proposals must be addressed to the Administration at the address listed below. Attendance is not\nrequired, but welcomed:  \n**REQUEST FOR PROPOSALS FOR**  \n**RFP 25.09 - CHROMEBOOKS**  \ndue no later than\n**TUESDAY, FEBRUARY 4, 2025 AT 2:30 P.M.**  \nBeaumont ISD\nAttn: Purchasing Department  \n3395 Harrison Avenue\nBeaumont, TX 77706  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 3,
+          "quote": "**PROPOSALS MUST BE RECEIVED NO LATER THAN**  \n**TUESDAY, FEBRUARY 4, 2025 AT 2:30 P.M.**  \nAny Proposal received after such time will not be considered and will be returned unopened. Proposals\nwill be received by:  \nBISD Purchasing Department  \n3395 Harrison Avenue\nBeaumont, Texas 77706  \nThree (3) complete copies of the proposal must be submitted. Proposal envelopes must be plainly marked\non the outside as follows:  \n**SEALED PROPOSAL – DO NOT OPEN**\n**BEAUMONT INDEPENDENT SCHOOL DISTRICT**  \n**RFP 25.09 - CHROMEBOOKS**"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 2,
+          "quote": "**ANY PROPOSAL RECEIVED AFTER THE FINAL TIMES AND DATES STATED ABOVE WILL NOT BE**\n**CONSIDERED. UNSIGNED PROPOSALS AND/OR PROPOSALS RECEIVED VIA FACSIMILE OR EMAIL WILL**\n**NOT BE CONSIDERED. ALL RESPONSES MUST BE RECEIVED AT THE ADDRESS SHOWN ABOVE.**\n**RESPONSES SENT/ DELIVERED TO ANY OTHER DISTRICT ADDRESS WILL NOT BE CONSIDERED.**  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "The completed Vendor Packet must be e-mailed by a BISD campus or department contact in PDF format to the\nBISD Purchasing Department at purchasing@bmtisd.com. Incomplete packets will be rejected."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "of all specifications below, including shipping, for one (1) Chromebook. The District will multiply the\nproposed price (of one Chromebook) by the quantity needed for each individual order.  \na. **Specifications:**  \n- Acer Chromebook Spin 511 RT756T or equivalent with the following specs or better:  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "`o` Whiteglove Service  \n`o` Google for education license  \n`o` Case installation  \nShipping  \n`o` To be included in pricing of the Chromebook."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 21,
+          "quote": "**1.3** **PROPOSED PRICING:** (amount in numbers)\nPlease provide pricing for one (1) Chromebook (including all specifications listed in section 4 (a)\nof this RFP document). The district intends to utilize the pricing of one (1) Chromebook,\nmultiplied by the requested quantity for each, individual order.  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "b. **Estimated Quantities:** BISD makes no guarantee or commitment of any kind concerning quantities\nthat will actually be purchased. BISD makes no guarantee or commitment of any kind regarding\nusage of any contracts resulting from this solicitation.  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "- Acer Chromebook Spin 511 RT756T or equivalent with the following specs or better:  \n`o` Flip design  \n`o` N100 – up to 3.4 GHz  \n`o` UHD Graphics  \n`o` 64 GB eMMC  \n`o` Wi-Fi 6E  \n`o` Intel N-series  \n`o` 8GB RAM  \n`o` 11.6” IPS touchscreen 1366 x 768 (HD)  \n`o` MAXCases Extreme Shell-F Case for R756TN 11.6”  \n`o` Chromebook – Gray  \nTo be installed prior to shipment to the District  \n`o` Whiteglove Service  \n`o` Google for education license  \n`o` Case installation  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 4,
+          "quote": "specifications included with this RFP package. The District is seeking one (1) qualified Vendor to provide\nChromebooks with Google for Education Licenses, White Glove Services, and Case Installation. The Offeror"
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "`o` Chromebook – Gray  \nTo be installed prior to shipment to the District  \n`o` Whiteglove Service  \n`o` Google for education license  \n`o` Case installation  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 15,
+          "quote": "b. Term: The term of this contract award shall be for one (1) year, with an option to renew for up to  \nfour (4), one (1) year terms upon mutual agreement of both parties.  "
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "3. The District will not be responsible for payment of goods/services without an approved purchase order.\n4. In order to process payments timely, all invoices should reflect the purchase order number and must be\nsent (mailed or emailed) to BISD Accounts Payable Department.\nMail: BISD Accounts Payable Dept. E-mail: invoices@bmtisd.com\n3395 Harrison Ave\nBeaumont, TX 77706\n5. All payments are net 30 days after receipt of the goods and/or services."
+        },
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 24,
+          "quote": "5. All payments are net 30 days after receipt of the goods and/or services."
+        }
+      ],
+      "confidence": 0.7,
+      "notes": "Generated from validated fields; confidence is an uncalibrated estimate."
+    },
+    "Product Specification": {
+      "value": "Acer Chromebook Spin 511 RT756T or equivalent with the following specs or better: flip design; Intel N-series; N100 up to 3.4 GHz; UHD Graphics; 64 GB eMMC; Wi‑Fi 6E; 8GB RAM; 11.6” IPS touchscreen 1366 x 768 (HD); Chromebook – Gray; MAXCases Extreme Shell-F Case for R756TN 11.6” installed prior to shipment to the District; Whiteglove Service; Google for education license; case installation.",
+      "sources": [
+        {
+          "file": "chromebooks_rfp.pdf",
+          "page": 12,
+          "quote": "- Acer Chromebook Spin 511 RT756T or equivalent with the following specs or better:  \n`o` Flip design  \n`o` N100 – up to 3.4 GHz  \n`o` UHD Graphics  \n`o` 64 GB eMMC  \n`o` Wi-Fi 6E  \n`o` Intel N-series  \n`o` 8GB RAM  \n`o` 11.6” IPS touchscreen 1366 x 768 (HD)  \n`o` MAXCases Extreme Shell-F Case for R756TN 11.6”  \n`o` Chromebook – Gray  \nTo be installed prior to shipment to the District  \n`o` Whiteglove Service  \n`o` Google for education license  \n`o` Case installation  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    }
+  },
+  "addendum_changes": [],
+  "validation": {
+    "passed": 16,
+    "failed": 0,
+    "not_found": 4
+  }
+}

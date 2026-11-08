@@ -1,0 +1,148 @@
+{
+  "established_before_live_run": true,
+  "method": "Independent review of original PDF text and rendered pages; no reference to generated extraction.",
+  "expected": {
+    "Bid Number": {
+      "value": null,
+      "reason": "No solicitation identifier printed; the issue date is not a bid number."
+    },
+    "Title": {
+      "value": "Request for Proposals for the Supply and Delivery of Business Laptops",
+      "pages": [
+        1
+      ]
+    },
+    "Due Date": {
+      "partial_value": "21 July 2025 at 11:00",
+      "timezone": null,
+      "pages": [
+        4
+      ],
+      "expected_strict_behavior": "Retain the supported date/time, explicitly flag unknown source time zone and cap confidence; never invent a zone."
+    },
+    "Bid Submission Type": {
+      "value": "Physical delivery; electronic submissions prohibited; separate sealed technical and financial packages; one original plus four copies",
+      "pages": [
+        3,
+        4
+      ]
+    },
+    "Term of Bid": {
+      "value": null,
+      "reason": "60 working days is proposal validity, not contract duration."
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "reason": "Bid opening on 21 July at 11:15 is not a pre-bid meeting."
+    },
+    "Installation": {
+      "value": null,
+      "reason": "No installation/deployment service obligation found; specifications do require preinstalled Windows 11 Pro."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "reason": "No bid-bond/security requirement found."
+    },
+    "Delivery Date": {
+      "value": "No more than six weeks from receipt of purchase order",
+      "pages": [
+        5
+      ]
+    },
+    "Payment Terms": {
+      "value": null,
+      "reason": "No invoice-payment schedule found."
+    },
+    "Any Additional Documentation Required": {
+      "value": [
+        "Tax Clearance Certificate",
+        "Traders Licence",
+        "VAT registration if applicable",
+        "Company Profile",
+        "three client references",
+        "banker financial-liquidity reference",
+        "manufacturer/distributor authorization or partnership certificate",
+        "substantive technical table responses"
+      ],
+      "pages": [
+        2,
+        3,
+        5
+      ]
+    },
+    "MFG for Registration": {
+      "value": "HP; manufacturer or authorized distributor authorization/partnership evidence required",
+      "pages": [
+        2,
+        5,
+        6,
+        7
+      ]
+    },
+    "Contract or Cooperative to use": {
+      "value": null,
+      "reason": "No master/state/cooperative contract vehicle found."
+    },
+    "Model_no": {
+      "value": null,
+      "reason": "Only laptop categories and CPU families; no commercial laptop model numbers."
+    },
+    "Part_no": {
+      "value": null,
+      "reason": "No manufacturer SKU/part identifiers found."
+    },
+    "Product": {
+      "value": {
+        "brand": "HP",
+        "2-in-1 laptops": 7,
+        "high-end laptops": 2,
+        "standard level 2 laptops": 9,
+        "standard level 1 laptops": 5,
+        "total": 23
+      },
+      "pages": [
+        2
+      ]
+    },
+    "contact_info": {
+      "value": "Chief Financial Officer, admin@lca.org.ls; no named individual or telephone specified",
+      "pages": [
+        4
+      ]
+    },
+    "company_name": {
+      "value": "Lesotho Communications Authority",
+      "pages": [
+        2,
+        4
+      ]
+    },
+    "Bid Summary": {
+      "rule": "3\u20136 supported sentences; do not invent a time zone or unsupported missing facts"
+    },
+    "Product Specification": {
+      "value": {
+        "CPU_categories": [
+          "Core Ultra 7",
+          "Core Ultra 9",
+          "Core Ultra 7",
+          "Core Ultra 5"
+        ],
+        "RAM_GB": [
+          16,
+          32,
+          16,
+          8
+        ],
+        "storage": "512 GB SSD PCIe NVMe or better",
+        "OS": "Windows 11 Pro 64-bit",
+        "warranty": "3 years carry-in, all four categories",
+        "displays": "14 inches for 2-in-1; 15.6 inches for remaining categories"
+      },
+      "pages": [
+        6,
+        7
+      ]
+    }
+  }
+}

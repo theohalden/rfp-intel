@@ -1,0 +1,472 @@
+{
+  "bid_id": "Bid1",
+  "fields": {
+    "Bid Number": {
+      "value": "JA-207652",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Solicitation Number  \nJA-207652  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Title": {
+      "value": "Student and Staff Computing Devices **SOURCING #168884**; RFP JA-207652 Student and Staff Computing Devices",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Title  \nStudent and Staff Computing Devices \\*\\*SOURCING #168884\\*\\*  "
+        },
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**RFP JA-207652 Student and Staff Computing Devices**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The addendum presents the title as 'RFP JA-207652 Student and Staff Computing Devices,' which clarifies the solicitation title but does not contradict the existing title content."
+    },
+    "Due Date": {
+      "value": "July 9, 2024 at 2:00 PM CST",
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "The Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The addendum explicitly states the due date is extended and gives a new due date of July 9, 2024 at 2:00 PM CST, superseding the earlier deadline."
+    },
+    "Bid Submission Type": {
+      "value": "Electronic portal preferred; manual submissions allowed in sealed envelope by the stated date and time; fax or email submissions not accepted.; If responding electronically, a pdf version is not required. Manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission for areas with insufficient space. Bidders are required to acknowledge and return/submit a copy of this addendum with their proposal.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "quote": "| INSTRUCTION AND REQUIREMENTS FOR<br>OFFER SUBMITTAL | |\n| The Offeror shall furnish to the District all information and data requested by the District to determine the<br>Offeror's qualifications and responsibilities. The requested information must be provided using the PDF<br>version of the solicitation where indicated--do not reference other parts of the Offer or other documents. All<br>answers must be complete and stand-alone. Failure to follow directions using the PDF version of the<br>solicitation may result in the Offer being disqualified or deemed non-responsive. The Offerors shall<br>familiarize themselves with the relevant conditions in the material and labor markets prior to the submission<br>of an offer. By submitting an offer, the Offeror represents that it has familiarized itself with existing and future<br>market conditions and agrees to perform in full accordance with the Offer. The Offeror must comply with any<br>insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.<br>The Offeror must include pertinent literature/documentation for the proposed products/goods or services. If<br>the Offeror requires a credit application or similar documentation to conduct business with Dallas ISD after<br>awarding of any Contract, those documents must be submitted at the time of Offer submission.<br>Dallas ISD prefers responses to be submitted online via our electronic system. Please register with the<br>iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the<br>vendor to please register as early as possible to allow time for electronic responses. Submissions may be<br>submitted manually. Manual submissions must be delivered to the Procurement Services Department, in a<br>sealed envelope by the date and time stated. No fax or email submissions will be accepted. Only one<br>format is needed. The manual submission shall consist of one (1) original hard copy.<br>The Offeror may submit a manual response by paper via mail/FedEx/UPS etc. before the cutoff date and<br>time at the following address:<br>Dallas ISD<br>Procurement Services<br>9400 N Central Expwy, Ste 1510<br>Attn: Staff Member and BID NUMBER<br>Dallas, Tx 75231<br>Does the vendor agree and understand?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes<br>No | |"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "Answer: If responding electronically, a pdf version is not required. Manual responses\nshould have direct edits on the PDF, supporting documentation can be included as part\nof the submission for those areas that are not sufficient in space."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 5,
+          "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER**\n**PROVISIONS, AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED**\n**TO ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+        }
+      ],
+      "confidence": 0.82,
+      "notes": "The addendum clarifies response formatting by stating that an electronic response does not require a PDF version and that manual responses should have direct edits on the PDF, with supporting documentation allowed where space is insufficient. It also adds a requirement to sign and return the addendum with the proposal. It does not contradict the existing submission channels or fax/email prohibition."
+    },
+    "Term of Bid": {
+      "value": "Three (3) year agreement with two (2) successive one (1) year extensions, not to exceed five (5) years total.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "| LENGTH OF CONTRACT |  |\n| --- | --- |\n| The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year<br>extensions based on the long-range needs of the District and mutual consent of both parties not to exceed<br>five (5) years total. |  |"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Pre Bid Meeting": {
+      "value": "06/10/2024 03:00 PM EDT; Join TEAMS Meeting: https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Prebid Conference  \nAttendance  \nN/A  \nEvent date  \n06/10/2024 03:00 PM EDT"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "considered. It is highly encouraged that all potential proposers participate and attend the preproposal.  \nJoin TEAMS Meeting: https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting\nMeeting ID: 270 031 467 036\nPasscode: N9ndKY  "
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "Attendance is listed as N/A on the bid page; the RFP text says it is highly encouraged that potential proposers attend, but does not state mandatory attendance. The bid page provides the event date/time; the RFP provides the TEAMS meeting method."
+    },
+    "Installation": {
+      "value": "Software installation; asset tagging and etching; device deployment and setup; asset control reporting; white glove services including asset decaling, asset reporting, etching, and delivery to varied locations.; For Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required. Vendors must coordinate a schedule of deliveries with the Dallas ISD ED TECH department.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 7,
+          "quote": "| 2. Describe your company's ability to perform each of the deployment services described above. These<br>services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup,<br>and (d) asset control reporting.<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Provide your answer below | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "quote": "| Manufacturer or Authorized Reseller Qualifications<br>For proposing vendors who are resellers, a copy of all factory-authorized repair and maintenance<br>certifications must be submitted with each proposal. Vendors must provide demonstrated competencies and<br>references in delivering the magnitude of devices listed on the price sheet. This supporting documentation<br>may include details of past projects, statements in reference letters, and/or project plans.<br>Equipment Requirements<br>All equipment must be new and of the manufacturer's current model in production at the time of each order<br>executed over the life of the contracts resulting from this RFP. All standard or optional equipment must be as<br>advertised by the original equipment manufacturer (OEM) and must not consist of substitute or aftermarket<br>equipment. Equipment attachments or parts to be installed must follow the manufacturer's recommendations<br>or standard industry practices.<br>Deployment Services<br>All deliveries and deployments must incorporate white glove services, which include asset decaling, asset<br>reporting, etching, and delivery to varied locations.<br>Warranty and Warranty Repair Work<br>Awarded vendors must be responsible for all materials and accessories used in the equipment, and this<br>responsibility may not be transferred, conveyed, or assigned to any other entity without previous written<br>approval of Dallas ISD. | |"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "33. Pricing: Do you require any Imaging on your devices? Every DT, Laptop, and tablet device has an\nOS installed. What additional software do you require for the software installation requirement?  \nAnswer: For Windows devices, autopilot is required. For Chromebooks, enrollment in\nGoogle Management is required.\n34. Deployment: Does Dallas ISD have a deployment schedule? Number of devices to each address,\nwhich devices to each address. How many deployments per week, month and when?  \nAnswer: Any awarded vendor will need to coordinate a schedule of deliveries with the\nDallas ISD ED TECH department."
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The addendum adds clarification that Windows devices require Autopilot and Chromebooks require Google Management enrollment, and that delivery scheduling must be coordinated with Dallas ISD ED TECH. This supplements the existing deployment-service requirements."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Payment Terms": {
+      "value": "All Prime vendors must pay all submitted invoices, including retainage to subcontractors, suppliers, or entities within 10 days of receiving payment from the district; no Prime vendor shall withhold a non-disputed subcontractor payment; no Prime vendor may withhold retainage greater than 5% from the subcontractor. Contract with each subcontractor must include payment terms and prompt payment clause.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 51,
+          "quote": "- All Prime vendors must pay all submitted invoices, including retainage to subcontractors, suppliers, or entities\nwithin **10 days** of receiving payment from the district;  \n- No Prime vendor shall withhold a non-disputed subcontractor payment;  \n- No Prime vendor may withhold retainage greater than 5% from the subcontractor.  \n**Contract Execution between Prime Vendor and Subcontractor.** Prime vendor agrees to establish a written contract with\neach subcontractor. At minimum, the contract should include the scope of work, payment terms, prompt payment clause\nand retainage clause."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Payment/invoicing terms are stated in the subcontractor requirements section."
+    },
+    "Any Additional Documentation Required": {
+      "value": "Insurance/bond certificate is required; the form states the certificate must be submitted within ten (10) days of award. The proposal also certifies no deviations or exceptions from the attached specific terms, conditions, specifications, and required forms.; Form 1295 should be submitted with the RFP response. Additional warranty information and pricing can be submitted as an attachment. If responding electronically, a PDF version is not required; manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission for areas with insufficient space.; Submit a signed copy of this addendum with the proposal.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 17,
+          "quote": "| INSURANCE AND/OR BONDS<br>Insurance and/or bond requirements are enumerated elsewhere in Contract documents. Submission of a<br>certificate of insurance/bond by the undersigned (or an agent/broker on behalf of the undersigned)<br>represents that the coverages and perils covered by the insurance/bond meet or exceed the requirements of<br>the solicitation document and/or subsequent contract. The District may reasonably rely on the submitted<br>certificate of insurance/bond. The certificate of insurance/bond must accurately reflect the policy coverages<br>and will become a part of the Contract Documents and incorporated by reference, but the Contract<br>terms/conditions and statement of work take precedence over any and all contents of the certificate of<br>insurance/bond including, but not limited to, disclaimers, qualifications, etc. Failure to provide<br>insurance/bond under the Contract may be cause for termination for default and other remedies allowed by<br>law and/or equity. The offeror must notify the District, in writing, by certified mail or personal delivery, within<br>ten (10) days after the Offeror knew or should have known of any changes that materially affect the<br>insurance/bond coverage. Please acknowledge that you have read and understood that the district can not<br>do business with your company without the submittal of this form. The insurance form must be received<br>within ten (10) days of award. For more information please visit the Dallas ISD's terms and conditions page<br>at https://www.dallasisd.org/Page/81178.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 22,
+          "quote": "| NO DEVIATIONS OR EXCEPTIONS<br>I certify that there are NO deviations or exceptions from the attached specific terms, conditions,<br>specifications, and required forms.<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>I certify that there are NO deviations or exceptions from the attached specific terms, conditions,<br>specifications, and required forms |  |"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "31. FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be\nsigned and attached to the Response Attachments, prior to any business transaction.\" Referring\nto \"Response Attachments,\" does Form 1295 have to be submitted with the RFP response or\nafter award, \"prior to any business transaction\"?  \nAnswer: The Form 1295 should be submitted with the RFP response."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "Answer: As a minimum requirement, Dallas ISD is asking for a one-year warranty for\nstudent Chromebooks and three years for student and staff Windows laptops. The\nsystem will only take one input, additional warranty information and pricing can be\nsubmitted as an attachment."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "Answer: If responding electronically, a pdf version is not required. Manual responses\nshould have direct edits on the PDF, supporting documentation can be included as part\nof the submission for those areas that are not sufficient in space."
+        },
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The addendum adds a requirement to sign and submit a copy of the addendum with the proposal, which is an additional submission document and does not replace the existing requirements."
+    },
+    "MFG for Registration": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Contract or Cooperative to use": {
+      "value": "Educational Purchasing Cooperative of North Texas (EPCNT); Central Texas Purchasing Alliance (CTPA)",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 19,
+          "quote": "| INTERLOCAL AGREEMENT (\"Rider\") CONSENT FORM<br>Dallas ISD is a member of the Educational Purchasing Cooperative of North Texas (EPCNT). Members of<br>EPCNT add this possible rider to their solicitation documents. If the Vendor chooses \"YES\"; to allow EPCNT<br>members to \"ride\" this Agreement (if any) the following will apply: Governmental entities utilizing Internal<br>Governmental contracts with the Dallas ISD will be eligible, but not obligated, to purchase materials/services<br>under the contract(s) awarded as a result of this solicitation. All purchases by a governmental entity other<br>than Dallas ISD will be billed directly to that governmental entity and paid by that governmental entity. Dallas<br>ISD will not be responsible for another governmental entity's debts. Each governmental entity will order its<br>own material/service as needed. A list of current members is available at http://www.epcnt.com. If \"NO\" is<br>selected, there is no adverse impact on the evaluation of the Offeror's proposal to Dallas ISD.<br>1. Interlocal Agreement Clause with a vision of cooperating to improve their procurement power on like<br>products and services, the EPCNT became a reality in 2002 through the coordinated efforts of North Texas<br>public school districts. EPCNT is comprised of public school districts, charter schools, and Region Service<br>Centers located in the Region X and XI Education Service Center areas.<br>2. Authority EPCNT is based on the authority contained in the Interlocal Cooperation Act, Texas<br>Government Code Section 791 et seq. and in Subchapter F, of Chapter 271 of the Texas Local Government<br>Code. The provisions of Chapter 791 of the Texas Government Code and the provisions of Subchapter F, of<br>Chapter 271 of the Texas Local Government Code are incorporated in this Master Agreement and this<br>Master Agreement shall be interpreted under those laws.<br>3. Duties of the Members agree to undertake the following, from time to time, as may be appropriate: a.<br>Coordinate and host multi-governmental entity solicitations for purchase of goods and services from third-<br>party vendors, as may be determined from time to time to be cost-effective and provide efficiencies as<br>consolidated purchases. b. Make available specifications, documents, software, procedures, and related<br>items in connection with bidding and purchasing processes. c. Actively participate in and provide support to<br>meetings and other activities conducted by the EPCNT. d. Maintain as confidential, subject to the Texas<br>Public Information Act, the information supplied by Parties to the EPCNT and deemed by the EPCNT to be<br>confidential. | |\n| 4. Purchasing Authority a. All district or cross-district contracts for the purchase of goods and services,<br>regardless of whether formed as a result of EPCNT activity or interaction shall be directly between the<br>Members or Participants or combinations of the Parties and Vendors providing goods and services to the<br>associated governmental entities. b. The EPCNT, in and of itself, shall not have any authority to make<br>purchases of goods and services directly with vendors or contractually binds its Members or Participants to<br>any third-party agreements for the purchase of products and services. c. The EPCNT shall be governed by<br>the laws of the State of Texas respecting independent school districts.<br>5. Agreement Consent Acknowledgement Several governmental entities around the Dallas ISD have | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 20,
+          "quote": "| CENTRAL TEXAS PURCHASING ALLIANCE (CTPA)<br>Interlocal Agreement - Cooperative<br>Dallas ISD is a member of the Central Texas Purchasing Alliance (CTPA), an alliance of school districts in<br>the central Texas area that share information, services, and contractual opportunities. In support of this<br>collaborative effort, a response of YES to CTPA indicates that the Respondent is interested in extending<br>services to other CTPA member districts. However, there is no obligation on either party to participate unless<br>both parties agree. Services would be provided under the same contract pricing and purchasing terms<br>established by this request. A negative reply by the Respondent will not adversely affect consideration of the<br>Respondent's response. The information will be provided to CTPA member listing and in the event that this<br>request and subsequent contract may be used by the CTPA districts. If a member district chooses to utilize a<br>contract established by this request and subsequent contract, contracts will be awarded individually by those<br>districts.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes<br>No | |\n| ORDER REFERENCE NUMBER/INFORMATION<br>Is a reference number or other information that Dallas ISD must include on the Purchase Order to receive<br>contract pricing, please state that information. If none enter N/A (not applicable) below where applicable.<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Provide your answer below | |"
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "EPCNT is explicitly identified as a member cooperative with a Master Agreement. CTPA is also explicitly named as an interlocal cooperative reference; the document says a YES indicates interest in extending services to other CTPA member districts, with no obligation unless both parties agree."
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Product": {
+      "value": "Student and staff computing devices, including laptops, desktops, tablet devices, display monitors, additional warranty, device deployment, subscriptions/services required with device purchases, and discount percentage off catalog/list price. Specific device categories and target quantities listed in the evaluation pricing lines are: Tier 1 Small Student Chromebook Laptop (Touch) 50,000; Tier 2 Large Student Chromebook Laptop (Non-Touch) 50,000; Tier 3 Student Windows Laptop 5,000; Student Tablet 50,000; Tier 1 Staff Laptop 10,000; Tier 2 Staff Laptop 10,000; Tier 1 Staff Basic Desktop 5,000; Tier 2 Staff Professional Desktop 5,000; Display Monitor - Touch 5,000; Display Monitor - Non-Touch 5,000.; Quantities will fluctuate; a monthly estimate cannot be provided. Samples will only be required from awarded vendors when ready to purchase large quantities.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "quote": "| PURPOSE OF REQUEST FOR PROPOSAL (RFP)<br>This Request for Proposal (RFP) will be for student and staff computing devices, including laptops,<br>desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may<br>submit proposals for one, several, or all categories of devices required by the District. Within each category<br>of device, the District reserves the right to award contracts to a single vendor or multiple vendors.<br>The specifications listed in this RFP are the minimum hardware requirements for each tier of device required<br>by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant<br>quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas<br>ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may<br>also include a variety of device accessories which will be ordered in a bundle along with the devices. Such<br>accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not<br>necessarily come with the devices.<br>Each submission must include a detailed plan as to how the vendor will track all shipped products and<br>provide deployment services. Processes and procedures are required in the response, which outlines how<br>tracking will be executed and any processes for providing white glove services.<br>The awarded vendors shall provide Dallas ISD with computing devices that meet all current industry<br>standard specifications. The awarded vendors and Dallas ISD EdTech-Enterprise Support Services shall<br>meet every six months or as needed to discuss technology advancements related to computing devices to<br>be selected by Dallas ISD.<br>Note: For each purchase during the term of the contracts resulting from this RFP, the District will seek<br>competitive quotes from one or more of the awarded vendors. | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 34,
+          "quote": "|1 Tier 1 Small Student<br>Chromebook Laptop<br>(Touch)<br>||1<br>|Each<br>||||\n|2 Tier 2 Large Student<br>Chromebook Laptop<br>(Non- Touch)<br>||1<br>|Each<br>||||\n|<br>3 Tier 3 Student<br>Windows Laptop<br>||1<br>|Each<br>||||\n|<br>4 Student Tablet<br>||1<br>|Each<br>||||\n|<br>5 Tier 1 Staff Basic<br>Desktop<br>||1<br>|Each<br>||||\n|6 Tier 2 Staff<br>Professional Desktop<br>||1<br>|Each<br>||||\n|<br>7 Tier 1 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>8 Tier 2 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>9 Display Monitor -<br>Touch<br>||1<br>|Each<br>||||\n|10 Display Monitor -<br>Non-Touch<br>||1<br>|Each<br>||||\n|11 Additional Warranty<br>- not included in the<br>initial purchase of a<br>device<br>||1<br>|Each<br>||||\n|12 Device Deployment<br>- include all associated<br>costs for asset<br>decaling and reporting,<br>etching, and delivery<br>||1<br>|Each<br>||||\n|<br>13<br>Subscriptions/Services<br>Required with the<br>purchase of any<br>device<br>||1<br>|Each<br>||||\n|14 Discount<br>Percentage Off<br>Catalog or List Price -<br>provide your<br>catalog/price list with<br>your submission to<br>ensure the District can<br>verify pricing<br>||1|Each||||\n|<br>15 STUDENT<br>CHROMEBOOKS -<br>FOR EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)|||||||"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "quote": "|15.01 Tier 1 Small<br>Student Chromebook<br>Laptop (Touch)<br>||50,000<br>|Each<br>||||\n|<br>15.02 Tier 2 Large<br>Student Chromebook<br>Laptop (Non- Touch)<br>||50,000|Each||||\n|<br>16 STUDENT<br>LAPTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|16.01 Tier 3 Student<br>Windows Laptop<br>||5,000|Each||||\n|<br>17 STUDENT<br>TABLETS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|17.01 Student Tablet<br>||50,000|Each||||\n|<br>18 STAFF LAPTOPS -<br>FOR EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|18.01 Tier 1 Staff<br>Laptop<br>||10,000<br>|Each<br>||||\n|18.02 Tier 2 Staff<br>Laptop<br>||10,000|Each||||\n|19 STAFF<br>DESKTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|19.01 Tier 1 Staff<br>Basic Desktop<br>||5,000<br>|Each<br>||||\n|<br>19.02 Tier 2 Staff<br>Professional Desktop<br>||5,000|Each||||\n|<br>20 MONITORS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|20.01 Display Monitor<br>- Touch<br>||5,000<br>|Each<br>||||\n|<br>20.02 Display Monitor<br>- Non-Touch||5,000|Each||||"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "35. Anticipated Equipment Quantities: Can they provide monthly QTY’s per category?\nAnswer: Quantities will fluctuate, a monthly estimate cannot be provided."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "37. Evaluation Units: laptops, tablets, monitors, etc. Are samples needed? If so, when?\nAnswer: Samples will only be required from awarded vendors when ready to purchase\nlarge quantities."
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The addendum clarifies that quantities will fluctuate and monthly estimates cannot be provided, and that samples are only required from awarded vendors when ready to purchase large quantities. This does not replace the existing product categories or evaluation quantities."
+    },
+    "contact_info": {
+      "value": "Procurement Services; phone: 972-925-3700; email: ProcurementCS@dallasisd.org",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "### Contact Information  \nProcurement Services  \n972-925-3700  \nProcurementCS@dallasisd.org  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Procurement contact listed under Contact Information."
+    },
+    "company_name": {
+      "value": "Dallas Independent School District; Dallas ISD ED TECH department",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Issuing Organization  \nDallas Independent School District  "
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2,
+          "quote": "Answer: Any awarded vendor will need to coordinate a schedule of deliveries with the\nDallas ISD ED TECH department."
+        }
+      ],
+      "confidence": 0.79,
+      "notes": "The addendum identifies Dallas ISD ED TECH department as the group coordinating delivery schedules, which is a coordination contact rather than a replacement for the issuing organization."
+    },
+    "Bid Summary": {
+      "value": "The solicitation number is JA-207652. The title is listed as Student and Staff Computing Devices, and the addendum presents it as RFP JA-207652 Student and Staff Computing Devices. The due date was extended to July 9, 2024 at 2:00 PM CST. Dallas Independent School District is the issuing organization, and Procurement Services is listed with phone 972-925-3700 and email ProcurementCS@dallasisd.org. The RFP covers student and staff computing devices, including laptops, desktops, tablet devices, and display monitors, with evaluation quantities listed for several categories. The document states that the term of the proposal is a three-year agreement with two successive one-year extensions, not to exceed five years total.",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Solicitation Number  \nJA-207652  "
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Title  \nStudent and Staff Computing Devices \\*\\*SOURCING #168884\\*\\*  "
+        },
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**RFP JA-207652 Student and Staff Computing Devices**  "
+        },
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "The Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  "
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Issuing Organization  \nDallas Independent School District  "
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2,
+          "quote": "Answer: Any awarded vendor will need to coordinate a schedule of deliveries with the\nDallas ISD ED TECH department."
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "### Contact Information  \nProcurement Services  \n972-925-3700  \nProcurementCS@dallasisd.org  "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "quote": "| PURPOSE OF REQUEST FOR PROPOSAL (RFP)<br>This Request for Proposal (RFP) will be for student and staff computing devices, including laptops,<br>desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may<br>submit proposals for one, several, or all categories of devices required by the District. Within each category<br>of device, the District reserves the right to award contracts to a single vendor or multiple vendors.<br>The specifications listed in this RFP are the minimum hardware requirements for each tier of device required<br>by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant<br>quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas<br>ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may<br>also include a variety of device accessories which will be ordered in a bundle along with the devices. Such<br>accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not<br>necessarily come with the devices.<br>Each submission must include a detailed plan as to how the vendor will track all shipped products and<br>provide deployment services. Processes and procedures are required in the response, which outlines how<br>tracking will be executed and any processes for providing white glove services.<br>The awarded vendors shall provide Dallas ISD with computing devices that meet all current industry<br>standard specifications. The awarded vendors and Dallas ISD EdTech-Enterprise Support Services shall<br>meet every six months or as needed to discuss technology advancements related to computing devices to<br>be selected by Dallas ISD.<br>Note: For each purchase during the term of the contracts resulting from this RFP, the District will seek<br>competitive quotes from one or more of the awarded vendors. | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 34,
+          "quote": "|1 Tier 1 Small Student<br>Chromebook Laptop<br>(Touch)<br>||1<br>|Each<br>||||\n|2 Tier 2 Large Student<br>Chromebook Laptop<br>(Non- Touch)<br>||1<br>|Each<br>||||\n|<br>3 Tier 3 Student<br>Windows Laptop<br>||1<br>|Each<br>||||\n|<br>4 Student Tablet<br>||1<br>|Each<br>||||\n|<br>5 Tier 1 Staff Basic<br>Desktop<br>||1<br>|Each<br>||||\n|6 Tier 2 Staff<br>Professional Desktop<br>||1<br>|Each<br>||||\n|<br>7 Tier 1 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>8 Tier 2 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>9 Display Monitor -<br>Touch<br>||1<br>|Each<br>||||\n|10 Display Monitor -<br>Non-Touch<br>||1<br>|Each<br>||||\n|11 Additional Warranty<br>- not included in the<br>initial purchase of a<br>device<br>||1<br>|Each<br>||||\n|12 Device Deployment<br>- include all associated<br>costs for asset<br>decaling and reporting,<br>etching, and delivery<br>||1<br>|Each<br>||||\n|<br>13<br>Subscriptions/Services<br>Required with the<br>purchase of any<br>device<br>||1<br>|Each<br>||||\n|14 Discount<br>Percentage Off<br>Catalog or List Price -<br>provide your<br>catalog/price list with<br>your submission to<br>ensure the District can<br>verify pricing<br>||1|Each||||\n|<br>15 STUDENT<br>CHROMEBOOKS -<br>FOR EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)|||||||"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "quote": "|15.01 Tier 1 Small<br>Student Chromebook<br>Laptop (Touch)<br>||50,000<br>|Each<br>||||\n|<br>15.02 Tier 2 Large<br>Student Chromebook<br>Laptop (Non- Touch)<br>||50,000|Each||||\n|<br>16 STUDENT<br>LAPTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|16.01 Tier 3 Student<br>Windows Laptop<br>||5,000|Each||||\n|<br>17 STUDENT<br>TABLETS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|17.01 Student Tablet<br>||50,000|Each||||\n|<br>18 STAFF LAPTOPS -<br>FOR EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|18.01 Tier 1 Staff<br>Laptop<br>||10,000<br>|Each<br>||||\n|18.02 Tier 2 Staff<br>Laptop<br>||10,000|Each||||\n|19 STAFF<br>DESKTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|19.01 Tier 1 Staff<br>Basic Desktop<br>||5,000<br>|Each<br>||||\n|<br>19.02 Tier 2 Staff<br>Professional Desktop<br>||5,000|Each||||\n|<br>20 MONITORS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|20.01 Display Monitor<br>- Touch<br>||5,000<br>|Each<br>||||\n|<br>20.02 Display Monitor<br>- Non-Touch||5,000|Each||||"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "35. Anticipated Equipment Quantities: Can they provide monthly QTY’s per category?\nAnswer: Quantities will fluctuate, a monthly estimate cannot be provided."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "37. Evaluation Units: laptops, tablets, monitors, etc. Are samples needed? If so, when?\nAnswer: Samples will only be required from awarded vendors when ready to purchase\nlarge quantities."
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "| LENGTH OF CONTRACT |  |\n| --- | --- |\n| The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year<br>extensions based on the long-range needs of the District and mutual consent of both parties not to exceed<br>five (5) years total. |  |"
+        }
+      ],
+      "confidence": 0.79,
+      "notes": "Generated from validated fields; confidence is an uncalibrated estimate."
+    },
+    "Product Specification": {
+      "value": "Minimum technical specifications include: Intel Celeron Processor N100 or equivalent for Tier 1/2 student Chromebooks; Intel i5 13th Gen or equivalent for Tier 3 student Windows laptop; Intel i5 Processor, 14th Gen or equivalent for Tier 1 staff desktop; Intel i7 Processor, 14th Gen or equivalent for Tier 2 staff desktop; Intel i5 CPU, 14th Gen or equivalent for Tier 1 staff laptop; Intel i7 CPU, 14th Gen or equivalent for Tier 2 staff laptop. Memory ranges from minimum 8GB DDR5 on student Chromebooks to minimum 16GB RAM DDR5 on some devices and minimum 32GB DDR5 RAM on Tier 2 staff devices. Storage ranges from 64 GB eMMC, 128 GB eMMC, 256 GB NVMe SSD, 512 GB NVMe SSD, to 1 TB NVMe SSD depending on device. Displays include minimum 11.6\", 13\", 14\", 23.8\", or 24\" diagonal screens with resolutions including 1366 x 768, 1920-1080, or 1920 x 1080, and some touch or non-touch requirements. Operating systems include Chrome O/S License Required, Windows 11 Pro, Windows 11 or Mac OS, iOS 17, and for one tier Windows 11 Pro or Mac O/S. Warranty minimums are 1-year minimum for student devices/tablets and 3-year minimum for staff devices and monitors.; USB 3.1 is a minimum requirement for the display monitor non-touch USB port.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 4,
+          "quote": "| Student Devices<br>Tier 1 Small Student Chromebook Laptop Minimum Requirements<br>• Enterprise Management Ready<br>• Intel Celeron Processor N100 or equivalent<br>• Display: Minimum 11.6\" diagonal<br>• Integrated Camera: 720p minimum<br>• Screen Resolution 1366 x 768 Multi-touch<br>• Memory: Minimum 8GB DDR5 Memory<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Power Supply: Type C, 65W<br>• Battery Life: Minimum 10 hours<br>• Ports: Minimum 2 USB 3.0; type C; 1 headphone/microphone combo<br>• Storage: 64 GB eMMC<br>• Chrome O/S License Required<br>• Warranty: 1-year minimum<br>Tier 2 Large Student Chromebook Laptop Minimum Requirements<br>• Enterprise Management Ready<br>• Intel Celeron Processor N100 or equivalent<br>• Display: Minimum 14\" diagonal Non-Touch<br>• Integrated Camera: 720p minimum<br>• Screen Resolution 1920-1080<br>• Memory: Minimum 8GB DDR5 Memory<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Power Supply: Type C, 65W<br>• Battery Life: Minimum 10 Hours<br>• Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo<br>• Storage: 128 GB eMMC<br>• Chrome O/S License Required<br>• Warranty: 1-year minimum<br>Tier 3 Student Windows Laptop Minimum Requirements<br>• Enterprise Management Ready w/ Autopilot Enrollment<br>• Intel i5 13th Gen or equivalent<br>• Display: Minimum 13\" diagonal<br>• Integrated Camera: 720p minimum | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 5,
+          "quote": "| • Screen Resolution 1920-1080 Non-Touch<br>• Memory: Minimum 16GB RAM DDR5 Memory<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Power Supply: Type C, 65W<br>• Battery Life: Minimum 10 Hours<br>• Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo<br>• Storage: 256 GB NVMe SSD<br>• Windows 11 Pro<br>• Warranty: 3-year minimum<br>Student Tablet Minimum Requirements<br>• Enterprise Management Ready<br>• Processor A13<br>• Display: 10.2\" Retina<br>• Integrated Camera: 8MP Wide camera<br>• Screen Resolutions 2160 x 1620 Multi-touch<br>• Wireless: 802.11AC and Bluetooth 4.2<br>• Power Supply included<br>• Battery Life: Minimum 10 Hours<br>• Ports: 1 headphone or other personal audio connection<br>• Storage: 64 GB<br>• iOS 17<br>• Warranty: 1-year minimum | |\n| Staff Devices<br>Tier 1 Staff Windows Basic Desktop Minimum Requirements<br>• Enterprise Management Ready with Autopilot Enrollment<br>• Processor: Intel i5 Processor, 14th Gen or equivalent<br>• Display: Minimum 23.8\" diagonal screen Touch Screen<br>• Memory: Minimum 16GB RAM<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Ports: Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo<br>• Storage: 512 GB NVMe SSD<br>• Windows 11 Pro<br>• Warranty: 3-year minimum<br>Tier 2 Staff Professional Desktop Minimum Requirements<br>• Enterprise Management Ready<br>• Intel i7 Processor, 14th Gen or equivalent.<br>• Display: Minimum 23.8\" diagonal screen Touch Screen<br>• Memory: Minimum 32GB DDR5 RAM<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Ports: Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo<br>• Storage: 1 TB NVMe SSD<br>• Windows 11 Pro or Mac O/S | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 6,
+          "quote": "| • 4 GB Video card<br>• Touchscreen optional<br>• Warranty: 3-year minimum<br>Tier 1 Staff Basic Laptop Minimum Requirements<br>• Enterprise Management Ready<br>• Intel i5 CPU, 14th Gen or equivalent.<br>• Display: Minimum 13\" diagonal screen<br>• Integrated Camera: 1080p<br>• Memory: Minimum 16GB DDR5 RAM<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Power Supply: USB Type C, 65W<br>• Battery Life: Minimum 10 hours<br>• Ports: Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo<br>• Storage: 512 GB NVMe SSD<br>• 0/S Windows 11 or Mac OS<br>• Warranty: 3-year minimum<br>Tier 2 Staff Laptop Minimum Requirements<br>• Enterprise Management Ready<br>• Intel i7 CPU, 14th Gen or equivalent.<br>• Display: Minimum 13\" diagonal screen<br>• Integrated Camera: 1080p<br>• Resolution: 1920 X 1080 minimum<br>• Memory: Minimum 32GB DDR5 RAM<br>• Wireless: 802.11AX WiFi-6E and Bluetooth 5.1<br>• Power Supply: USB C, 65W<br>• Battery Life: Minimum 10 hours<br>• Ports: Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo<br>• Storage: 1 TB NVMe SSD<br>• 0/S: Windows 11 or Mac OS<br>• Warranty: 3-year minimum<br>Display Monitor - Touch<br>• Minimum 24\" diagonal screen<br>• Resolution: 1920 X 1080<br>• Port: USB 3.1 Hub<br>• Aspect Ratio: 16:9<br>• Contrast: 3000:1<br>• Warranty: 3-year minimum<br>Display Monitor - Non-Touch<br>• Minimum 24\" diagonal screen<br>• Resolution: 1920 X 1080<br>• Port: USB 3.1 Hub<br>• Warranty: 3-year minimum | |"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "1. The Display monitor – non-Touch you are asking for 3.1 USB port. Are you ok with 3.0 or do you\nneed 3.1?  \nAnswer: USB 3.1 is a minimum requirement."
+        }
+      ],
+      "confidence": 0.86,
+      "notes": "The addendum states USB 3.1 is a minimum requirement for the display monitor non-touch USB port, which refines the existing specification without changing the other supported device specifications."
+    }
+  },
+  "addendum_changes": [
+    {
+      "field": "Installation",
+      "old": "Software installation; asset tagging and etching; device deployment and setup; asset control reporting; white glove services including asset decaling, asset reporting, etching, and delivery to varied locations.",
+      "new": "Software installation; asset tagging and etching; device deployment and setup; asset control reporting; white glove services including asset decaling, asset reporting, etching, and delivery to varied locations.; For Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required. Vendors must coordinate a schedule of deliveries with the Dallas ISD ED TECH department.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 4,
+        "quote": "33. Pricing: Do you require any Imaging on your devices? Every DT, Laptop, and tablet device has an\nOS installed. What additional software do you require for the software installation requirement?  \nAnswer: For Windows devices, autopilot is required. For Chromebooks, enrollment in\nGoogle Management is required.\n34. Deployment: Does Dallas ISD have a deployment schedule? Number of devices to each address,\nwhich devices to each address. How many deployments per week, month and when?  \nAnswer: Any awarded vendor will need to coordinate a schedule of deliveries with the\nDallas ISD ED TECH department."
+      }
+    },
+    {
+      "field": "Any Additional Documentation Required",
+      "old": "Insurance/bond certificate is required; the form states the certificate must be submitted within ten (10) days of award. The proposal also certifies no deviations or exceptions from the attached specific terms, conditions, specifications, and required forms.",
+      "new": "Insurance/bond certificate is required; the form states the certificate must be submitted within ten (10) days of award. The proposal also certifies no deviations or exceptions from the attached specific terms, conditions, specifications, and required forms.; Form 1295 should be submitted with the RFP response. Additional warranty information and pricing can be submitted as an attachment. If responding electronically, a PDF version is not required; manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission for areas with insufficient space.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 4,
+        "quote": "31. FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be\nsigned and attached to the Response Attachments, prior to any business transaction.\" Referring\nto \"Response Attachments,\" does Form 1295 have to be submitted with the RFP response or\nafter award, \"prior to any business transaction\"?  \nAnswer: The Form 1295 should be submitted with the RFP response."
+      }
+    },
+    {
+      "field": "Product",
+      "old": "Student and staff computing devices, including laptops, desktops, tablet devices, display monitors, additional warranty, device deployment, subscriptions/services required with device purchases, and discount percentage off catalog/list price. Specific device categories and target quantities listed in the evaluation pricing lines are: Tier 1 Small Student Chromebook Laptop (Touch) 50,000; Tier 2 Large Student Chromebook Laptop (Non-Touch) 50,000; Tier 3 Student Windows Laptop 5,000; Student Tablet 50,000; Tier 1 Staff Laptop 10,000; Tier 2 Staff Laptop 10,000; Tier 1 Staff Basic Desktop 5,000; Tier 2 Staff Professional Desktop 5,000; Display Monitor - Touch 5,000; Display Monitor - Non-Touch 5,000.",
+      "new": "Student and staff computing devices, including laptops, desktops, tablet devices, display monitors, additional warranty, device deployment, subscriptions/services required with device purchases, and discount percentage off catalog/list price. Specific device categories and target quantities listed in the evaluation pricing lines are: Tier 1 Small Student Chromebook Laptop (Touch) 50,000; Tier 2 Large Student Chromebook Laptop (Non-Touch) 50,000; Tier 3 Student Windows Laptop 5,000; Student Tablet 50,000; Tier 1 Staff Laptop 10,000; Tier 2 Staff Laptop 10,000; Tier 1 Staff Basic Desktop 5,000; Tier 2 Staff Professional Desktop 5,000; Display Monitor - Touch 5,000; Display Monitor - Non-Touch 5,000.; Quantities will fluctuate; a monthly estimate cannot be provided. Samples will only be required from awarded vendors when ready to purchase large quantities.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 4,
+        "quote": "35. Anticipated Equipment Quantities: Can they provide monthly QTY’s per category?\nAnswer: Quantities will fluctuate, a monthly estimate cannot be provided."
+      }
+    },
+    {
+      "field": "company_name",
+      "old": "Dallas Independent School District",
+      "new": "Dallas Independent School District; Dallas ISD ED TECH department",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 2,
+        "quote": "Answer: Any awarded vendor will need to coordinate a schedule of deliveries with the\nDallas ISD ED TECH department."
+      }
+    },
+    {
+      "field": "Product Specification",
+      "old": "Minimum technical specifications include: Intel Celeron Processor N100 or equivalent for Tier 1/2 student Chromebooks; Intel i5 13th Gen or equivalent for Tier 3 student Windows laptop; Intel i5 Processor, 14th Gen or equivalent for Tier 1 staff desktop; Intel i7 Processor, 14th Gen or equivalent for Tier 2 staff desktop; Intel i5 CPU, 14th Gen or equivalent for Tier 1 staff laptop; Intel i7 CPU, 14th Gen or equivalent for Tier 2 staff laptop. Memory ranges from minimum 8GB DDR5 on student Chromebooks to minimum 16GB RAM DDR5 on some devices and minimum 32GB DDR5 RAM on Tier 2 staff devices. Storage ranges from 64 GB eMMC, 128 GB eMMC, 256 GB NVMe SSD, 512 GB NVMe SSD, to 1 TB NVMe SSD depending on device. Displays include minimum 11.6\", 13\", 14\", 23.8\", or 24\" diagonal screens with resolutions including 1366 x 768, 1920-1080, or 1920 x 1080, and some touch or non-touch requirements. Operating systems include Chrome O/S License Required, Windows 11 Pro, Windows 11 or Mac OS, iOS 17, and for one tier Windows 11 Pro or Mac O/S. Warranty minimums are 1-year minimum for student devices/tablets and 3-year minimum for staff devices and monitors.",
+      "new": "Minimum technical specifications include: Intel Celeron Processor N100 or equivalent for Tier 1/2 student Chromebooks; Intel i5 13th Gen or equivalent for Tier 3 student Windows laptop; Intel i5 Processor, 14th Gen or equivalent for Tier 1 staff desktop; Intel i7 Processor, 14th Gen or equivalent for Tier 2 staff desktop; Intel i5 CPU, 14th Gen or equivalent for Tier 1 staff laptop; Intel i7 CPU, 14th Gen or equivalent for Tier 2 staff laptop. Memory ranges from minimum 8GB DDR5 on student Chromebooks to minimum 16GB RAM DDR5 on some devices and minimum 32GB DDR5 RAM on Tier 2 staff devices. Storage ranges from 64 GB eMMC, 128 GB eMMC, 256 GB NVMe SSD, 512 GB NVMe SSD, to 1 TB NVMe SSD depending on device. Displays include minimum 11.6\", 13\", 14\", 23.8\", or 24\" diagonal screens with resolutions including 1366 x 768, 1920-1080, or 1920 x 1080, and some touch or non-touch requirements. Operating systems include Chrome O/S License Required, Windows 11 Pro, Windows 11 or Mac OS, iOS 17, and for one tier Windows 11 Pro or Mac O/S. Warranty minimums are 1-year minimum for student devices/tablets and 3-year minimum for staff devices and monitors.; USB 3.1 is a minimum requirement for the display monitor non-touch USB port.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "1. The Display monitor – non-Touch you are asking for 3.1 USB port. Are you ok with 3.0 or do you\nneed 3.1?  \nAnswer: USB 3.1 is a minimum requirement."
+      }
+    },
+    {
+      "field": "Title",
+      "old": "Student and Staff Computing Devices **SOURCING #168884**",
+      "new": "Student and Staff Computing Devices **SOURCING #168884**; RFP JA-207652 Student and Staff Computing Devices",
+      "source": {
+        "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "**RFP JA-207652 Student and Staff Computing Devices**  "
+      }
+    },
+    {
+      "field": "Due Date",
+      "old": "27-JUN-2024 14:00:00",
+      "new": "July 9, 2024 at 2:00 PM CST",
+      "source": {
+        "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "The Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  "
+      }
+    },
+    {
+      "field": "Any Additional Documentation Required",
+      "old": "Insurance/bond certificate is required; the form states the certificate must be submitted within ten (10) days of award. The proposal also certifies no deviations or exceptions from the attached specific terms, conditions, specifications, and required forms.; Form 1295 should be submitted with the RFP response. Additional warranty information and pricing can be submitted as an attachment. If responding electronically, a PDF version is not required; manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission for areas with insufficient space.",
+      "new": "Insurance/bond certificate is required; the form states the certificate must be submitted within ten (10) days of award. The proposal also certifies no deviations or exceptions from the attached specific terms, conditions, specifications, and required forms.; Form 1295 should be submitted with the RFP response. Additional warranty information and pricing can be submitted as an attachment. If responding electronically, a PDF version is not required; manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission for areas with insufficient space.; Submit a signed copy of this addendum with the proposal.",
+      "source": {
+        "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+      }
+    },
+    {
+      "field": "Bid Submission Type",
+      "old": "Electronic portal preferred; manual submissions allowed in sealed envelope by the stated date and time; fax or email submissions not accepted.",
+      "new": "Electronic portal preferred; manual submissions allowed in sealed envelope by the stated date and time; fax or email submissions not accepted.; If responding electronically, a pdf version is not required. Manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission for areas with insufficient space. Bidders are required to acknowledge and return/submit a copy of this addendum with their proposal.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 4,
+        "quote": "Answer: If responding electronically, a pdf version is not required. Manual responses\nshould have direct edits on the PDF, supporting documentation can be included as part\nof the submission for those areas that are not sufficient in space."
+      }
+    }
+  ],
+  "validation": {
+    "passed": 15,
+    "failed": 0,
+    "not_found": 5
+  }
+}

@@ -1,0 +1,581 @@
+{
+  "description": "24 manually source-anchored development questions over both provided bids. JSON syntax is valid YAML; regression questions are explicitly tagged. Source judgments are not exhaustive.",
+  "questions": [
+    {
+      "id": "b1_deadline",
+      "query": "submission deadline",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "quote": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "deadline",
+        "addendum",
+        "regression"
+      ]
+    },
+    {
+      "id": "b1_contract_term",
+      "query": "What is the contract duration and how many renewal extensions are permitted?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 2,
+              "quote": "three (3) year agreement with two (2) successive one (1) year extensions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "contract",
+        "table"
+      ]
+    },
+    {
+      "id": "b1_prebid",
+      "query": "When and how is the pre-proposal meeting held?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 2,
+              "quote": "A pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10, 2024."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "meeting"
+      ]
+    },
+    {
+      "id": "b1_warranty",
+      "query": "What minimum warranty is required for student Chromebooks and Windows laptops?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "quote": "one-year warranty for student Chromebooks and three years for student and staff Windows laptops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "warranty",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_usb",
+      "query": "What minimum USB port version is required for the display monitor?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "quote": "USB 3.1 is a minimum requirement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "specifications",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_etching",
+      "query": "Which devices must receive etching?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "quote": "Dallas ISD will only require etching on Laptops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "installation",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_inventory",
+      "query": "Are vendors required to keep an inventory of devices in stock?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 2,
+              "quote": "Dallas ISD is not requiring vendors to keep inventory in stock."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "logistics",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_form1295",
+      "query": "When must Form 1295 be submitted?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 4,
+              "quote": "The Form 1295 should be submitted with the RFP response."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "documentation",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_autopilot",
+      "query": "What Windows software deployment or imaging service is required?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 4,
+              "quote": "For Windows devices, autopilot is required."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "installation",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_hotswap",
+      "query": "When is hot-swap stock needed for warranty repairs?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 2,
+              "quote": "hot swap is only for when warranty work will be longer than 5 business days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "warranty",
+        "addendum"
+      ]
+    },
+    {
+      "id": "b1_taxpayer_form",
+      "query": "Which taxpayer identification and certification form is included in the bid attachments?",
+      "filters": {
+        "bid_id": "Bid1"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 54,
+              "quote": "Request for Taxpayer Identification Number and Certification"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "documentation",
+        "ocr"
+      ]
+    },
+    {
+      "id": "b2_deadline",
+      "query": "What is the Dell laptop bid closing date and time?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "quote": "Closing Date 06/10/2024 02:00 PM EDT"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "deadline",
+        "html"
+      ]
+    },
+    {
+      "id": "b2_submission",
+      "query": "Which system must be used to submit a proposal, and are email bids accepted?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 1,
+              "quote": "responses will only be accepted through the State's eMaryland Marketplace Advantage (eMMA) e-Procurement system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "submission",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_authorization",
+      "query": "What manufacturer reseller authorization must the contractor have?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "quote": "The Master Contractor must be an authorized reseller for Dell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "manufacturer",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_mercury_required",
+      "query": "Which mercury-related affidavit must the contractor provide?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "quote": "The Master Contractor must provide a Mercury Affidavit"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "documentation",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_delivery",
+      "query": "How soon after award must the equipment be delivered?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "quote": "Delivery within 45 days of Award."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "delivery",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_invoice",
+      "query": "How soon after equipment delivery must invoices be submitted?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "quote": "Invoice(s) shall be submitted within 10 days of delivering the equipment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "payment",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_contact",
+      "query": "Who is the agency point of contact and what is their phone number?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 3,
+              "quote": "Tamaira Hawkins"
+            }
+          ]
+        },
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 3,
+              "quote": "410-260-7533"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "contact",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_processor",
+      "query": "379-BFNZ processor",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "quote": "Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo) 379-BFNZ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "specifications",
+        "sku",
+        "regression"
+      ]
+    },
+    {
+      "id": "b2_memory",
+      "query": "How much RAM and which memory type is configured for the Dell Latitude 5550?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "quote": "16 GB: 2 x 8 GB, DDR5, 5600 MT/s"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "specifications",
+        "table"
+      ]
+    },
+    {
+      "id": "b2_mercury_declaration",
+      "query": "What does the mercury affidavit ask the supplier to declare about the products?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "Mercury_Affidavit.pdf",
+              "page": 1,
+              "quote": "The product(s) offered do not contain mercury."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "affidavit"
+      ]
+    },
+    {
+      "id": "b2_registration",
+      "query": "What Maryland registration or qualification does the contract affidavit require?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "Contract_Affidavit.pdf",
+              "page": 1,
+              "quote": "is registered or qualified as required under Maryland Law."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "affidavit"
+      ]
+    },
+    {
+      "id": "b2_warranty",
+      "query": "What extended hardware warranty is required for the Dell laptops?",
+      "filters": {
+        "bid_id": "Bid2"
+      },
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 3,
+              "quote": "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "warranty",
+        "table"
+      ]
+    },
+    {
+      "id": "cross_warranty",
+      "query": "Compare the warranty period for student Chromebooks and the Dell laptops.",
+      "filters": {},
+      "targets": [
+        {
+          "sources": [
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "quote": "one-year warranty for student Chromebooks"
+            },
+            {
+              "bid_id": "Bid1",
+              "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 3,
+              "quote": "one-year warranty for student Chromebooks"
+            }
+          ]
+        },
+        {
+          "sources": [
+            {
+              "bid_id": "Bid2",
+              "file": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 3,
+              "quote": "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "cross_bid",
+        "warranty",
+        "multiple_targets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "method": "Targeted live validator regressions, not extraction-accuracy measurement.",
+  "model": "gpt-5.4-mini",
+  "reasoning": {
+    "effort": "medium"
+  },
+  "cases": [
+    {
+      "case": "correct_null_duration",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "No contract duration, renewal period, extension option, or end-of-lease purchase option is stated in the retrieved context. The only time-related items are unrelated to this field, such as proposal validity for 60 working days from the submission deadline (page 3) and a delivery time not exceeding 6 weeks from receipt of the purchase order (page 5). Therefore null is correct."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "correct_null_models",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The retrieved context does not supply any exact commercial model designation for the laptops. It only gives the brand and broad categories/specs, such as \"HP\" (page 6, Table 2 and page 2 Table 1) and product categories like \"HP (2 in 1) Laptops,\" \"High-End HP Laptops,\" \"Standard HP Laptops (Level 2),\" and \"Standard HP Laptops (Level 1),\" plus CPU tiers such as Intel Core Ultra 7/9/5. These are categories/brands/processor descriptors, not named manufacturer model numbers. Therefore null is correct."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "faithful_submission_paraphrase",
+      "expected_supported": true,
+      "actual": {
+        "supported": false,
+        "reason": "The quotes support the address, required three copies, envelope marking, late/unsigned/fax/email restrictions, and other-address restriction, but they do not mention that proposals must be submitted on the form attached as Exhibit A."
+      },
+      "passed": false,
+      "stage": "source_support"
+    },
+    {
+      "case": "product_with_quantity_caveat_in_notes",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The field is supported by the source. Page 9 lists the device item (HP Fortis Fx36011G5 N100 11 8GB/64 PC) and the associated accessory/service items (U67XTE extended warranty, J0X44AAE console licensing, and the case model). Page 10 states the total device units are 1231. The retrieved context also says the project is for three years and that no guarantee of volume exists / CVSU may lease or purchase more or less than the listed quantity, which matches the caveat in the notes."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "prohibited_email_asserted_accepted",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The RFP says proposals received via facsimile or email will not be considered and that all responses must be received at the listed address, so email submission is not allowed."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "proposal_validity_mislabeled_contract_term",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "No source quotes were provided to support the claim that the contract duration is at least 60 working days from the submission deadline."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "conditional_form_made_unconditional",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The source says the lobbying disclosure form is required only if non-federal funds were used for lobbying; otherwise it is not required. It does not say every proposer must submit it."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "quantity_caveat_without_supporting_citation",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The product components and total device units are supported by the quotes, and the three-year lease with option to purchase is supported. However, the note\u2019s claim that there is \u201cno guarantee of volume\u201d and that CVSU may lease or purchase more or less than the listed quantity is not stated in the provided quotes."
+      },
+      "passed": true,
+      "stage": "source_support"
+    },
+    {
+      "case": "commercial_and_compatibility_models_mislabeled_parts",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "Identifier-evidence guard rejects prose-only model/compatibility codes."
+      },
+      "passed": true,
+      "stage": "identifier_guard"
+    },
+    {
+      "case": "separate_table_product_codes_are_supported",
+      "expected_supported": true,
+      "actual": {
+        "supported": true,
+        "reason": "The retrieved context contains a separate Model/code column paired with different commercial descriptions for all four listed items: 9R398UT#ABA for the HP Fortis device, U67XTE for the 3-year offsite ADP notebook warranty, J0X44AAE for Google Chrome management console licensing, and HP-ESF-FX3CB-G5-GRY for the MaxCases shell case. This matches the field\u2019s requirement for explicit part/SKU/order/configuration identifiers with their roles."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "omitted_wireless_attributes",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The candidate omits explicitly listed technical attributes from the source. Page 9 lists wireless connectivity details: \"Wireless - Intel\u00ae Wi-Fi 6E AX211 (2x2) and Bluetooth\u00ae 5.3 wireless card,\" and also lists a CASE item: \"MaxCases Extreme Shell-F2 Slide Case for HP Fortis X360 11 G5 (Gray/Clear).\" These required connectivity and accessory details are not included in the value. OS is not explicitly stated, so that omission is fine, but the missing wireless and case details make the extraction incomplete."
+      },
+      "passed": true,
+      "stage": "live_semantic_review"
+    },
+    {
+      "case": "pricing_unit_asserted_as_order_quantity",
+      "expected_supported": false,
+      "actual": {
+        "supported": false,
+        "reason": "The quotes say pricing should be provided for one (1) Chromebook and that the district will multiply that price by the quantity needed for each order; they also state BISD makes no guarantee or commitment about quantities actually purchased. They do not support that the district will purchase exactly one Chromebook."
+      },
+      "passed": true,
+      "stage": "source_support"
+    }
+  ]
+}

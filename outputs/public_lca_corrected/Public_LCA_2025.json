@@ -1,0 +1,348 @@
+{
+  "bid_id": "Public_LCA_2025",
+  "fields": {
+    "Bid Number": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Title": {
+      "value": "REQUEST FOR PROPOSALS (RFP) FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 1,
+          "quote": "# **REQUEST FOR PROPOSALS (RFP) FOR THE SUPPLY AND** **DELIVERY OF BUSINESS LAPTOPS**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Due Date": {
+      "value": "Monday, 21 July 2025 at 11hr00",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 4,
+          "quote": "6.2 The tenders must be submitted in the tender box located at the LCA reception\non the 1st Floor, Lesotho Communications Authority, 30 Princess Margaret\nRoad, Old Europa, Maseru, Lesotho on or before **Monday**, the **21** [st] **July** 202 **5** at\n**11hr00** . No submission will be accepted after the closing time."
+        }
+      ],
+      "confidence": 0.7,
+      "notes": "Closing/submission deadline stated in the RFP. No time zone is specified in the supplied evidence. Time zone not stated in cited evidence; deadline is incomplete."
+    },
+    "Bid Submission Type": {
+      "value": "All bids must be physically delivered; electronic submissions are not accepted. Submit one original and four copies, with technical and financial proposals in separate sealed packages marked “TECHNICAL PROPOSAL” and “FINANCIAL PROPOSAL,” and both packages placed in one outer package marked “TENDER FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS.” Packages should not bear bidder identification. All submissions must be delivered to The Chief Financial Officer, 1st Floor, Lesotho Communications Authority Building, 30 Princess Margaret Road, Old Europa, P. O. Box 15896, Maseru, LESOTHO.",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.6 All bids shall be physically delivered. Electronic submissions shall not be\naccepted."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.1 The **bidder** must submit one original and four copies of its bid submission\ndocument clearly marked “ORIGINAL” and “COPIES” as appropriate for both\ntechnical and financial proposals."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.2 Technical proposals must be in a separate package from the Financial\nproposals.\n5.3 The package containing the technical proposal must be sealed, clearly marked\n“TECHNICAL PROPOSAL”, and the package containing the financial\nproposal must be sealed, clearly marked “FINANCIAL PROPOSAL”.\n5.4 The technical proposal should **NOT** include any financial information."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.5 Both packages must be placed in one outer package clearly marked “ **TENDER**\n**FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS.** ” Packages\nshould not bear any identification of the bidder."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 4,
+          "quote": "## **7. ALL SUBMISSIONS MUST BE DELIVERED AND ADDRESSED TO:**  \nThe Chief Financial Officer\n1st Floor\nLesotho Communications Authority Building\n30 Princess Margaret Road, Old Europa\nP. O. Box 15896\nMaseru, LESOTHO."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Submission is physical only; electronic submissions are explicitly prohibited. The address is given in the RFP; no email submission option is stated."
+    },
+    "Term of Bid": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Installation": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": "Delivery time shall not exceed 6 weeks from receipt of the purchase order.",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 5,
+          "quote": "c) Tenderers are requested to provide the delivery time of the goods, and the time  \nshall not exceed 6 weeks from receipt of the purchase order.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Specified as a delivery-time limit from receipt of the purchase order, not phrased as days after award."
+    },
+    "Payment Terms": {
+      "value": "The RFP does not commit the Authority to pay any expenses incurred by the bidder in preparing responses to the invitation.",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "a) This Request for Proposal (RFP) does not commit the Authority to pay for any  \nexpenses incurred by the bidder in the preparation of responses to this\ninvitation."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This is the only payment-related condition stated in the supplied evidence; no invoice timing, net days, or invoicing procedure is stated."
+    },
+    "Any Additional Documentation Required": {
+      "value": "Required documents for the technical proposal: valid Tax Clearance Certificate; valid Traders Licence; VAT Registration Certificate where applicable; Company Profile; and three references for similar assignments, stating full client company names, contact person(s), email addresses, and telephone numbers. The bidder must also provide a banker’s reference confirming financial liquidity, and a Manufacturers’ Authorization letter or certificate of partnership, or equivalent recognized document from the manufacturer or an Authorized Tier 1 Distributor; if the distributor issued the authorization, it must be supported by Manufacturer Authorization to that distributor. Attached brochures and write-ups should be cross-referenced to the technical specifications. Submission format also requires one original and four copies, separate technical and financial proposals, and physical delivery only.",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "a) Valid Tax Clearance Certificate.\nb) Valid Traders Licence.\nc) VAT Registration Certificate (where applicable).\nd) Company Profile.\ne) The submission should include three (3) references where similar assignment(s)  \nwere undertaken and should specify full names of client companies, the contact\nperson(s), their email addresses and telephone numbers. All references will be\ncontacted for further information on those assignments.  \n**NB:** The above documents must form part of the technical proposal document of  \nthe tender.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "e) The bidder must demonstrate financial capability to undertake the task by  \nproviding the banker’s reference confirming the bidder's financial liquidity."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 5,
+          "quote": "(d) Any attached brochures and write-ups should be cross-referenced to the  \ntechnical specifications.\n(e) Bidders are required to provide Manufacturers’ Authorization letter or  \ncertificate of partnership, or any equivalent recognized document from the\nmanufacturer or their Authorized Tier 1 Distributors. Where the distributor has\nissued the Authorization, it should be supported by Manufacturer\nAuthorization to that Distributor issuing the Authorization.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.1 The **bidder** must submit one original and four copies of its bid submission\ndocument clearly marked “ORIGINAL” and “COPIES” as appropriate for both\ntechnical and financial proposals.\n5.2 Technical proposals must be in a separate package from the Financial\nproposals.\n5.3 The package containing the technical proposal must be sealed, clearly marked\n“TECHNICAL PROPOSAL”, and the package containing the financial\nproposal must be sealed, clearly marked “FINANCIAL PROPOSAL”.\n5.4 The technical proposal should **NOT** include any financial information."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.5 Both packages must be placed in one outer package clearly marked “ **TENDER**\n**FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS.** ” Packages\nshould not bear any identification of the bidder.\n5.6 All bids shall be physically delivered. Electronic submissions shall not be\naccepted."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Items a–e are stated as part of the technical proposal. VAT applies only where applicable. The submission-format requirements are included because they are express submission obligations, though they are not documents themselves."
+    },
+    "MFG for Registration": {
+      "value": "HP",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "|<br>HP|2 in 1 Laptops|7|<br>Table 2 <br>|\n|<br>HP|High-End Laptops|2|2|\n|<br>HP|Standard HP Laptops (Level 2)|9|9|\n|<br>HP|Standard HP Laptops (Level 1)|5|5|"
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 5,
+          "quote": "(e) Bidders are required to provide Manufacturers’ Authorization letter or  \ncertificate of partnership, or any equivalent recognized document from the\nmanufacturer or their Authorized Tier 1 Distributors. Where the distributor has\nissued the Authorization, it should be supported by Manufacturer\nAuthorization to that Distributor issuing the Authorization.  "
+        }
+      ],
+      "confidence": 0.83,
+      "notes": "The equipment brand is HP, and the RFP requires a manufacturers’ authorization letter or equivalent from the manufacturer or its Authorized Tier 1 Distributors."
+    },
+    "Contract or Cooperative to use": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Product": {
+      "value": "Business laptops (HP): 7 HP 2-in-1 laptops; 2 HP high-end laptops; 9 HP standard HP laptops (Level 2); 5 HP standard HP laptops (Level 1).",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "The bidder shall supply and deliver the following Business Laptops shown in Table 1\nbelow. The minimum technical specifications are in Annexure 1.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "|<br>HP|2 in 1 Laptops|7|<br>Table 2 <br>|\n|<br>HP|High-End Laptops|2|2|\n|<br>HP|Standard HP Laptops (Level 2)|9|9|\n|<br>HP|Standard HP Laptops (Level 1)|5|5|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "contact_info": {
+      "value": "Chief Financial Officer; admin@lca.org.ls",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 4,
+          "quote": "6.1 Any request for clarification on the RFP must be addressed in writing to the  \n[Chief Financial Officer at admin@lca.org.ls](mailto:admin@lca.org.ls) no later than five days before the\ndeadline."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "No phone/telephone stated in the supplied evidence."
+    },
+    "company_name": {
+      "value": "Lesotho Communications Authority (LCA)",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "The Lesotho Communications Authority (LCA) is the regulatory body for the"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Bid Summary": {
+      "value": "The document is titled \"REQUEST FOR PROPOSALS (RFP) FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS\" and names Lesotho Communications Authority (LCA) as the company. The RFP requests business laptops, listed as 7 HP 2-in-1 laptops, 2 HP high-end laptops, 9 HP standard HP laptops (Level 2), and 5 HP standard HP laptops (Level 1). The closing date for submission is Monday, 21 July 2025 at 11hr00, and clarification requests must be addressed to the Chief Financial Officer at admin@lca.org.ls. Bids must be physically delivered, electronic submissions are not accepted, and submissions must include one original and four copies in separate technical and financial packages. Required technical proposal documents include a valid Tax Clearance Certificate, valid Traders Licence, VAT Registration Certificate where applicable, Company Profile, three references, a banker’s reference, and a Manufacturers’ Authorization letter or equivalent document.",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 1,
+          "quote": "# **REQUEST FOR PROPOSALS (RFP) FOR THE SUPPLY AND** **DELIVERY OF BUSINESS LAPTOPS**  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "The Lesotho Communications Authority (LCA) is the regulatory body for the"
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "The bidder shall supply and deliver the following Business Laptops shown in Table 1\nbelow. The minimum technical specifications are in Annexure 1.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "|<br>HP|2 in 1 Laptops|7|<br>Table 2 <br>|\n|<br>HP|High-End Laptops|2|2|\n|<br>HP|Standard HP Laptops (Level 2)|9|9|\n|<br>HP|Standard HP Laptops (Level 1)|5|5|"
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 5,
+          "quote": "(e) Bidders are required to provide Manufacturers’ Authorization letter or  \ncertificate of partnership, or any equivalent recognized document from the\nmanufacturer or their Authorized Tier 1 Distributors. Where the distributor has\nissued the Authorization, it should be supported by Manufacturer\nAuthorization to that Distributor issuing the Authorization.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 4,
+          "quote": "6.2 The tenders must be submitted in the tender box located at the LCA reception\non the 1st Floor, Lesotho Communications Authority, 30 Princess Margaret\nRoad, Old Europa, Maseru, Lesotho on or before **Monday**, the **21** [st] **July** 202 **5** at\n**11hr00** . No submission will be accepted after the closing time."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 4,
+          "quote": "6.1 Any request for clarification on the RFP must be addressed in writing to the  \n[Chief Financial Officer at admin@lca.org.ls](mailto:admin@lca.org.ls) no later than five days before the\ndeadline."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.6 All bids shall be physically delivered. Electronic submissions shall not be\naccepted."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.1 The **bidder** must submit one original and four copies of its bid submission\ndocument clearly marked “ORIGINAL” and “COPIES” as appropriate for both\ntechnical and financial proposals."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.2 Technical proposals must be in a separate package from the Financial\nproposals.\n5.3 The package containing the technical proposal must be sealed, clearly marked\n“TECHNICAL PROPOSAL”, and the package containing the financial\nproposal must be sealed, clearly marked “FINANCIAL PROPOSAL”.\n5.4 The technical proposal should **NOT** include any financial information."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.5 Both packages must be placed in one outer package clearly marked “ **TENDER**\n**FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS.** ” Packages\nshould not bear any identification of the bidder."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 4,
+          "quote": "## **7. ALL SUBMISSIONS MUST BE DELIVERED AND ADDRESSED TO:**  \nThe Chief Financial Officer\n1st Floor\nLesotho Communications Authority Building\n30 Princess Margaret Road, Old Europa\nP. O. Box 15896\nMaseru, LESOTHO."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 2,
+          "quote": "a) Valid Tax Clearance Certificate.\nb) Valid Traders Licence.\nc) VAT Registration Certificate (where applicable).\nd) Company Profile.\ne) The submission should include three (3) references where similar assignment(s)  \nwere undertaken and should specify full names of client companies, the contact\nperson(s), their email addresses and telephone numbers. All references will be\ncontacted for further information on those assignments.  \n**NB:** The above documents must form part of the technical proposal document of  \nthe tender.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "e) The bidder must demonstrate financial capability to undertake the task by  \nproviding the banker’s reference confirming the bidder's financial liquidity."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 5,
+          "quote": "(d) Any attached brochures and write-ups should be cross-referenced to the  \ntechnical specifications.\n(e) Bidders are required to provide Manufacturers’ Authorization letter or  \ncertificate of partnership, or any equivalent recognized document from the\nmanufacturer or their Authorized Tier 1 Distributors. Where the distributor has\nissued the Authorization, it should be supported by Manufacturer\nAuthorization to that Distributor issuing the Authorization.  "
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.1 The **bidder** must submit one original and four copies of its bid submission\ndocument clearly marked “ORIGINAL” and “COPIES” as appropriate for both\ntechnical and financial proposals.\n5.2 Technical proposals must be in a separate package from the Financial\nproposals.\n5.3 The package containing the technical proposal must be sealed, clearly marked\n“TECHNICAL PROPOSAL”, and the package containing the financial\nproposal must be sealed, clearly marked “FINANCIAL PROPOSAL”.\n5.4 The technical proposal should **NOT** include any financial information."
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 3,
+          "quote": "5.5 Both packages must be placed in one outer package clearly marked “ **TENDER**\n**FOR THE SUPPLY AND DELIVERY OF BUSINESS LAPTOPS.** ” Packages\nshould not bear any identification of the bidder.\n5.6 All bids shall be physically delivered. Electronic submissions shall not be\naccepted."
+        }
+      ],
+      "confidence": 0.7,
+      "notes": "Generated from validated fields; confidence is an uncalibrated estimate."
+    },
+    "Product Specification": {
+      "value": "Minimum specifications for Table 2:\n- Category 1: HP (2 in 1) Laptops — Intel Core Ultra 7 / its equivalent or higher; 4.8 GHz processor max turbo speed; 16 GB DDR5 or higher; 512 GB SSD PCIe NVMe or better; preinstalled Windows 11 Pro 64-bit; Wi‑Fi 6 or higher and Bluetooth 5.4 wireless card; integrated Intel® Arc™ Graphics; 3 x USB-C; stereo microphone/headphone combo jack; touch pad; 14 inches display; FHD webcam; inbuilt Dolby Audio stereo speakers; 16 hours battery life; backpack (two compartments); 65 W USB Type-C power adapters; Multiport USB-C Adapter (HDMI, RJ-45, and USB-A), one adapter per laptop; 3 years carry-in warranty.\n- Category 2: High-End HP Laptops — Intel Core Ultra 9 or similar category; 5.1 GHz or higher; 32 GB DDR5 or higher; 512 GB SSD PCIe NVMe or better; preinstalled Windows 11 Pro 64-bit; Wi‑Fi 6 or higher and Bluetooth 5.3 wireless card; integrated Intel Graphics; 2 x USB-C; 2 x USB-A; 1 x HDMI 2.1; stereo microphone/headphone combo jack; RJ45; touch pad; 15.6 inches display; FHD webcam; inbuilt stereo speakers; 16 hours battery life; backpack (two compartments); 65 W USB Type-C power adapters; 3 years carry-in warranty.\n- Category 3: Standard Laptops Specifications – Level 2 — Intel Core Ultra 7 or similar category; 4.3 GHz or higher; 16 GB DDR5 or higher; 512 GB SSD PCIe NVMe or better; preinstalled Windows 11 Pro 64-bit; Wi‑Fi 6 or higher and Bluetooth 5.3 wireless card; integrated Intel Graphics; 2 x USB-C; 2 x USB-A; 1 x HDMI 2.1; stereo microphone/headphone combo jack; RJ45; touch pad; 15.6 inches display; FHD webcam; inbuilt stereo speakers; 16 hours battery life; backpack (two compartments); 65 W USB Type-C power adapters; 3 years carry-in warranty.\n- Category 4: Standard Laptops Specifications – Level 1 — Intel Core Ultra 5; 4.3 GHz; 8 GB DDR5 or higher; 512 GB SSD PCIe NVMe or better; preinstalled Windows 11 Pro 64-bit; Wi‑Fi 6 or higher and Bluetooth 5.3 wireless card; integrated Intel Graphics; 2 x USB-C; 2 x USB-A; 1 x HDMI 2.1; stereo microphone/headphone combo jack; RJ45; touch pad; 15.6 inches display; FHD webcam; inbuilt stereo speakers; 16 hours battery life; backpack (two compartments); 65 W USB Type-C power adapters; 3 years carry-in warranty.",
+      "sources": [
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 6,
+          "quote": "|**Category 1: HP (2 in 1) Laptops Specifications**|**Category 1: HP (2 in 1) Laptops Specifications**|**Category 1: HP (2 in 1) Laptops Specifications**|\n|**Brand Name**|HP||\n|**Processor (CPU)**|Intel Core Ultra 7 / its equivalent or higher||\n|**Processor Max Turbo Speed**|4.8 GHz||\n|**Memory (RAM)**|16 GB DDR5 or higher||\n|**Internal Storage**|512 GB SSD PCIe NVMe or better||\n|**Operating Systems**|Preinstalled with Windows 11 Pro 64-bit||\n|**Connectivity**|Wi-Fi 6 or higher and Bluetooth 5.4 wireless card||\n|**Graphics**|Integrated: Intel® Arc™ Graphics||\n|**Ports and Connectors**|3 x USB-C||\n|**Ports and Connectors**|Stereo microphone/headphone combo jack||\n|**Pointing Devices**|Touch pad||\n|**Display**|14 Inches||\n|**Inbuilt Camera**|FHD webcam||\n|**Inbuilt Speakers**|Inbuilt Dolby Audio stereo speakers||\n|**Battery Life**|16 hours||\n|**Carry Case**|Backpack (two compartments)||\n|**Input power**|65 W USB Type-C power adapters||\n|**Accessories (7)**|Multiport USB-C Adapter (HDMI, RJ-45, and USB-<br>A);**One adapter per laptop**||\n|**Warranty**|3 years carry-in||"
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 6,
+          "quote": "|**Category 2: High-End HP Laptops Specifications**|**Category 2: High-End HP Laptops Specifications**|**Category 2: High-End HP Laptops Specifications**|\n|**Brand Name**|HP||\n|**Processor (CPU)**|Intel Core Ultra 9 or similar category||\n|**Processor Max Turbo Speed**|5.1 GHz or Higher||\n|**Memory (RAM)**|32 GB DDR5 or higher||\n|**Internal Storage**|512 GB SSD PCIe NVMe or better||\n|**Operating Systems**|Preinstalled with Windows 11 Pro 64-bit||\n|**Connectivity**|Wi-Fi 6 or higher and Bluetooth 5.3 wireless card||\n|**Graphics**|Integrated: Intel Graphics||\n|<br> <br>**Ports and Connectors**|2 x USB-C||\n|<br> <br>**Ports and Connectors**|2x USB-A||\n|<br> <br>**Ports and Connectors**|1 x HDMI 2.1||\n|<br> <br>**Ports and Connectors**|Stereo microphone/headphone combo jack||\n|<br> <br>**Ports and Connectors**|RJ45||\n|**Pointing Devices**|Touch pad||\n|**Display**|15.6 Inches||\n|**Inbuilt Camera**|FHD webcam||\n|**Inbuilt Speakers**|Inbuilt stereo speakers||\n|**Battery Life**|16 hours||\n|**Carry Case**|Backpack (two compartments)||\n|**Input power**|65 W USB Type-C power adapters||\n|**Warranty**|3 years carry-in||"
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 7,
+          "quote": "|Category 3: Standard Laptops Specifications – Level 2|Col2|Col3|\n|---|---|---|\n|**Brand Name**|HP||\n|**Processor (CPU)**|Intel Core Ultra 7 or similar category||\n|**Processor Max Turbo Speed**|4.3 GHz or higher||\n|**Memory (RAM)**|16 GB DDR5 or higher||\n|**Internal Storage**|512 GB SSD PCIe NVMe or better||\n|**Operating Systems**|Preinstalled with Windows 11 Pro 64-bit||\n|**Connectivity**|Wi-Fi 6 or higher and Bluetooth 5.3 wireless card||\n|**Graphics**|Integrated: Intel Graphics||\n|**Ports and Connectors**|2 x USB-C||\n|**Ports and Connectors**|2x USB-A||\n|**Ports and Connectors**|1 x HDMI 2.1||\n|**Ports and Connectors**|Stereo microphone/headphone combo jack||\n|**Ports and Connectors**|RJ45||\n|**Pointing Devices**|Touch pad||\n|**Display**|15.6 Inches||\n|**Inbuilt Camera**|FHD webcam||\n|**Inbuilt Speakers**|Inbuilt stereo speakers||\n|**Battery Life**|16 hours||\n|**Carry Case**|Backpack (two compartments)||\n|**Input power**|65 W USB Type-C power adapters||\n|**Warranty**|3 years carry-in||"
+        },
+        {
+          "file": "business_laptops_rfp.pdf",
+          "page": 7,
+          "quote": "|**Category 4: Standard Laptops Specifications – Level 1**|**Category 4: Standard Laptops Specifications – Level 1**|**Category 4: Standard Laptops Specifications – Level 1**|\n|**Brand Name**|HP||\n|**Processor (CPU)**|Intel Core Ultra 5||\n|**Processor Max Turbo Speed**|4.3 GHz||\n|**Memory (RAM)**|8 GB DDR5 or higher||\n|**Internal Storage**|512 GB SSD PCIe NVMe or better||\n|**Operating Systems**|Preinstalled with Windows 11 Pro 64-bit||\n|**Connectivity**|Wi-Fi 6 or higher and Bluetooth 5.3 wireless card||\n|**Graphics**|Integrated: Intel Graphics||\n|**Ports and Connectors**|2 x USB-C||\n|**Ports and Connectors**|2x USB-A||\n|**Ports and Connectors**|1 x HDMI 2.1||\n|**Ports and Connectors**|Stereo microphone/headphone combo jack||\n|**Ports and Connectors**|RJ45||\n|**Pointing Devices**|Touch pad||\n|**Display**|15.6 Inches||\n|**Inbuilt Camera**|FHD webcam||\n|**Inbuilt Speakers**|Inbuilt stereo speakers||\n|**Battery Life**|16 hours||\n|**Carry Case**|Backpack (two compartments)||\n|**Input power**|65 W USB Type-C power adapters||\n|**Warranty**|3 years carry-in||"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    }
+  },
+  "addendum_changes": [],
+  "validation": {
+    "passed": 12,
+    "failed": 0,
+    "not_found": 8
+  }
+}

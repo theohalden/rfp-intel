@@ -1,0 +1,374 @@
+{
+  "bid_id": "Public_CVSU_2025",
+  "fields": {
+    "Bid Number": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Title": {
+      "value": "CVSU CHROMEBOOK RFP 2025",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 1,
+          "quote": "**CVSU CHROMEBOOK RFP 2025**  \n**NOTICE** **OF** **REQUEST** **FOR** **PROPOSALS**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Due Date": {
+      "value": "March 28, 2025 at 1:00 PM Eastern Time",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "**2. Delivery of Proposals:** RFP’s must be delivered by 1:00PM Eastern Time on **March 28, 2025**"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 1,
+          "quote": "**All proposals are due in the CVSU Office, 111B Brush Hill Road, Williamstown, VT 05679 no later than**\n**1:00 PM on March 28, 2025.** The proposals will remain unopened until the CVSU staff is ready to assess"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "One clause gives the deadline with the explicit zone: Eastern Time. A duplicate clause states the same date/time without a time zone; no conflict."
+    },
+    "Bid Submission Type": {
+      "value": "Submit the complete original proposal in a sealed package and deliver it by 1:00 PM Eastern Time on March 28, 2025 to CVSU – Attn: Trey Cates, 111B Brush Hill Road, Williamstown, VT 05679. An original and two (2) copies are required. Late proposals will not be accepted, and offers by any type of electronic communication will not be accepted.",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "**1.** **Submission Requirements:** The complete original proposal must be submitted in a sealed\npackage and received in accordance with the instructions detailed in the Notice of RFP. All"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "**2. Delivery of Proposals:** RFP’s must be delivered by 1:00PM Eastern Time on **March 28, 2025**\nto the following address:  \n**CVSU – Attn: Trey Cates**  \n**111B Brush Hill Road**\n**Williamstown, VT 05679**  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 3,
+          "quote": "**18.** **Copies:** An original and two (2) copies of the proposal and supporting documents must be\nsubmitted in response to the RFP. All responses must relate to the specifications as outlined.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "responsibility of the vendor to see that their RFP is received in the proper time. Any proposals\nreceived after the proposal **opening will not be accepted** .  \n**3.** The responsibility for getting the proposal to the CVSU on or before 1:00 PM on **March 28,**\n**2025** is solely and strictly the responsibility of the Vendor. The CVSU will in no way be\nresponsible for delays caused by any occurrence. It shall not be sufficient to show that the\nproposal was mailed in time be received before the scheduled closing time. Offers by any type\nof electronic communication will not be accepted.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Physical submission only; the RFP explicitly rejects late proposals and electronic communications. The submission location and deadline are stated together in the delivery instructions."
+    },
+    "Term of Bid": {
+      "value": "3 years, with an option to purchase all equipment at the end of the lease for $1.00 per unit.",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "- CVSU desires to lease the equipment in this project for 3 years, with the option to\npurchase all equipment at the end of the lease at the price of $1.00 per unit.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 7,
+          "quote": "**32.** **Contract Terms:** For the purpose of this RFP, the contract will be a single purchase contract with\nlease agreement divided by quantity between the representative school districts.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Installation": {
+      "value": "All equipment shall be new, assembled, serviced, adjusted, and demonstrated to the satisfaction of the CVSU; on-site demonstrations of the proposed equipment may be requested.",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 7,
+          "quote": "**b.** All equipment shall be new, assembled, serviced, adjusted, and demonstrated to the  \nsatisfaction of the CVSU that they are in perfect mechanical and operating condition.\n**c.** All equipment shall be F.O.B. to each school site in Vermont. The equipment will be  \naccepted only after the delivery requirements have been met. The seller shall assume\nfull responsibility for the equipment until accepted.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 6,
+          "quote": "They may, at their option, request any or all proposers to provide on‐site demonstrations of\nthe proposed equipment."
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Supported literal requirements are assembly, servicing, adjustment, demonstration, and possible on-site demonstrations; no separate deployment/imaging/tagging/etching/Autopilot service language appears in the cited passages."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Payment Terms": {
+      "value": "Lease quotes are to be separated for billing purposes according to school districts; payment options should include annual and bi-annual payments; initial lease payments should begin no earlier than 30 days after receipt of equipment.",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "- CVSU desires to lease the equipment in this project for 3 years, with the option to\npurchase all equipment at the end of the lease at the price of $1.00 per unit.  \n- Lease quotes should be prepared according to the equipment volume for the entire CVSU\nbut **separated for billing purposes according to school districts.**  \n- Lease quotes should include options for annual and bi-annual payments.  \n- Initial lease payments should begin no earlier than 30 days after receipt of equipment.  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "No invoice/net-day term is stated in the supplied evidence."
+    },
+    "Any Additional Documentation Required": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents; validation failed: The field is mostly supported, but it omits an expressly required proposal/signature form fact present in the context. Page 4 item 19 says the proposal must include costs and lease proposals \"signed by responsible party,\" and page 12 includes an \"AUTHORIZED SIGNATURE\" line with print name, title, taxpayer ID, and date. The candidate value does not mention this required signed proposal form, so the checklist fact is incomplete."
+    },
+    "MFG for Registration": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Contract or Cooperative to use": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Model_no": {
+      "value": "9R398UT#ABA; HP Fortis Fx36011G5 N100 11 8GB/64 PC",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|Category:|Model:|Details:|\n|---|---|---|\n|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|"
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "Table labels the opaque code as Model and gives the commercial device designation in Details."
+    },
+    "Part_no": {
+      "value": "DEVICE/SKU: 9R398UT#ABA — HP Fortis Fx36011G5 N100 11 8GB/64 PC; EXTENDED WARRANTY: U67XTE — HP 3y Offsite w/ADP Notebook; CONSOLE LICENSING: J0X44AAE — HP EDU Google Chrome Mgmt Console E-LTU; CASE: HP-ESF-FX3CB-G5-GRY — MaxCases Extreme Shell-F2 Slide Case for HP Fortis X360 11 G5 (Gray/Clear)",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|Category:|Model:|Details:|\n|---|---|---|\n|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|\n|EXTENDED WARRANTY|U67XTE|HP 3y Offsite w/ADP Notebook|\n|CONSOLE LICENSING|J0X44AAE|HP EDU Google Chrome Mgmt Console E-<br>LTU|\n|CASE|HP-ESF-<br>FX3CB-G5-<br>GRY|MaxCases Extreme Shell-F2 Slide Case for<br>HP Fortis X360 11 G5 (Gray/Clear)|"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The table explicitly labels the identifiers under Category / Model / Details and supplies the listed codes and corresponding product descriptions."
+    },
+    "Product": {
+      "value": "HP Chromebooks / device package: 1,231 total device units listed (Orange Center 92; Washington Village 112; Northfield Elementary 231; Northfield Middle High 300; Williamstown Elementary 202; Williamstown Middle High 294). Specific listed items are DEVICE model 9R398UT#ABA (HP Fortis Fx36011G5 N100 11 8GB/64 PC), EXTENDED WARRANTY U67XTE (HP 3y Offsite w/ADP Notebook), CONSOLE LICENSING J0X44AAE (HP EDU Google Chrome Mgmt Console E-LTU), and CASE HP-ESF-FX3CB-G5-GRY (MaxCases Extreme Shell-F2 Slide Case for HP Fortis X360 11 G5).",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "CVSU is seeking to lease for three years (with the option to purchase at the end of lease) specific\nHP Chromebooks with MaxCase Rugged Cases, Google Console Licensing, and a 3 year ADP\nwarranty to provide 1 device per student in our K-12 student body.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|Category:|Model:|Details:|\n|---|---|---|\n|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|\n|EXTENDED WARRANTY|U67XTE|HP 3y Offsite w/ADP Notebook|\n|CONSOLE LICENSING|J0X44AAE|HP EDU Google Chrome Mgmt Console E-<br>LTU|\n|CASE|HP-ESF-<br>FX3CB-G5-<br>GRY|MaxCases Extreme Shell-F2 Slide Case for<br>HP Fortis X360 11 G5 (Gray/Clear)|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 10,
+          "quote": "TOTAL DEVICE UNITS FOR CVSU: 1231  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 10,
+          "quote": "|School:|Unit Quantity:|\n|---|---|\n|Orange Center School<br>357 Route 302, East Barre, VT 05649|92|\n|Washington Village School<br>72 School Lane<br>Washington, VT 05675|112|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 10,
+          "quote": "|School:|Unit Quantity:|\n|---|---|\n|Northfield Elementary School<br>10 Cross Street, Northfield, VT 05663|231|\n|Northfield Middle High School<br>37 Cross Street, Northfield, VT 05663|300|\n|Williamstown Elementary School<br>100 Brush Hill Rd, Williamstown, VT 05679|202|\n|Williamstown Middle High School<br>120 Hebert Road, Williamstown, VT 05679|294|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 3,
+          "quote": "**7.** Conditions may change that would alter the requirements and no guarantee of volume exists.  \n**8.** The CVSU reserves the right to lease or purchase more or less than the quantity listed, depending\nupon actual requirements and budget restraints, at the unit costs as set forth in the Successful\nVendor’s proposal/contract(s).  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The listed quantity is an estimated/solicited volume, not a guaranteed order quantity; CVSU states there is no guarantee of volume and reserves the right to lease or purchase more or less than the listed quantity."
+    },
+    "contact_info": {
+      "value": "Trey Cates, CVSU Director of Technology; Phone: 802-433-7087; email: tcates@cvsu.org",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 8,
+          "quote": "Questions regarding this request for proposal should be directed to:  \nTrey Cates\nCVSU Director of Technology  \nPhone: 802-433-7087\nemail: tcates@cvsu.org  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "company_name": {
+      "value": "Central Vermont Supervisory Union",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 1,
+          "quote": "Notice is given that the Central Vermont Supervisory Union (CVSU), consisting of the following districts"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Bid Summary": {
+      "value": "The document is titled \"CVSU CHROMEBOOK RFP 2025,\" and the company name is Central Vermont Supervisory Union. Proposals are due March 28, 2025 at 1:00 PM Eastern Time, and the submission instructions require a sealed package with an original and two copies; electronic communications are not accepted. The requested product package includes HP Chromebooks, including model 9R398UT#ABA and the HP Fortis Fx36011G5 N100 11 8GB/64 PC, along with MaxCases rugged cases, Google Console Licensing, and a 3-year ADP warranty. The lease term is 3 years with an option to purchase all equipment for $1.00 per unit at the end of the lease, and lease quotes should be separated for billing by school district with annual and bi-annual payment options. Questions should be directed to Trey Cates, CVSU Director of Technology, at 802-433-7087 or tcates@cvsu.org.",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 1,
+          "quote": "**CVSU CHROMEBOOK RFP 2025**  \n**NOTICE** **OF** **REQUEST** **FOR** **PROPOSALS**  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 1,
+          "quote": "Notice is given that the Central Vermont Supervisory Union (CVSU), consisting of the following districts"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "**2. Delivery of Proposals:** RFP’s must be delivered by 1:00PM Eastern Time on **March 28, 2025**"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 1,
+          "quote": "**All proposals are due in the CVSU Office, 111B Brush Hill Road, Williamstown, VT 05679 no later than**\n**1:00 PM on March 28, 2025.** The proposals will remain unopened until the CVSU staff is ready to assess"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "**1.** **Submission Requirements:** The complete original proposal must be submitted in a sealed\npackage and received in accordance with the instructions detailed in the Notice of RFP. All"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "**2. Delivery of Proposals:** RFP’s must be delivered by 1:00PM Eastern Time on **March 28, 2025**\nto the following address:  \n**CVSU – Attn: Trey Cates**  \n**111B Brush Hill Road**\n**Williamstown, VT 05679**  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 3,
+          "quote": "**18.** **Copies:** An original and two (2) copies of the proposal and supporting documents must be\nsubmitted in response to the RFP. All responses must relate to the specifications as outlined.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 2,
+          "quote": "responsibility of the vendor to see that their RFP is received in the proper time. Any proposals\nreceived after the proposal **opening will not be accepted** .  \n**3.** The responsibility for getting the proposal to the CVSU on or before 1:00 PM on **March 28,**\n**2025** is solely and strictly the responsibility of the Vendor. The CVSU will in no way be\nresponsible for delays caused by any occurrence. It shall not be sufficient to show that the\nproposal was mailed in time be received before the scheduled closing time. Offers by any type\nof electronic communication will not be accepted.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "CVSU is seeking to lease for three years (with the option to purchase at the end of lease) specific\nHP Chromebooks with MaxCase Rugged Cases, Google Console Licensing, and a 3 year ADP\nwarranty to provide 1 device per student in our K-12 student body.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|Category:|Model:|Details:|\n|---|---|---|\n|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|\n|EXTENDED WARRANTY|U67XTE|HP 3y Offsite w/ADP Notebook|\n|CONSOLE LICENSING|J0X44AAE|HP EDU Google Chrome Mgmt Console E-<br>LTU|\n|CASE|HP-ESF-<br>FX3CB-G5-<br>GRY|MaxCases Extreme Shell-F2 Slide Case for<br>HP Fortis X360 11 G5 (Gray/Clear)|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 10,
+          "quote": "TOTAL DEVICE UNITS FOR CVSU: 1231  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 10,
+          "quote": "|School:|Unit Quantity:|\n|---|---|\n|Orange Center School<br>357 Route 302, East Barre, VT 05649|92|\n|Washington Village School<br>72 School Lane<br>Washington, VT 05675|112|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 10,
+          "quote": "|School:|Unit Quantity:|\n|---|---|\n|Northfield Elementary School<br>10 Cross Street, Northfield, VT 05663|231|\n|Northfield Middle High School<br>37 Cross Street, Northfield, VT 05663|300|\n|Williamstown Elementary School<br>100 Brush Hill Rd, Williamstown, VT 05679|202|\n|Williamstown Middle High School<br>120 Hebert Road, Williamstown, VT 05679|294|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 3,
+          "quote": "**7.** Conditions may change that would alter the requirements and no guarantee of volume exists.  \n**8.** The CVSU reserves the right to lease or purchase more or less than the quantity listed, depending\nupon actual requirements and budget restraints, at the unit costs as set forth in the Successful\nVendor’s proposal/contract(s).  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|Category:|Model:|Details:|\n|---|---|---|\n|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|\n|EXTENDED WARRANTY|U67XTE|HP 3y Offsite w/ADP Notebook|\n|CONSOLE LICENSING|J0X44AAE|HP EDU Google Chrome Mgmt Console E-<br>LTU|\n|CASE|HP-ESF-<br>FX3CB-G5-<br>GRY|MaxCases Extreme Shell-F2 Slide Case for<br>HP Fortis X360 11 G5 (Gray/Clear)|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 12,
+          "quote": "- Chromebook Model and Features  \n- Case Model and Features  \n- Chrome Console Licensing Detail  \n- 3-year, mail in, Accidental Damage Protection Warranty Detail  \n- Lease terms including all fees, terms, rates, and payment schedule.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "- CVSU desires to lease the equipment in this project for 3 years, with the option to\npurchase all equipment at the end of the lease at the price of $1.00 per unit.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 7,
+          "quote": "**32.** **Contract Terms:** For the purpose of this RFP, the contract will be a single purchase contract with\nlease agreement divided by quantity between the representative school districts.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "- CVSU desires to lease the equipment in this project for 3 years, with the option to\npurchase all equipment at the end of the lease at the price of $1.00 per unit.  \n- Lease quotes should be prepared according to the equipment volume for the entire CVSU\nbut **separated for billing purposes according to school districts.**  \n- Lease quotes should include options for annual and bi-annual payments.  \n- Initial lease payments should begin no earlier than 30 days after receipt of equipment.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 8,
+          "quote": "Questions regarding this request for proposal should be directed to:  \nTrey Cates\nCVSU Director of Technology  \nPhone: 802-433-7087\nemail: tcates@cvsu.org  "
+        }
+      ],
+      "confidence": 0.79,
+      "notes": "Generated from validated fields; confidence is an uncalibrated estimate."
+    },
+    "Product Specification": {
+      "value": "Model/spec line: HP Fortis Fx36011G5 N100 11 8GB/64 PC; display 11.6 inch diagonal, HD (1366 x 768), touch, BrightView, 250 nits, 50% NTSC; power 45 W USB Type-C™ adapter; wireless Intel® Wi‑Fi 6E AX211 (2x2) and Bluetooth® 5.3; warranty 1 year (1/1/0) limited warranty, including 1 year of parts and labor, no on-site repair; required proposal detail also calls for a 3-year mail-in Accidental Damage Protection warranty / HP 3y Offsite w/ADP Notebook; Chrome console licensing HP EDU Google Chrome Mgmt Console E-LTU; case MaxCases Extreme Shell-F2 Slide Case for HP Fortis X360 11 G5 (Gray/Clear).",
+      "sources": [
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "|DEVICE|9R398UT#ABA|• HP Fortis Fx36011G5 N100 11 8GB/64 PC<br>• Power - 45 W USB Type-C™ adapter<br>• Display - 11.6 inch diagonal, HD (1366 x<br>768), touch, BrightView, 250 nits, 50% NTSC<br>• Wireless - Intel® Wi-Fi 6E AX211 (2x2) and<br>Bluetooth® 5.3 wireless card<br>• Warranty - 1 year (1/1/0) limited warranty<br>includes 1 year of parts and labor. No on-<br>site repair.|\n|EXTENDED WARRANTY|U67XTE|HP 3y Offsite w/ADP Notebook|\n|CONSOLE LICENSING|J0X44AAE|HP EDU Google Chrome Mgmt Console E-<br>LTU|\n|CASE|HP-ESF-<br>FX3CB-G5-<br>GRY|MaxCases Extreme Shell-F2 Slide Case for<br>HP Fortis X360 11 G5 (Gray/Clear)|"
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 12,
+          "quote": "- Chromebook Model and Features  \n- Case Model and Features  \n- Chrome Console Licensing Detail  \n- 3-year, mail in, Accidental Damage Protection Warranty Detail  \n- Lease terms including all fees, terms, rates, and payment schedule.  "
+        },
+        {
+          "file": "chromebook_rfp.pdf",
+          "page": 9,
+          "quote": "CVSU is seeking to lease for three years (with the option to purchase at the end of lease) specific\nHP Chromebooks with MaxCase Rugged Cases, Google Console Licensing, and a 3 year ADP\nwarranty to provide 1 device per student in our K-12 student body.  "
+        }
+      ],
+      "confidence": 0.79,
+      "notes": "Operating system is not explicitly stated in the supplied specifications. The source text gives the memory/storage string as '8GB/64 PC' rather than a separately labeled GB storage capacity."
+    }
+  },
+  "addendum_changes": [],
+  "validation": {
+    "passed": 13,
+    "failed": 1,
+    "not_found": 6
+  }
+}

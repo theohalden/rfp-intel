@@ -1,0 +1,1 @@
+{"agent": "ingestion", "input": "chromebook_rfp.pdf", "tool_calls": ["parse_pdf"], "output": {"file_name": "chromebook_rfp.pdf", "doc_type": "rfp", "addendum_number": null, "page_count": 12, "parsed_pages": 12, "ocr_pages": 0, "tables_found": 3, "warnings": [], "errors": []}, "tokens": 0, "latency_ms": 2108.85}

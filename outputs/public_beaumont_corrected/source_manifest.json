@@ -1,0 +1,48 @@
+{
+  "bid_id": "Public_Beaumont_2025",
+  "source_url": "https://www.bmtisd.com/uploaded/RFP_25.09_Chromebooks.pdf",
+  "source_sha256": "8ab83754c34db0f8459cd9e36c7cfff347b291166e813e803031abdd66d78d22",
+  "source_pages": 42,
+  "downloaded_utc": "2026-11-07T09:25:01.911489+00:00",
+  "scope": "Single historical RFP; linked external purchase-order terms and addenda are not in scope.",
+  "phase": "Final source-reviewed development regression: separate citation support/completeness, explicit attributes/conditions and identifier evidence gate.",
+  "runtime_before": {
+    "agents/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "agents/graph.py": "0dee522cf7a335928d2d579812b490ba9d7749e46e5db645c632b780f7ba6c23",
+    "agents/guards.py": "130abb752a0fbc83c01900851a61889e35cc81a1963887ea14fc8284cff033ee",
+    "agents/llm.py": "858c1575dd118a8f7397f7ffbcb99e807856ef34f5feed01861dec20c4d5a832",
+    "agents/prompts.py": "79392cb523212dbb65729a91ed86b777d19b60684370733e5a5341990b27aa1f",
+    "agents/qa.py": "75cd8e807e9d21e1e979492439c785d996422bfcd29f72bfb46d620fa444abd2",
+    "agents/tools.py": "4930a4cdc4e977a838729065164b167bddfd33d611b9aed5dbacf3a2ecbf25c4",
+    "agents/trace.py": "9682ad5dc0d668d337acabf6717abe283c16b38412499ee9466c0d585bfe5b78",
+    "config.py": "e69afdba9e87a4cbce64a2d3e16bc9e86a21c52984711408bd26461d6bf7297d",
+    "config.yaml": "fc6037619f879feabdde5a40acaf81de05d56f98b73f8f58a918f7d017ceb34b",
+    "ingestion/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ingestion/ocr.py": "bc663e0cf50d3e2274c21e7e77e985a417cd8ce1abe380c6fa39503a8e9c6da4",
+    "ingestion/parse.py": "044eed75824568a1b7d9bd085af7c925ab1c02bb4a006d9df0b9502a68c72f18",
+    "main.py": "ce80e6fe246ffe18c555724197e3f9f75abf22492f48e28fe31142d06e6f3625",
+    "requirements.lock.txt": "8c09c059647b56cc7f4e6314527492c279b277806ba5a075b995646ff9a9e641",
+    "requirements.txt": "1291391c64b104c2b624bebcc0af4af8e5bbad2c6493114d673ee5e7abfdb0b8",
+    "schemas.py": "72d6d9a5ed7de9c56f588adfbe0a3286f76eaaa3f084efd3e01258f9fdbf079d",
+    "search/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "search/api.py": "ea8b8ee0882cb91b0c548f7beb85f330ac970d4a38bc1aadbe3066aebb3f21de",
+    "search/chunk.py": "311a516ed4d45f8f46bdb6a27c74f4af13b00b917a4fb89f96529c4782ff8827",
+    "search/deadlines.py": "db589bfec221eb9832a5adc521701438d191463853d2f6b2ca470992e0f12450",
+    "search/display.py": "1b6370b93fd9df30e79fb0cdf0af00bdb17a93f96cb9cbebbc317ad90a8268ba",
+    "search/index.py": "4a9022bb4224618032c905fecd847080c7a61f5c9c335eebce34bc94ddd67a7b",
+    "search/models.py": "951c4a6f25d83c5b7cf707dd20b11b0a34c4b284e0a393ae1d8e112249a03456",
+    "search/retrieve.py": "bfdae989f6da16e2d295fba495f549105f57ba6fd5bf5951542fb1fdcb0b57ac"
+  },
+  "main_index_before": {
+    "chunks.jsonl": "0a2b5f2848101ee21b0acdc74327078a908766963e321b6f71f0009a20d109d8",
+    "manifest.json": "f67d5082608bcdb31e0acd3c5ef5341b4a61fc8f9c95077d85d60e61d8722e05"
+  },
+  "inference_environment": {
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "llm_settings": {
+    "model": "gpt-5.4-mini",
+    "reasoning_effort": "medium"
+  }
+}
