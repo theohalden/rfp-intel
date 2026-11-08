@@ -38,3 +38,4 @@ dist/
 /outputs/**/runtime_snapshot.zip
 /outputs/**/search_trace.jsonl
 /outputs/**/pages.jsonl
+/INTERVIEW_PREP.md
