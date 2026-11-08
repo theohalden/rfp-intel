@@ -52,6 +52,7 @@ class Search(SettingsModel):
 class Agents(SettingsModel):
     max_retries: int = Field(default=2, ge=0, le=2)
     timeout_seconds: int = Field(default=60, gt=0)
+    max_evidence_chars: int = Field(default=32000, gt=0)  # per extraction call, ~8k tokens
 
 
 class Settings(SettingsModel):

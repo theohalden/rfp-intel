@@ -26,7 +26,7 @@ OPENAI_API_KEY=your-key
 OPENAI_MODEL=your-accessible-model-id
 ```
 
-Use a model supporting tool calls and strict structured outputs. The verified live runs used `gpt-5.4-mini`; runtime model selection comes only from `.env`. OpenAI replaces the original Anthropic adapter with the user's approval. Anthropic/Ollama adapters are not implemented. Search, parsing, and evaluation use local models and need no LLM key. Extraction/Q&A send retrieved document passages to OpenAI; traces retain these passages locally. Keep `.env`, keys, input documents, and model weights out of source control.
+Use a model supporting tool calls and strict structured outputs. The verified live runs used `gpt-5.4-mini`; runtime model selection comes only from `.env`. OpenAI replaces the original Anthropic adapter with the user's approval. An Anthropic adapter (`LLM_PROVIDER=anthropic`, plus `pip install langchain-anthropic`) is written but **untested against the live API**; an Ollama adapter is not implemented. Each extraction call sends at most `agents.max_evidence_chars` (default 32000) characters of retrieved passages, lowest-ranked dropped first; output is capped by `LLM_MAX_OUTPUT_TOKENS` (default 32000, mostly consumed by model reasoning). The budget and cap were added after the last paid run and have not been re-verified end to end. Search, parsing, and evaluation use local models and need no LLM key. Extraction/Q&A send retrieved document passages to OpenAI; traces retain these passages locally. Keep `.env`, keys, input documents, and model weights out of source control.
 
 Optional OCR uses the Tesseract executable, without a Python wrapper:
 

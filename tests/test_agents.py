@@ -262,3 +262,11 @@ def test_unsupported_part_is_narrowed_not_nulled_and_rechecked(tmp_path):
     assert narrowed.value == 'Device purchase' and narrowed.confidence <= .7
     assert 'Narrowed after validation' in narrowed.notes and narrowed.sources == [source]
     assert flow.narrow('Title', field.model_copy(update={'sources': [Evidence(file='x.pdf', page=1, quote='invented')]}), 'r', [hit]) is None
+
+
+def test_evidence_sent_to_model_respects_budget_but_keeps_first_passage(tmp_path):
+    flow = workflow(tmp_path, FakeLLM())
+    flow.settings.agents.max_evidence_chars = 150
+    hits = [evidence('a' * 100), evidence('b' * 100), evidence('c' * 40)]
+    kept = flow.within_budget(hits)
+    assert [h.text[0] for h in kept] == ['a', 'c']

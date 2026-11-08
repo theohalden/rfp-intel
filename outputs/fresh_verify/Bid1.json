@@ -1,0 +1,521 @@
+{
+  "bid_id": "Bid1",
+  "fields": {
+    "Bid Number": {
+      "value": "JA-207652",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Solicitation Number  \nJA-207652  "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "BidNet lists the Solicitation Number as JA-207652; the RFP header also shows 'Request For Proposal 168884 JA-207652'."
+    },
+    "Title": {
+      "value": "RFP JA-207652 Student and Staff Computing Devices",
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**ADDENDUM No. 1**\n**RFP JA-207652 Student and Staff Computing Devices**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The addendum gives the title as \"RFP JA-207652 Student and Staff Computing Devices,\" which supersedes the prior sourcing-style title wording."
+    },
+    "Due Date": {
+      "value": "July 9, 2024 at 2:00 PM CST",
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "The Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Addendum 2 explicitly says it is extending the due date and states the new due date is \"July 9, 2024 at 2:00 PM CST,\" which supersedes the prior June 27 deadline."
+    },
+    "Bid Submission Type": {
+      "value": "Preferred submission is online via the electronic system/iSupplier portal. Manual submissions are allowed, but they must be delivered to the Procurement Services Department in a sealed envelope; no fax or email submissions will be accepted; the manual submission must consist of one original hard copy; and paper submissions may be sent by mail/FedEx/UPS to the Dallas ISD Procurement Services address provided.; If responding electronically, a PDF version is not required. Manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission. Bidders must sign the addendum and submit/return a copy with their proposal copies.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "quote": "Dallas ISD prefers responses to be submitted online via our electronic system. Please register with the\niSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the\nvendor to please register as early as possible to allow time for electronic responses. Submissions may be"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "quote": "submitted manually. Manual submissions must be delivered to the Procurement Services Department, in a\nsealed envelope by the date and time stated. No fax or email submissions will be accepted. Only one\nformat is needed. The manual submission shall consist of one (1) original hard copy.\nThe Offeror may submit a manual response by paper via mail/FedEx/UPS etc. before the cutoff date and\ntime at the following address:\nDallas ISD\nProcurement Services\n9400 N Central Expwy, Ste 1510\nAttn: Staff Member and BID NUMBER\nDallas, Tx 75231"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "Answer: If responding electronically, a pdf version is not required. Manual responses\nshould have direct edits on the PDF, supporting documentation can be included as part\nof the submission for those areas that are not sufficient in space."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 5,
+          "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER**\n**PROVISIONS, AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED**\n**TO ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "The addendum adds submission instructions that were not in the current field: electronic responses do not need a PDF version, manual responses should include direct edits on the PDF with supporting documentation as needed, and bidders must sign and return the addendum with their proposal. These additions do not contradict the existing online/manual delivery rules, packaging, or address requirements."
+    },
+    "Term of Bid": {
+      "value": "Initial term of 3 years, with two successive 1-year renewals/extensions; maximum total term not to exceed 5 years.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "Initial Term: **3**\nRenewal 1: **1**\nRenewal 2: **1**  \nAny contract that results from this solicitation and upon Mutual Agreement of the awarded vendor and the\nDistrict, may be extended not to exceed a total of 5 years(s). If either party intends not to renew the Contract,\nthat party must give written notice to the other party no fewer than ninety (90) days prior to the expiration of the"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "| The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year<br>extensions based on the long-range needs of the District and mutual consent of both parties not to exceed<br>five (5) years total. |  |"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Pre Bid Meeting": {
+      "value": "10-JUN-2024 14:00:00 (2:00 PM CST) via TEAMS video conference; attendance listed as N/A; participation is highly encouraged. The bid portal also lists the prebid conference as 06/10/2024 03:00 PM EDT.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "Pre-Proposal Meeting **10-JUN-2024 14:00:00**"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "_**Pre-Proposal**_ A pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "2024. Please submit (in writing) any questions regarding this RFP. Only written questions will be\nconsidered. It is highly encouraged that all potential proposers participate and attend the preproposal.  \nJoin TEAMS Meeting: https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting\nMeeting ID: 270 031 467 036\nPasscode: N9ndKY  "
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "### Pre-Bidding Events  \n* Event Type  \nPrebid Conference  \nAttendance  \nN/A  \nEvent date  \n06/10/2024 03:00 PM EDT"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The RFP lists the meeting as a pre-proposal meeting on June 10, 2024 at 2:00 PM CST via TEAMS. The bid portal separately lists a prebid conference at 06/10/2024 03:00 PM EDT. Attendance is shown as N/A; the RFP also says participation is highly encouraged, but does not state attendance is mandatory."
+    },
+    "Installation": {
+      "value": "Software installation; asset tagging and etching; device deployment and setup; asset control reporting; and white glove deployment services including asset decaling, asset reporting, etching, and delivery to varied locations. The submission must also include a detailed plan for tracking shipped products and providing deployment services, with processes and procedures for white glove services.; All deliveries and deployments must use white glove services including asset decaling, asset reporting, etching, and delivery to varied locations; Dallas ISD requires etching only on laptops; Windows devices must use Autopilot and Chromebooks must enroll in Google Management; awarded vendor must coordinate a delivery schedule with the Dallas ISD ED TECH department.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 7,
+          "quote": "| 2. Describe your company's ability to perform each of the deployment services described above. These<br>services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup,<br>and (d) asset control reporting.<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Provide your answer below | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "quote": "| PURPOSE OF REQUEST FOR PROPOSAL (RFP)<br>This Request for Proposal (RFP) will be for student and staff computing devices, including laptops,<br>desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may<br>submit proposals for one, several, or all categories of devices required by the District. Within each category<br>of device, the District reserves the right to award contracts to a single vendor or multiple vendors.<br>The specifications listed in this RFP are the minimum hardware requirements for each tier of device required<br>by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant<br>quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas<br>ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may<br>also include a variety of device accessories which will be ordered in a bundle along with the devices. Such<br>accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not<br>necessarily come with the devices.<br>Each submission must include a detailed plan as to how the vendor will track all shipped products and<br>provide deployment services. Processes and procedures are required in the response, which outlines how<br>tracking will be executed and any processes for providing white glove services.<br>The awarded vendors shall provide Dallas ISD with computing devices that meet all current industry<br>standard specifications. The awarded vendors and Dallas ISD EdTech-Enterprise Support Services shall<br>meet every six months or as needed to discuss technology advancements related to computing devices to<br>be selected by Dallas ISD.<br>Note: For each purchase during the term of the contracts resulting from this RFP, the District will seek<br>competitive quotes from one or more of the awarded vendors. | |"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "6. Reference Page 3/40: All deliveries and deployments must incorporate white glove services,\nwhich include asset decaling, asset reporting, etching, and delivery to varied locations."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "Answer: No, Dallas ISD will only require etching on Laptops."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "Answer: For Windows devices, autopilot is required. For Chromebooks, enrollment in\nGoogle Management is required."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "Answer: Any awarded vendor will need to coordinate a schedule of deliveries with the\nDallas ISD ED TECH department."
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The addendum clarifies existing deployment requirements by stating white glove services remain required, but etching is only required on laptops; it also adds Autopilot for Windows devices, Google Management for Chromebooks, and delivery-schedule coordination with Dallas ISD ED TECH."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Payment Terms": {
+      "value": "Prime vendors must pay all submitted invoices, including retainage, to subcontractors, suppliers, or entities within 10 days of receiving payment from the district. The prime vendor may not withhold a non-disputed subcontractor payment and may not withhold retainage greater than 5% from the subcontractor. A written subcontract must include payment terms and a prompt payment clause.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 51,
+          "quote": "- All Prime vendors must pay all submitted invoices, including retainage to subcontractors, suppliers, or entities\nwithin **10 days** of receiving payment from the district;  \n- No Prime vendor shall withhold a non-disputed subcontractor payment;  \n- No Prime vendor may withhold retainage greater than 5% from the subcontractor.  \n**Contract Execution between Prime Vendor and Subcontractor.** Prime vendor agrees to establish a written contract with\neach subcontractor. At minimum, the contract should include the scope of work, payment terms, prompt payment clause\nand retainage clause."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Payment timing is tied to receipt of payment from the district; subcontract agreements must also include payment terms and prompt payment clause."
+    },
+    "Any Additional Documentation Required": {
+      "value": "With the offer: pertinent literature/documentation for the proposed products/goods/services; if the offeror needs a credit application or similar documentation to do business with Dallas ISD after award, it must be submitted at offer submission; and the offeror must comply with any insurance, bid bond, or liability requirements noted elsewhere in the solicitation. Post-award: a certificate of insurance/bond is required, and the insurance form must be received within 10 days of award. If only non-M/WBE subcontractors will be used, complete the Good Faith Effort section and be prepared to provide supporting documentation upon request for M/WBE audit verification. If federal funds are expended, the required EDGAR certifications/provisions include Buy America, Non-collusion, Access to Records, Never Contract with the Enemy, and record retention; if the federal-funded contract exceeds $100,000, EPA-regulation compliance certification is also required.; Form 1295 (Certificate of Interested Parties) must be submitted with the RFP response.; Sign this addendum and submit/return a copy of the addendum with the proposal, along with the proposal copies.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "quote": "| The Offeror shall furnish to the District all information and data requested by the District to determine the<br>Offeror's qualifications and responsibilities. The requested information must be provided using the PDF<br>version of the solicitation where indicated--do not reference other parts of the Offer or other documents. All<br>answers must be complete and stand-alone. Failure to follow directions using the PDF version of the<br>solicitation may result in the Offer being disqualified or deemed non-responsive. The Offerors shall<br>familiarize themselves with the relevant conditions in the material and labor markets prior to the submission<br>of an offer. By submitting an offer, the Offeror represents that it has familiarized itself with existing and future<br>market conditions and agrees to perform in full accordance with the Offer. The Offeror must comply with any<br>insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.<br>The Offeror must include pertinent literature/documentation for the proposed products/goods or services. If<br>the Offeror requires a credit application or similar documentation to conduct business with Dallas ISD after<br>awarding of any Contract, those documents must be submitted at the time of Offer submission.<br>Dallas ISD prefers responses to be submitted online via our electronic system. Please register with the<br>iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the<br>vendor to please register as early as possible to allow time for electronic responses. Submissions may be<br>submitted manually. Manual submissions must be delivered to the Procurement Services Department, in a<br>sealed envelope by the date and time stated. No fax or email submissions will be accepted. Only one<br>format is needed. The manual submission shall consist of one (1) original hard copy.<br>The Offeror may submit a manual response by paper via mail/FedEx/UPS etc. before the cutoff date and<br>time at the following address:<br>Dallas ISD<br>Procurement Services<br>9400 N Central Expwy, Ste 1510<br>Attn: Staff Member and BID NUMBER<br>Dallas, Tx 75231<br>Does the vendor agree and understand?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes<br>No | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 17,
+          "quote": "| INSURANCE AND/OR BONDS<br>Insurance and/or bond requirements are enumerated elsewhere in Contract documents. Submission of a<br>certificate of insurance/bond by the undersigned (or an agent/broker on behalf of the undersigned)<br>represents that the coverages and perils covered by the insurance/bond meet or exceed the requirements of<br>the solicitation document and/or subsequent contract. The District may reasonably rely on the submitted<br>certificate of insurance/bond. The certificate of insurance/bond must accurately reflect the policy coverages<br>and will become a part of the Contract Documents and incorporated by reference, but the Contract<br>terms/conditions and statement of work take precedence over any and all contents of the certificate of<br>insurance/bond including, but not limited to, disclaimers, qualifications, etc. Failure to provide<br>insurance/bond under the Contract may be cause for termination for default and other remedies allowed by<br>law and/or equity. The offeror must notify the District, in writing, by certified mail or personal delivery, within<br>ten (10) days after the Offeror knew or should have known of any changes that materially affect the<br>insurance/bond coverage. Please acknowledge that you have read and understood that the district can not<br>do business with your company without the submittal of this form. The insurance form must be received<br>within ten (10) days of award. For more information please visit the Dallas ISD's terms and conditions page<br>at https://www.dallasisd.org/Page/81178.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 47,
+          "quote": "**Section 10. | Good Faith Effort**  \nAll district prime vendors are required to demonstrate positive and reasonable good faith efforts to subcontract with M/WBEs.\n_**Complete this section if only non-M/WBE subcontractors will be utilized.**_"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 47,
+          "quote": "|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|**Special Note**: The good faith efforts documentation is subject to an M/WBE audit. Upon request, you will be required to<br> provide supporting documentation for the purpose of verifying your good faith efforts.|"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 22,
+          "quote": "| FEDERAL REQUIREMENTS (EDGAR) |  |\n| The following certifications and provisions are required and apply when Dallas ISD expends federal funds for<br>any contract resulting from this procurement process. Pursuant to 2 C.F.R. 200.326, all contracts, including<br>small purchases, awarded by the District and the District's subcontractors shall contain the procurement<br>provisions of Appendix II to Part 200, as applicable.<br>In addition to other provisions required by the Federal agency or non-Federal entity, all contracts made by<br>the non-Federal entity under the Federal award must contain provisions covering the following, as<br>applicable. |  |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 28,
+          "quote": "| CERTIFICATION OF COMPLIANCE WITH BUY AMERICA PROVISIONS<br>Vendor certifies that Vendor is in compliance with all applicable provisions of the Buy America Act.<br>Purchases made in accordance with the Buy America Act must still follow the applicable procurement rules<br>calling for free and open competition.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |\n| CERTIFICATION OF NON-COLLUSION STATEMENT<br>The vendor certifies under penalty of perjury that its response to this procurement solicitation is in all<br>respects bona fide, fair, and made without collusion or fraud with any person, joint venture, partnership,<br>corporation, or other business or legal entity.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |\n| CERTIFICATION OF ACCESS TO RECORDS - 2 C.F.R. 200.336<br>Vendor agrees that the Inspector General of the District or any of their duly authorized representatives shall<br>have access to any books, documents, papers, and records of Vendor that are directly pertinent to Vendor's<br>discharge of its obligations under the Contract for the purpose of making audits, examinations, excerpts, and<br>transcriptions. The right also includes timely and reasonable access to Vendor's personnel for the purpose<br>of interviews and discussions relating to such documents.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |\n| CERTIFICATION OF COMPLIANCE WITH NEVER CONTRACT WITH THE ENEMY - 2 C.F.R. 200.215<br>Federal awarding agencies and recipients are subject to the regulations implementing Never Contract with<br>the Enemy in 2 CFR part 183. The regulations in 2 CFR part 183 affect covered contracts, grants, and<br>cooperative agreements that are expected to exceed $50,000 within the period of performance, are<br>performed outside the United States and its territories and are in support of a contingency operation in which<br>members of the Armed Forces are actively engaged in hostilities.<br>Does the Vendor agree?<br>-----------------------------------------------------------------------------------------------------------------------------------------------<br>Type<br>……………………………………………………………………………………………………………………………..<br>Circle one from the response values below:<br>Yes - I agree<br>No - I Do not agree . The District shall consider a NO response a basis for non-award and/or cancellation<br>and/or termination of any award | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 27,
+          "quote": "| RECORD RETENTION REQUIREMENTS FOR CONTRACTS INVOLVING FEDERAL FUNDS<br>When federal funds are expended by DALLAS ISD for any contract resulting from this procurement process,<br>the Vendor certifies that it will comply with the record retention requirements detailed in 2 CFR 200.333"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 27,
+          "quote": "| CERTIFICATION OF COMPLIANCE WITH EPA REGULATIONS APPLICABLE TO GRANTS,<br>SUBGRANTS, COOPERATIVE AGREEMENTS, AND CONTRACTS IN EXCESS OF $100,000 OF<br>FEDERAL FUNDS<br>When federal funds are expended by Dallas ISD for any contract resulting from this procurement process in<br>excess of $100,000, the vendor certifies that the vendor is in compliance with all applicable standards,<br>orders, regulations, and/or requirements issued pursuant to the Clean Air Act of 1970, as amended (42<br>U.S.C. 1857(h)), Section 508 of the Clean Water Act, as amended (33 U.S.C"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "31. FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be\nsigned and attached to the Response Attachments, prior to any business transaction.\" Referring\nto \"Response Attachments,\" does Form 1295 have to be submitted with the RFP response or\nafter award, \"prior to any business transaction\"?  \nAnswer: The Form 1295 should be submitted with the RFP response."
+        },
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The addendum expressly requires the bidder to acknowledge and return/submit a copy of the addendum with the proposal, which is an additional required submission document."
+    },
+    "MFG for Registration": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Contract or Cooperative to use": {
+      "value": "Educational Purchasing Cooperative of North Texas (EPCNT) interlocal/rider agreement; Central Texas Purchasing Alliance (CTPA) interlocal agreement - cooperative.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 19,
+          "quote": "| INTERLOCAL AGREEMENT (\"Rider\") CONSENT FORM<br>Dallas ISD is a member of the Educational Purchasing Cooperative of North Texas (EPCNT). Members of<br>EPCNT add this possible rider to their solicitation documents. If the Vendor chooses \"YES\"; to allow EPCNT<br>members to \"ride\" this Agreement (if any) the following will apply: Governmental entities utilizing Internal<br>Governmental contracts with the Dallas ISD will be eligible, but not obligated, to purchase materials/services<br>under the contract(s) awarded as a result of this solicitation. All purchases by a governmental entity other<br>than Dallas ISD will be billed directly to that governmental entity and paid by that governmental entity. Dallas<br>ISD will not be responsible for another governmental entity's debts. Each governmental entity will order its<br>own material/service as needed. A list of current members is available at http://www.epcnt.com. If \"NO\" is<br>selected, there is no adverse impact on the evaluation of the Offeror's proposal to Dallas ISD.<br>1. Interlocal Agreement Clause with a vision of cooperating to improve their procurement power on like<br>products and services, the EPCNT became a reality in 2002 through the coordinated efforts of North Texas<br>public school districts. EPCNT is comprised of public school districts, charter schools, and Region Service<br>Centers located in the Region X and XI Education Service Center areas.<br>2. Authority EPCNT is based on the authority contained in the Interlocal Cooperation Act, Texas<br>Government Code Section 791 et seq. and in Subchapter F, of Chapter 271 of the Texas Local Government<br>Code. The provisions of Chapter 791 of the Texas Government Code and the provisions of Subchapter F, of<br>Chapter 271 of the Texas Local Government Code are incorporated in this Master Agreement and this<br>Master Agreement shall be interpreted under those laws.<br>3. Duties of the Members agree to undertake the following, from time to time, as may be appropriate: a.<br>Coordinate and host multi-governmental entity solicitations for purchase of goods and services from third-<br>party vendors, as may be determined from time to time to be cost-effective and provide efficiencies as<br>consolidated purchases. b. Make available specifications, documents, software, procedures, and related<br>items in connection with bidding and purchasing processes. c. Actively participate in and provide support to<br>meetings and other activities conducted by the EPCNT. d. Maintain as confidential, subject to the Texas<br>Public Information Act, the information supplied by Parties to the EPCNT and deemed by the EPCNT to be<br>confidential. | |\n| 4. Purchasing Authority a. All district or cross-district contracts for the purchase of goods and services,<br>regardless of whether formed as a result of EPCNT activity or interaction shall be directly between the<br>Members or Participants or combinations of the Parties and Vendors providing goods and services to the<br>associated governmental entities. b. The EPCNT, in and of itself, shall not have any authority to make<br>purchases of goods and services directly with vendors or contractually binds its Members or Participants to<br>any third-party agreements for the purchase of products and services. c. The EPCNT shall be governed by<br>the laws of the State of Texas respecting independent school districts.<br>5. Agreement Consent Acknowledgement Several governmental entities around the Dallas ISD have | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 20,
+          "quote": "CENTRAL TEXAS PURCHASING ALLIANCE (CTPA)\nInterlocal Agreement - Cooperative\nDallas ISD is a member of the Central Texas Purchasing Alliance (CTPA), an alliance of school districts in\nthe central Texas area that share information, services, and contractual opportunities. In support of this\ncollaborative effort, a response of YES to CTPA indicates that the Respondent is interested in extending\nservices to other CTPA member districts. However, there is no obligation on either party to participate unless\nboth parties agree. Services would be provided under the same contract pricing and purchasing terms\nestablished by this request. A negative reply by the Respondent will not adversely affect consideration of the"
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Referenced cooperatives only; the evidence does not establish a single mandatory contract vehicle. EPCNT language says governmental entities utilizing internal governmental contracts with Dallas ISD are eligible, but not obligated, to purchase under awarded contracts. CTPA language says there is no obligation on either party to participate unless both parties agree."
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Product": {
+      "value": "Requested device categories are laptops, desktops, tablet devices, and display monitors. The solicitation says quantities requested in the pricing lines are estimates to be ordered over the five-year contract term. The price schedule shows target quantity 1 each for the device line items, and the evaluation-purpose quantities are 50,000 Tier 1 Small Student Chromebook Laptop (Touch), 50,000 Tier 2 Large Student Chromebook Laptop (Non-Touch), 5,000 Tier 3 Student Windows Laptop, 50,000 Student Tablet, 10,000 Tier 1 Staff Laptop, 10,000 Tier 2 Staff Laptop, 5,000 Tier 1 Staff Basic Desktop, 5,000 Tier 2 Staff Professional Desktop, 5,000 Display Monitor - Touch, and 5,000 Display Monitor - Non-Touch.; Student Chromebooks; student and staff Windows laptops. Quantities will fluctuate, and a monthly estimate per category cannot be provided.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "quote": "| PURPOSE OF REQUEST FOR PROPOSAL (RFP)<br>This Request for Proposal (RFP) will be for student and staff computing devices, including laptops,<br>desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may<br>submit proposals for one, several, or all categories of devices required by the District. Within each category<br>of device, the District reserves the right to award contracts to a single vendor or multiple vendors.<br>The specifications listed in this RFP are the minimum hardware requirements for each tier of device required<br>by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant<br>quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas<br>ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may<br>also include a variety of device accessories which will be ordered in a bundle along with the devices. Such<br>accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not<br>necessarily come with the devices.<br>Each submission must include a detailed plan as to how the vendor will track all shipped products and<br>provide deployment services. Processes and procedures are required in the response, which outlines how<br>tracking will be executed and any processes for providing white glove services.<br>The awarded vendors shall provide Dallas ISD with computing devices that meet all current industry<br>standard specifications. The awarded vendors and Dallas ISD EdTech-Enterprise Support Services shall<br>meet every six months or as needed to discuss technology advancements related to computing devices to<br>be selected by Dallas ISD.<br>Note: For each purchase during the term of the contracts resulting from this RFP, the District will seek<br>competitive quotes from one or more of the awarded vendors. | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 34,
+          "quote": "|1 Tier 1 Small Student<br>Chromebook Laptop<br>(Touch)<br>||1<br>|Each<br>||||\n|2 Tier 2 Large Student<br>Chromebook Laptop<br>(Non- Touch)<br>||1<br>|Each<br>||||\n|<br>3 Tier 3 Student<br>Windows Laptop<br>||1<br>|Each<br>||||\n|<br>4 Student Tablet<br>||1<br>|Each<br>||||\n|<br>5 Tier 1 Staff Basic<br>Desktop<br>||1<br>|Each<br>||||\n|6 Tier 2 Staff<br>Professional Desktop<br>||1<br>|Each<br>||||\n|<br>7 Tier 1 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>8 Tier 2 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>9 Display Monitor -<br>Touch<br>||1<br>|Each<br>||||\n|10 Display Monitor -<br>Non-Touch<br>||1<br>|Each<br>||||"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "quote": "|15.01 Tier 1 Small<br>Student Chromebook<br>Laptop (Touch)<br>||50,000<br>|Each<br>||||\n|<br>15.02 Tier 2 Large<br>Student Chromebook<br>Laptop (Non- Touch)<br>||50,000|Each||||\n|<br>16 STUDENT<br>LAPTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|16.01 Tier 3 Student<br>Windows Laptop<br>||5,000|Each||||\n|<br>17 STUDENT<br>TABLETS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|17.01 Student Tablet<br>||50,000|Each||||"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "quote": "|18.01 Tier 1 Staff<br>Laptop<br>||10,000<br>|Each<br>||||\n|18.02 Tier 2 Staff<br>Laptop<br>||10,000|Each||||\n|19 STAFF<br>DESKTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|19.01 Tier 1 Staff<br>Basic Desktop<br>||5,000<br>|Each<br>||||\n|<br>19.02 Tier 2 Staff<br>Professional Desktop<br>||5,000|Each||||\n|<br>20 MONITORS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|20.01 Display Monitor<br>- Touch<br>||5,000<br>|Each<br>||||\n|<br>20.02 Display Monitor<br>- Non-Touch||5,000|Each||||"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "student Chromebooks and three years for student and staff Windows laptops. The\nsystem will only take one input, additional warranty information and pricing can be\nsubmitted as an attachment."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "35. Anticipated Equipment Quantities: Can they provide monthly QTY’s per category?\nAnswer: Quantities will fluctuate, a monthly estimate cannot be provided."
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "The addendum adds a quantity clarification that quantities will fluctuate and a monthly estimate cannot be provided, without replacing the broader device categories already listed."
+    },
+    "contact_info": {
+      "value": "Sherri Williams — shewilli@dallasisd.org; Procurement Services — 972-925-3700, ProcurementCS@dallasisd.org",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 61,
+          "quote": "_Please direct all procurement questions to Sherri Williams at shewilli@dallasisd.org._"
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Procurement Services  \n972-925-3700  \nProcurementCS@dallasisd.org  "
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "The solicitation explicitly directs procurement questions to Sherri Williams at the listed email. A separate contact-information block also lists Procurement Services with a phone number and email; no direct phone for Sherri Williams is stated in the supplied evidence."
+    },
+    "company_name": {
+      "value": "Dallas Independent School District",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 31,
+          "quote": "| DALLAS ISD DEMOGRAPHICS<br>The Dallas Independent School District sits in the heart of a large, diverse and dynamic region with a<br>metropolitan population of 6.5 million people in the 12 counties in North Central Texas. Dallas ISD<br>comprises 384 square miles and encompasses the cities of Dallas, Cockrell Hill, Seagoville, Addison,<br>Wilmer, Hutchins and parts of Carrollton, DeSoto, Duncanville, Farmers Branch, Garland, Highland Park,<br>Lancaster, Mesquite, Balch Springs, and Combine. The district is the second-largest public school district in<br>the state and the 16th-largest in the nation. We are proud of our award-winning schools, outstanding<br>teachers and staff, committed parents and volunteers who comprise the dedicated team that serves<br>approximately 141,000 students in prekindergarten through 12th grade, in 240 schools, served by more than<br>23,000 dedicated professionals. | |"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Issuing district named in the document."
+    },
+    "Bid Summary": {
+      "value": "Dallas Independent School District issued bid JA-207652 titled RFP JA-207652 Student and Staff Computing Devices. The new due date is July 9, 2024 at 2:00 PM CST. Dallas ISD prefers online submission through the electronic system/iSupplier portal, but manual sealed-envelope submissions are also allowed and no fax or email submissions will be accepted. The solicitation covers student and staff computing devices including laptops, desktops, tablet devices, and display monitors. A pre-proposal meeting was listed for June 10, 2024 at 2:00 PM CST via TEAMS, and the bid portal separately listed a prebid conference for 06/10/2024 03:00 PM EDT.",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "Solicitation Number  \nJA-207652  "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "Request For Proposal 168884 JA-207652 Student and Staff Computing Devices  "
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "**ADDENDUM No. 1**\n**RFP JA-207652 Student and Staff Computing Devices**  "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 31,
+          "quote": "| DALLAS ISD DEMOGRAPHICS<br>The Dallas Independent School District sits in the heart of a large, diverse and dynamic region with a<br>metropolitan population of 6.5 million people in the 12 counties in North Central Texas. Dallas ISD<br>comprises 384 square miles and encompasses the cities of Dallas, Cockrell Hill, Seagoville, Addison,<br>Wilmer, Hutchins and parts of Carrollton, DeSoto, Duncanville, Farmers Branch, Garland, Highland Park,<br>Lancaster, Mesquite, Balch Springs, and Combine. The district is the second-largest public school district in<br>the state and the 16th-largest in the nation. We are proud of our award-winning schools, outstanding<br>teachers and staff, committed parents and volunteers who comprise the dedicated team that serves<br>approximately 141,000 students in prekindergarten through 12th grade, in 240 schools, served by more than<br>23,000 dedicated professionals. | |"
+        },
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "The Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "quote": "Dallas ISD prefers responses to be submitted online via our electronic system. Please register with the\niSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the\nvendor to please register as early as possible to allow time for electronic responses. Submissions may be"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "quote": "submitted manually. Manual submissions must be delivered to the Procurement Services Department, in a\nsealed envelope by the date and time stated. No fax or email submissions will be accepted. Only one\nformat is needed. The manual submission shall consist of one (1) original hard copy.\nThe Offeror may submit a manual response by paper via mail/FedEx/UPS etc. before the cutoff date and\ntime at the following address:\nDallas ISD\nProcurement Services\n9400 N Central Expwy, Ste 1510\nAttn: Staff Member and BID NUMBER\nDallas, Tx 75231"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "Answer: If responding electronically, a pdf version is not required. Manual responses\nshould have direct edits on the PDF, supporting documentation can be included as part\nof the submission for those areas that are not sufficient in space."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 5,
+          "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER**\n**PROVISIONS, AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED**\n**TO ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "quote": "| PURPOSE OF REQUEST FOR PROPOSAL (RFP)<br>This Request for Proposal (RFP) will be for student and staff computing devices, including laptops,<br>desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may<br>submit proposals for one, several, or all categories of devices required by the District. Within each category<br>of device, the District reserves the right to award contracts to a single vendor or multiple vendors.<br>The specifications listed in this RFP are the minimum hardware requirements for each tier of device required<br>by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant<br>quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas<br>ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may<br>also include a variety of device accessories which will be ordered in a bundle along with the devices. Such<br>accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not<br>necessarily come with the devices.<br>Each submission must include a detailed plan as to how the vendor will track all shipped products and<br>provide deployment services. Processes and procedures are required in the response, which outlines how<br>tracking will be executed and any processes for providing white glove services.<br>The awarded vendors shall provide Dallas ISD with computing devices that meet all current industry<br>standard specifications. The awarded vendors and Dallas ISD EdTech-Enterprise Support Services shall<br>meet every six months or as needed to discuss technology advancements related to computing devices to<br>be selected by Dallas ISD.<br>Note: For each purchase during the term of the contracts resulting from this RFP, the District will seek<br>competitive quotes from one or more of the awarded vendors. | |"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 34,
+          "quote": "|1 Tier 1 Small Student<br>Chromebook Laptop<br>(Touch)<br>||1<br>|Each<br>||||\n|2 Tier 2 Large Student<br>Chromebook Laptop<br>(Non- Touch)<br>||1<br>|Each<br>||||\n|<br>3 Tier 3 Student<br>Windows Laptop<br>||1<br>|Each<br>||||\n|<br>4 Student Tablet<br>||1<br>|Each<br>||||\n|<br>5 Tier 1 Staff Basic<br>Desktop<br>||1<br>|Each<br>||||\n|6 Tier 2 Staff<br>Professional Desktop<br>||1<br>|Each<br>||||\n|<br>7 Tier 1 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>8 Tier 2 Staff Laptop<br>||1<br>|Each<br>||||\n|<br>9 Display Monitor -<br>Touch<br>||1<br>|Each<br>||||\n|10 Display Monitor -<br>Non-Touch<br>||1<br>|Each<br>||||"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "quote": "|15.01 Tier 1 Small<br>Student Chromebook<br>Laptop (Touch)<br>||50,000<br>|Each<br>||||\n|<br>15.02 Tier 2 Large<br>Student Chromebook<br>Laptop (Non- Touch)<br>||50,000|Each||||\n|<br>16 STUDENT<br>LAPTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|16.01 Tier 3 Student<br>Windows Laptop<br>||5,000|Each||||\n|<br>17 STUDENT<br>TABLETS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|17.01 Student Tablet<br>||50,000|Each||||"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 35,
+          "quote": "|18.01 Tier 1 Staff<br>Laptop<br>||10,000<br>|Each<br>||||\n|18.02 Tier 2 Staff<br>Laptop<br>||10,000|Each||||\n|19 STAFF<br>DESKTOPS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|19.01 Tier 1 Staff<br>Basic Desktop<br>||5,000<br>|Each<br>||||\n|<br>19.02 Tier 2 Staff<br>Professional Desktop<br>||5,000|Each||||\n|<br>20 MONITORS - FOR<br>EVALUATION<br>PURPOSES (Pricing<br>required to be<br>considered for this<br>category)<br>|||||||\n|20.01 Display Monitor<br>- Touch<br>||5,000<br>|Each<br>||||\n|<br>20.02 Display Monitor<br>- Non-Touch||5,000|Each||||"
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "quote": "student Chromebooks and three years for student and staff Windows laptops. The\nsystem will only take one input, additional warranty information and pricing can be\nsubmitted as an attachment."
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "quote": "35. Anticipated Equipment Quantities: Can they provide monthly QTY’s per category?\nAnswer: Quantities will fluctuate, a monthly estimate cannot be provided."
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "Pre-Proposal Meeting **10-JUN-2024 14:00:00**"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "_**Pre-Proposal**_ A pre-proposal meeting will be held at 2:00 PM CST via TEAMS video conference on June 10,"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "quote": "2024. Please submit (in writing) any questions regarding this RFP. Only written questions will be\nconsidered. It is highly encouraged that all potential proposers participate and attend the preproposal.  \nJoin TEAMS Meeting: https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting\nMeeting ID: 270 031 467 036\nPasscode: N9ndKY  "
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "quote": "### Pre-Bidding Events  \n* Event Type  \nPrebid Conference  \nAttendance  \nN/A  \nEvent date  \n06/10/2024 03:00 PM EDT"
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "Generated from validated fields; confidence is an uncalibrated estimate."
+    },
+    "Product Specification": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents; validation failed: Structured extraction failed in scope None"
+    }
+  },
+  "addendum_changes": [
+    {
+      "field": "Title",
+      "old": "Student and Staff Computing Devices **SOURCING #168884**",
+      "new": "RFP JA-207652 Student and Staff Computing Devices",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "**ADDENDUM No. 1**\n**RFP JA-207652 Student and Staff Computing Devices**  "
+      }
+    },
+    {
+      "field": "Installation",
+      "old": "Software installation; asset tagging and etching; device deployment and setup; asset control reporting; and white glove deployment services including asset decaling, asset reporting, etching, and delivery to varied locations. The submission must also include a detailed plan for tracking shipped products and providing deployment services, with processes and procedures for white glove services.",
+      "new": "Software installation; asset tagging and etching; device deployment and setup; asset control reporting; and white glove deployment services including asset decaling, asset reporting, etching, and delivery to varied locations. The submission must also include a detailed plan for tracking shipped products and providing deployment services, with processes and procedures for white glove services.; All deliveries and deployments must use white glove services including asset decaling, asset reporting, etching, and delivery to varied locations; Dallas ISD requires etching only on laptops; Windows devices must use Autopilot and Chromebooks must enroll in Google Management; awarded vendor must coordinate a delivery schedule with the Dallas ISD ED TECH department.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "6. Reference Page 3/40: All deliveries and deployments must incorporate white glove services,\nwhich include asset decaling, asset reporting, etching, and delivery to varied locations."
+      }
+    },
+    {
+      "field": "Any Additional Documentation Required",
+      "old": "With the offer: pertinent literature/documentation for the proposed products/goods/services; if the offeror needs a credit application or similar documentation to do business with Dallas ISD after award, it must be submitted at offer submission; and the offeror must comply with any insurance, bid bond, or liability requirements noted elsewhere in the solicitation. Post-award: a certificate of insurance/bond is required, and the insurance form must be received within 10 days of award. If only non-M/WBE subcontractors will be used, complete the Good Faith Effort section and be prepared to provide supporting documentation upon request for M/WBE audit verification. If federal funds are expended, the required EDGAR certifications/provisions include Buy America, Non-collusion, Access to Records, Never Contract with the Enemy, and record retention; if the federal-funded contract exceeds $100,000, EPA-regulation compliance certification is also required.",
+      "new": "With the offer: pertinent literature/documentation for the proposed products/goods/services; if the offeror needs a credit application or similar documentation to do business with Dallas ISD after award, it must be submitted at offer submission; and the offeror must comply with any insurance, bid bond, or liability requirements noted elsewhere in the solicitation. Post-award: a certificate of insurance/bond is required, and the insurance form must be received within 10 days of award. If only non-M/WBE subcontractors will be used, complete the Good Faith Effort section and be prepared to provide supporting documentation upon request for M/WBE audit verification. If federal funds are expended, the required EDGAR certifications/provisions include Buy America, Non-collusion, Access to Records, Never Contract with the Enemy, and record retention; if the federal-funded contract exceeds $100,000, EPA-regulation compliance certification is also required.; Form 1295 (Certificate of Interested Parties) must be submitted with the RFP response.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 4,
+        "quote": "31. FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be\nsigned and attached to the Response Attachments, prior to any business transaction.\" Referring\nto \"Response Attachments,\" does Form 1295 have to be submitted with the RFP response or\nafter award, \"prior to any business transaction\"?  \nAnswer: The Form 1295 should be submitted with the RFP response."
+      }
+    },
+    {
+      "field": "Product",
+      "old": "Requested device categories are laptops, desktops, tablet devices, and display monitors. The solicitation says quantities requested in the pricing lines are estimates to be ordered over the five-year contract term. The price schedule shows target quantity 1 each for the device line items, and the evaluation-purpose quantities are 50,000 Tier 1 Small Student Chromebook Laptop (Touch), 50,000 Tier 2 Large Student Chromebook Laptop (Non-Touch), 5,000 Tier 3 Student Windows Laptop, 50,000 Student Tablet, 10,000 Tier 1 Staff Laptop, 10,000 Tier 2 Staff Laptop, 5,000 Tier 1 Staff Basic Desktop, 5,000 Tier 2 Staff Professional Desktop, 5,000 Display Monitor - Touch, and 5,000 Display Monitor - Non-Touch.",
+      "new": "Requested device categories are laptops, desktops, tablet devices, and display monitors. The solicitation says quantities requested in the pricing lines are estimates to be ordered over the five-year contract term. The price schedule shows target quantity 1 each for the device line items, and the evaluation-purpose quantities are 50,000 Tier 1 Small Student Chromebook Laptop (Touch), 50,000 Tier 2 Large Student Chromebook Laptop (Non-Touch), 5,000 Tier 3 Student Windows Laptop, 50,000 Student Tablet, 10,000 Tier 1 Staff Laptop, 10,000 Tier 2 Staff Laptop, 5,000 Tier 1 Staff Basic Desktop, 5,000 Tier 2 Staff Professional Desktop, 5,000 Display Monitor - Touch, and 5,000 Display Monitor - Non-Touch.; Student Chromebooks; student and staff Windows laptops. Quantities will fluctuate, and a monthly estimate per category cannot be provided.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "student Chromebooks and three years for student and staff Windows laptops. The\nsystem will only take one input, additional warranty information and pricing can be\nsubmitted as an attachment."
+      }
+    },
+    {
+      "field": "Due Date",
+      "old": "27-JUN-2024 14:00:00",
+      "new": "July 9, 2024 at 2:00 PM CST",
+      "source": {
+        "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "The Purpose of this Addendum is to **extend the due date of this RFP.**  \nThe new due date for this RFP will be **July 9, 2024 at 2:00 PM CST.**  "
+      }
+    },
+    {
+      "field": "Any Additional Documentation Required",
+      "old": "With the offer: pertinent literature/documentation for the proposed products/goods/services; if the offeror needs a credit application or similar documentation to do business with Dallas ISD after award, it must be submitted at offer submission; and the offeror must comply with any insurance, bid bond, or liability requirements noted elsewhere in the solicitation. Post-award: a certificate of insurance/bond is required, and the insurance form must be received within 10 days of award. If only non-M/WBE subcontractors will be used, complete the Good Faith Effort section and be prepared to provide supporting documentation upon request for M/WBE audit verification. If federal funds are expended, the required EDGAR certifications/provisions include Buy America, Non-collusion, Access to Records, Never Contract with the Enemy, and record retention; if the federal-funded contract exceeds $100,000, EPA-regulation compliance certification is also required.; Form 1295 (Certificate of Interested Parties) must be submitted with the RFP response.",
+      "new": "With the offer: pertinent literature/documentation for the proposed products/goods/services; if the offeror needs a credit application or similar documentation to do business with Dallas ISD after award, it must be submitted at offer submission; and the offeror must comply with any insurance, bid bond, or liability requirements noted elsewhere in the solicitation. Post-award: a certificate of insurance/bond is required, and the insurance form must be received within 10 days of award. If only non-M/WBE subcontractors will be used, complete the Good Faith Effort section and be prepared to provide supporting documentation upon request for M/WBE audit verification. If federal funds are expended, the required EDGAR certifications/provisions include Buy America, Non-collusion, Access to Records, Never Contract with the Enemy, and record retention; if the federal-funded contract exceeds $100,000, EPA-regulation compliance certification is also required.; Form 1295 (Certificate of Interested Parties) must be submitted with the RFP response.; Sign this addendum and submit/return a copy of the addendum with the proposal, along with the proposal copies.",
+      "source": {
+        "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 1,
+        "quote": "**Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS**\n**AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO**\n**ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL** .  "
+      }
+    },
+    {
+      "field": "Bid Submission Type",
+      "old": "Preferred submission is online via the electronic system/iSupplier portal. Manual submissions are allowed, but they must be delivered to the Procurement Services Department in a sealed envelope; no fax or email submissions will be accepted; the manual submission must consist of one original hard copy; and paper submissions may be sent by mail/FedEx/UPS to the Dallas ISD Procurement Services address provided.",
+      "new": "Preferred submission is online via the electronic system/iSupplier portal. Manual submissions are allowed, but they must be delivered to the Procurement Services Department in a sealed envelope; no fax or email submissions will be accepted; the manual submission must consist of one original hard copy; and paper submissions may be sent by mail/FedEx/UPS to the Dallas ISD Procurement Services address provided.; If responding electronically, a PDF version is not required. Manual responses should have direct edits on the PDF, and supporting documentation can be included as part of the submission. Bidders must sign the addendum and submit/return a copy with their proposal copies.",
+      "source": {
+        "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "page": 4,
+        "quote": "Answer: If responding electronically, a pdf version is not required. Manual responses\nshould have direct edits on the PDF, supporting documentation can be included as part\nof the submission for those areas that are not sufficient in space."
+      }
+    }
+  ],
+  "validation": {
+    "passed": 14,
+    "failed": 1,
+    "not_found": 5
+  }
+}

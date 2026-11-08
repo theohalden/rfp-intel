@@ -113,6 +113,20 @@ class ExtractionWorkflow:
                  'text_source': h.metadata.text_source, 'numbered_lines': [
                      {'line': i + 1, 'text': line} for i, line in enumerate(h.text.splitlines())]} for h in hits]
 
+    def within_budget(self, hits: list[SearchHit]) -> list[SearchHit]:
+        """Send the model only as many retrieved passages as the per-call budget allows.
+
+        Passages keep their retrieval order, so lower-ranked ones are dropped first; the
+        first passage is always kept. Dropped passages stay in the pool used for quote checks.
+        """
+        kept, used = [], 0
+        for hit in hits:
+            if kept and used + len(hit.text) > self.settings.agents.max_evidence_chars:
+                continue
+            kept.append(hit)
+            used += len(hit.text)
+        return kept
+
     def collect(self, state: State, names: list[str], attempt: int = 0) -> tuple[dict, dict, dict]:
         """Retrieve independently for every field and every document scope."""
         scopes = [None, *self.tool.addenda]
@@ -165,7 +179,7 @@ class ExtractionWorkflow:
                     {'requested_fields': [{'name': field, 'query': prompts.FIELD_QUERIES[field],
                         'notes': prompts.FIELD_NOTES.get(field, '')}],
                      'scope': 'base' if scope is None else f'Addendum {scope}',
-                     'evidence': self.passages(hits),
+                     'evidence': self.passages(self.within_budget(hits)),
                      'previous_validation_feedback': {field: state.get('issues', {}).get(field, [])}})
                 if not isinstance(result, ExtractionBatch):
                     drafts[field].problems.append(f'Structured extraction failed in scope {scope}')
